@@ -34,23 +34,23 @@ VExpander (VariableExpander
 vvMap [
 (vvPair
 variable "HDLDir"
-value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\tb_lib\\hdl"
+value "P:\\digital_design\\template_a2019\\tb_lib_1\\hdl"
 )
 (vvPair
 variable "HDSDir"
-value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\tb_lib\\hds"
+value "P:\\digital_design\\template_a2019\\tb_lib_1\\hds"
 )
 (vvPair
 variable "SideDataDesignDir"
-value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\tb_lib\\hds\\tb_pixel_conf\\struct.bd.info"
+value "P:\\digital_design\\template_a2019\\tb_lib_1\\hds\\tb_pixel_conf\\struct.bd.info"
 )
 (vvPair
 variable "SideDataUserDir"
-value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\tb_lib\\hds\\tb_pixel_conf\\struct.bd.user"
+value "P:\\digital_design\\template_a2019\\tb_lib_1\\hds\\tb_pixel_conf\\struct.bd.user"
 )
 (vvPair
 variable "SourceDir"
-value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\tb_lib\\hds"
+value "P:\\digital_design\\template_a2019\\tb_lib_1\\hds"
 )
 (vvPair
 variable "appl"
@@ -66,27 +66,27 @@ value "%(unit)_%(view)_config"
 )
 (vvPair
 variable "d"
-value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\tb_lib\\hds\\tb_pixel_conf"
+value "P:\\digital_design\\template_a2019\\tb_lib_1\\hds\\tb_pixel_conf"
 )
 (vvPair
 variable "d_logical"
-value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\tb_lib\\hds\\tb_pixel_conf"
+value "P:\\digital_design\\template_a2019\\tb_lib_1\\hds\\tb_pixel_conf"
 )
 (vvPair
 variable "date"
-value " 9.09.2019"
+value "12.09.2019"
 )
 (vvPair
 variable "day"
-value "ma"
+value "to"
 )
 (vvPair
 variable "day_long"
-value "maanantai"
+value "torstai"
 )
 (vvPair
 variable "dd"
-value "09"
+value "12"
 )
 (vvPair
 variable "entity_name"
@@ -114,7 +114,7 @@ value "kayra"
 )
 (vvPair
 variable "graphical_source_date"
-value "09/09/19"
+value "09/12/19"
 )
 (vvPair
 variable "graphical_source_group"
@@ -122,7 +122,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_time"
-value "16:16:04"
+value "13:52:19"
 )
 (vvPair
 variable "group"
@@ -138,7 +138,7 @@ value "VHDL"
 )
 (vvPair
 variable "library"
-value "tb_lib"
+value "tb_lib_1"
 )
 (vvPair
 variable "library_downstream_ModelSimCompiler"
@@ -162,11 +162,11 @@ value "syyskuu"
 )
 (vvPair
 variable "p"
-value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\tb_lib\\hds\\tb_pixel_conf\\struct.bd"
+value "P:\\digital_design\\template_a2019\\tb_lib_1\\hds\\tb_pixel_conf\\struct.bd"
 )
 (vvPair
 variable "p_logical"
-value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\tb_lib\\hds\\tb_pixel_conf\\struct.bd"
+value "P:\\digital_design\\template_a2019\\tb_lib_1\\hds\\tb_pixel_conf\\struct.bd"
 )
 (vvPair
 variable "package_name"
@@ -222,7 +222,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "16:16:04"
+value "13:52:19"
 )
 (vvPair
 variable "unit"
@@ -399,9 +399,10 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "53200,45200,59000,46200"
+xt "53200,45200,66800,46200"
 st "
-HELLO_PIXEL
+TB for first part of the Hello LED task
+
 "
 tm "CommentText"
 wrapOption 3
@@ -459,9 +460,9 @@ uid 31,0
 va (VaSet
 fg "32768,0,0"
 )
-xt "41500,44500,43500,45500"
+xt "38700,44500,46300,45500"
 st "
-TUT
+Tampere University
 "
 ju 0
 tm "CommentText"
@@ -553,7 +554,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "36200,47000,45900,48000"
+xt "36200,47000,46700,48000"
 st "
 %library/%unit/%view
 "
@@ -594,8 +595,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,3800,45500,4600"
-st "SIGNAL x     : std_logic_vector(7 DOWNTO 0)
-"
+st "SIGNAL x     : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *13 (Net
@@ -613,8 +613,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,4600,45500,5400"
-st "SIGNAL y     : std_logic_vector(7 DOWNTO 0)
-"
+st "SIGNAL y     : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *14 (Net
@@ -632,8 +631,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,3000,46000,3800"
-st "SIGNAL color : std_logic_vector(23 DOWNTO 0)
-"
+st "SIGNAL color : std_logic_vector(23 DOWNTO 0)"
 )
 )
 *15 (SaComponent
@@ -1047,12 +1045,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "1273,0,2567,1407"
-viewArea "-1100,-18500,73520,69210"
+windowSize "1265,0,2561,1407"
+viewArea "-1100,-18500,81042,65451"
 cachedDiagramExtent "0,0,73000,49000"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
-lastUid 317,0
+lastUid 375,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0

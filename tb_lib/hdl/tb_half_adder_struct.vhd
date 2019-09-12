@@ -1,4 +1,4 @@
--- VHDL Entity tb_lib.tb_half_adder.symbol
+-- VHDL Entity tb_lib_1.tb_half_adder.symbol
 --
 -- Created:
 --          by - kayra
@@ -16,7 +16,7 @@ ENTITY tb_half_adder IS
 END tb_half_adder ;
 
 --
--- VHDL Architecture tb_lib.tb_half_adder.struct
+-- VHDL Architecture tb_lib_1.tb_half_adder.struct
 --
 -- Created:
 --          by - kayra

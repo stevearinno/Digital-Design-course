@@ -34,23 +34,23 @@ VExpander (VariableExpander
 vvMap [
 (vvPair
 variable "HDLDir"
-value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\tb_lib\\hdl"
+value "P:\\digital_design\\template_a2019\\tb_lib_1\\hdl"
 )
 (vvPair
 variable "HDSDir"
-value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\tb_lib\\hds"
+value "P:\\digital_design\\template_a2019\\tb_lib_1\\hds"
 )
 (vvPair
 variable "SideDataDesignDir"
-value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\tb_lib\\hds\\tb_half_adder\\struct.bd.info"
+value "P:\\digital_design\\template_a2019\\tb_lib_1\\hds\\tb_half_adder\\struct.bd.info"
 )
 (vvPair
 variable "SideDataUserDir"
-value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\tb_lib\\hds\\tb_half_adder\\struct.bd.user"
+value "P:\\digital_design\\template_a2019\\tb_lib_1\\hds\\tb_half_adder\\struct.bd.user"
 )
 (vvPair
 variable "SourceDir"
-value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\tb_lib\\hds"
+value "P:\\digital_design\\template_a2019\\tb_lib_1\\hds"
 )
 (vvPair
 variable "appl"
@@ -66,27 +66,27 @@ value "%(unit)_%(view)_config"
 )
 (vvPair
 variable "d"
-value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\tb_lib\\hds\\tb_half_adder"
+value "P:\\digital_design\\template_a2019\\tb_lib_1\\hds\\tb_half_adder"
 )
 (vvPair
 variable "d_logical"
-value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\tb_lib\\hds\\tb_half_adder"
+value "P:\\digital_design\\template_a2019\\tb_lib_1\\hds\\tb_half_adder"
 )
 (vvPair
 variable "date"
-value " 9.09.2019"
+value "12.09.2019"
 )
 (vvPair
 variable "day"
-value "ma"
+value "to"
 )
 (vvPair
 variable "day_long"
-value "maanantai"
+value "torstai"
 )
 (vvPair
 variable "dd"
-value "09"
+value "12"
 )
 (vvPair
 variable "entity_name"
@@ -114,7 +114,7 @@ value "kayra"
 )
 (vvPair
 variable "graphical_source_date"
-value "09/09/19"
+value "09/12/19"
 )
 (vvPair
 variable "graphical_source_group"
@@ -122,7 +122,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_time"
-value "10:53:36"
+value "13:51:18"
 )
 (vvPair
 variable "group"
@@ -138,7 +138,7 @@ value "VHDL"
 )
 (vvPair
 variable "library"
-value "tb_lib"
+value "tb_lib_1"
 )
 (vvPair
 variable "library_downstream_ModelSimCompiler"
@@ -162,11 +162,11 @@ value "syyskuu"
 )
 (vvPair
 variable "p"
-value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\tb_lib\\hds\\tb_half_adder\\struct.bd"
+value "P:\\digital_design\\template_a2019\\tb_lib_1\\hds\\tb_half_adder\\struct.bd"
 )
 (vvPair
 variable "p_logical"
-value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\tb_lib\\hds\\tb_half_adder\\struct.bd"
+value "P:\\digital_design\\template_a2019\\tb_lib_1\\hds\\tb_half_adder\\struct.bd"
 )
 (vvPair
 variable "package_name"
@@ -222,7 +222,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "10:53:36"
+value "13:51:18"
 )
 (vvPair
 variable "unit"
@@ -274,7 +274,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "36200,48000,46500,49000"
+xt "36200,48000,45900,49000"
 st "
 by %user on %dd %month %year
 "
@@ -398,9 +398,10 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "53200,45200,72900,46200"
+xt "53200,45200,68400,47200"
 st "
-Simple testbench that tries various input combinations
+Simple testbench that tries various input 
+combinations.
 "
 tm "CommentText"
 wrapOption 3
@@ -458,9 +459,9 @@ uid 31,0
 va (VaSet
 fg "32768,0,0"
 )
-xt "41500,44500,43500,45500"
+xt "38700,44500,46300,45500"
 st "
-TUT
+Tampere University
 "
 ju 0
 tm "CommentText"
@@ -552,7 +553,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "36200,47000,46000,48000"
+xt "36200,47000,46800,48000"
 st "
 %library/%unit/%view
 "
@@ -592,8 +593,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,3000,35500,3800"
-st "SIGNAL carry : std_logic
-"
+st "SIGNAL carry : std_logic"
 )
 )
 *13 (Net
@@ -610,8 +610,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,3800,35500,4600"
-st "SIGNAL sum   : std_logic
-"
+st "SIGNAL sum   : std_logic"
 )
 )
 *14 (Net
@@ -628,8 +627,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,4600,35500,5400"
-st "SIGNAL sw0   : std_logic
-"
+st "SIGNAL sw0   : std_logic"
 )
 )
 *15 (Net
@@ -646,8 +644,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,5400,35500,6200"
-st "SIGNAL sw1   : std_logic
-"
+st "SIGNAL sw1   : std_logic"
 )
 )
 *16 (SaComponent
@@ -1146,12 +1143,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "839,135,2213,1173"
-viewArea "-1100,-1100,74536,55396"
+windowSize "839,135,2214,1173"
+viewArea "-1100,-1100,77200,51940"
 cachedDiagramExtent "0,0,73000,49000"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
-lastUid 590,0
+lastUid 621,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
