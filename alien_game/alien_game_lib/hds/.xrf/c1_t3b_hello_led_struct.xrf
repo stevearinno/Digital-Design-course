@@ -1,0 +1,96 @@
+DESIGN c1_t3b_hello_led
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN c1_t3b_hello_led
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN c1_t3b_hello_led
+VIEW symbol.sb
+GRAPHIC 116,0 14 0 
+DESIGN c1_t3b_hello_led
+VIEW symbol.sb
+GRAPHIC 131,0 15 0 
+DESIGN c1_t3b_hello_led
+VIEW symbol.sb
+GRAPHIC 121,0 16 0 
+DESIGN c1_t3b_hello_led
+VIEW symbol.sb
+GRAPHIC 126,0 17 0 
+DESIGN c1_t3b_hello_led
+VIEW symbol.sb
+GRAPHIC 1,0 20 0 
+DESIGN c1_t3b_hello_led
+VIEW symbol.sb
+GRAPHIC 1,0 21 0 
+DESIGN c1_t3b_hello_led
+VIEW struct.bd
+NO_GRAPHIC 24
+DESIGN c1_t3b_hello_led
+VIEW struct.bd
+GRAPHIC 105,0 33 0 
+DESIGN c1_t3b_hello_led
+VIEW struct.bd
+NO_GRAPHIC 36
+DESIGN c1_t3b_hello_led
+VIEW struct.bd
+GRAPHIC 0,0 38 2 
+DESIGN c1_t3b_hello_led
+VIEW struct.bd
+GRAPHIC 458,0 43 0 
+DESIGN c1_t3b_hello_led
+VIEW struct.bd
+GRAPHIC 464,0 44 0 
+DESIGN c1_t3b_hello_led
+VIEW struct.bd
+GRAPHIC 470,0 45 0 
+DESIGN c1_t3b_hello_led
+VIEW struct.bd
+GRAPHIC 476,0 46 0 
+DESIGN c1_t3b_hello_led
+VIEW struct.bd
+GRAPHIC 482,0 47 0 
+DESIGN c1_t3b_hello_led
+VIEW struct.bd
+GRAPHIC 488,0 48 0 
+DESIGN c1_t3b_hello_led
+VIEW struct.bd
+NO_GRAPHIC 49
+DESIGN c1_t3b_hello_led
+VIEW struct.bd
+NO_GRAPHIC 50
+DESIGN c1_t3b_hello_led
+VIEW struct.bd
+NO_GRAPHIC 51
+DESIGN c1_t3b_hello_led
+VIEW struct.bd
+GRAPHIC 353,0 53 0 
+DESIGN c1_t3b_hello_led
+VIEW struct.bd
+GRAPHIC 372,0 56 0 
+DESIGN c1_t3b_hello_led
+VIEW struct.bd
+GRAPHIC 391,0 59 0 
+DESIGN c1_t3b_hello_led
+VIEW struct.bd
+GRAPHIC 410,0 62 0 
+DESIGN c1_t3b_hello_led
+VIEW struct.bd
+GRAPHIC 429,0 65 0 
+DESIGN c1_t3b_hello_led
+VIEW struct.bd
+GRAPHIC 448,0 68 0 
+DESIGN c1_t3b_hello_led
+VIEW struct.bd
+GRAPHIC 211,0 71 0 
+DESIGN c1_t3b_hello_led
+VIEW struct.bd
+GRAPHIC 224,0 81 0 
+DESIGN c1_t3b_hello_led
+VIEW struct.bd
+GRAPHIC 275,0 91 0 
+DESIGN c1_t3b_hello_led
+VIEW struct.bd
+NO_GRAPHIC 101
+DESIGN c1_t3b_hello_led
+VIEW struct.bd
+NO_GRAPHIC 104

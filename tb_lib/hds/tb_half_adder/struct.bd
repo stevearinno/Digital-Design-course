@@ -43,23 +43,23 @@ VExpander (VariableExpander
 vvMap [
 (vvPair
 variable "HDLDir"
-value "P:\\StudentDocuments\\Documents\\DigitalDesign\\alien_game\\..\\tb_lib\\hdl"
+value "P:\\DigitalDesign\\alien_game\\..\\tb_lib\\hdl"
 )
 (vvPair
 variable "HDSDir"
-value "P:\\StudentDocuments\\Documents\\DigitalDesign\\alien_game\\..\\tb_lib\\hds"
+value "P:\\DigitalDesign\\alien_game\\..\\tb_lib\\hds"
 )
 (vvPair
 variable "SideDataDesignDir"
-value "P:\\StudentDocuments\\Documents\\DigitalDesign\\alien_game\\..\\tb_lib\\hds\\tb_half_adder\\struct.bd.info"
+value "P:\\DigitalDesign\\alien_game\\..\\tb_lib\\hds\\tb_half_adder\\struct.bd.info"
 )
 (vvPair
 variable "SideDataUserDir"
-value "P:\\StudentDocuments\\Documents\\DigitalDesign\\alien_game\\..\\tb_lib\\hds\\tb_half_adder\\struct.bd.user"
+value "P:\\DigitalDesign\\alien_game\\..\\tb_lib\\hds\\tb_half_adder\\struct.bd.user"
 )
 (vvPair
 variable "SourceDir"
-value "P:\\StudentDocuments\\Documents\\DigitalDesign\\alien_game\\..\\tb_lib\\hds"
+value "P:\\DigitalDesign\\alien_game\\..\\tb_lib\\hds"
 )
 (vvPair
 variable "appl"
@@ -75,11 +75,11 @@ value "%(unit)_%(view)_config"
 )
 (vvPair
 variable "d"
-value "P:\\StudentDocuments\\Documents\\DigitalDesign\\alien_game\\..\\tb_lib\\hds\\tb_half_adder"
+value "P:\\DigitalDesign\\alien_game\\..\\tb_lib\\hds\\tb_half_adder"
 )
 (vvPair
 variable "d_logical"
-value "P:\\StudentDocuments\\Documents\\DigitalDesign\\alien_game\\..\\tb_lib\\hds\\tb_half_adder"
+value "P:\\DigitalDesign\\alien_game\\..\\tb_lib\\hds\\tb_half_adder"
 )
 (vvPair
 variable "date"
@@ -131,11 +131,11 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_host"
-value "HTC219-708-SPC"
+value "HTC219-712-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "14:41:55"
+value "17:22:10"
 )
 (vvPair
 variable "group"
@@ -143,7 +143,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "HTC219-708-SPC"
+value "HTC219-712-SPC"
 )
 (vvPair
 variable "language"
@@ -155,7 +155,7 @@ value "tb_lib"
 )
 (vvPair
 variable "library_downstream_ModelSimCompiler"
-value "$HDS_PROJECT_DIR\\..\\tb_lib\\work"
+value "$HDS_PROJECT_DIR/../tb_lib/work"
 )
 (vvPair
 variable "mm"
@@ -175,11 +175,11 @@ value "syyskuu"
 )
 (vvPair
 variable "p"
-value "P:\\StudentDocuments\\Documents\\DigitalDesign\\alien_game\\..\\tb_lib\\hds\\tb_half_adder\\struct.bd"
+value "P:\\DigitalDesign\\alien_game\\..\\tb_lib\\hds\\tb_half_adder\\struct.bd"
 )
 (vvPair
 variable "p_logical"
-value "P:\\StudentDocuments\\Documents\\DigitalDesign\\alien_game\\..\\tb_lib\\hds\\tb_half_adder\\struct.bd"
+value "P:\\DigitalDesign\\alien_game\\..\\tb_lib\\hds\\tb_half_adder\\struct.bd"
 )
 (vvPair
 variable "package_name"
@@ -235,7 +235,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "14:41:55"
+value "17:22:10"
 )
 (vvPair
 variable "unit"
@@ -1402,12 +1402,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "1082,261,2458,1299"
-viewArea "-1134,-1100,76930,59012"
+windowSize "591,267,1968,1305"
+viewArea "-1100,-1100,77032,59012"
 cachedDiagramExtent "0,0,73000,49000"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
-lastUid 704,0
+lastUid 825,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
