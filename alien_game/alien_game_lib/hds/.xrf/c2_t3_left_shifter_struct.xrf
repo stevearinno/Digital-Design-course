@@ -30,7 +30,7 @@ VIEW struct.bd
 GRAPHIC 0,0 36 2 
 DESIGN c2_t3_left_shifter
 VIEW struct.bd
-GRAPHIC 1678,0 41 0 
+GRAPHIC 1728,0 41 0 
 DESIGN c2_t3_left_shifter
 VIEW struct.bd
 GRAPHIC 1622,0 42 0 
@@ -63,13 +63,16 @@ VIEW struct.bd
 NO_GRAPHIC 54
 DESIGN c2_t3_left_shifter
 VIEW struct.bd
-GRAPHIC 1579,0 56 0 
+GRAPHIC 1718,0 56 0 
 DESIGN c2_t3_left_shifter
 VIEW struct.bd
-GRAPHIC 1506,0 59 0 
+GRAPHIC 1579,0 59 0 
 DESIGN c2_t3_left_shifter
 VIEW struct.bd
-NO_GRAPHIC 75
+GRAPHIC 1506,0 62 0 
 DESIGN c2_t3_left_shifter
 VIEW struct.bd
-NO_GRAPHIC 78
+NO_GRAPHIC 77
+DESIGN c2_t3_left_shifter
+VIEW struct.bd
+NO_GRAPHIC 80
