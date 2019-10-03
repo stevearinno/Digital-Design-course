@@ -1,0 +1,6 @@
+This are the steps how to pinpoint the problems and to fix them:
+1. I opened the pre_made and also the tb_lib to see how it works
+2. I opened the modelsim to see the waveform
+3. I saw when btn(0) was pressed, there is no change in the coordinate. And also there is assert false report "Errors in write signal!" severity failure;
+4. Then I traced the error output "write", the nearest is the DFF. I check DFF inputs and output. I figured out that there is unconnected connection. I found this accidentally because I want to make logical expression for the rst input of the DDF.
+5. Then I trace the error from btn(0) is pressed. btn(3) is working and but btn(0) is not working. So I check the input of the AND gates because they should be similar. Finally I found that the input is wrong and I fixed it. For this, I used the probe and I figured out that when the btn(0) was pressed, the output from AND gate did not change.
