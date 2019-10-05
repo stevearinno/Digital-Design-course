@@ -1,0 +1,140 @@
+DESIGN c2_t7_basic_alien
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN c2_t7_basic_alien
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN c2_t7_basic_alien
+VIEW symbol.sb
+GRAPHIC 134,0 14 0 
+DESIGN c2_t7_basic_alien
+VIEW symbol.sb
+GRAPHIC 124,0 15 0 
+DESIGN c2_t7_basic_alien
+VIEW symbol.sb
+GRAPHIC 129,0 16 0 
+DESIGN c2_t7_basic_alien
+VIEW symbol.sb
+GRAPHIC 139,0 17 0 
+DESIGN c2_t7_basic_alien
+VIEW symbol.sb
+GRAPHIC 154,0 18 0 
+DESIGN c2_t7_basic_alien
+VIEW symbol.sb
+GRAPHIC 159,0 19 0 
+DESIGN c2_t7_basic_alien
+VIEW symbol.sb
+GRAPHIC 149,0 20 0 
+DESIGN c2_t7_basic_alien
+VIEW symbol.sb
+GRAPHIC 144,0 21 0 
+DESIGN c2_t7_basic_alien
+VIEW symbol.sb
+GRAPHIC 1,0 24 0 
+DESIGN c2_t7_basic_alien
+VIEW symbol.sb
+GRAPHIC 1,0 25 0 
+DESIGN c2_t7_basic_alien
+VIEW struct.bd
+NO_GRAPHIC 28
+DESIGN c2_t7_basic_alien
+VIEW struct.bd
+GRAPHIC 169,0 37 0 
+DESIGN c2_t7_basic_alien
+VIEW struct.bd
+NO_GRAPHIC 40
+DESIGN c2_t7_basic_alien
+VIEW struct.bd
+GRAPHIC 0,0 43 2 
+DESIGN c2_t7_basic_alien
+VIEW struct.bd
+NO_GRAPHIC 48
+DESIGN c2_t7_basic_alien
+VIEW struct.bd
+NO_GRAPHIC 49
+LIBRARY alien_game_lib
+DESIGN c2_t7_color
+VIEW struct
+GRAPHIC 710,0 51 0 
+DESIGN c2_t7_color
+VIEW symbol.sb
+GRAPHIC 255,0 53 0 
+DESIGN c2_t7_color
+VIEW symbol.sb
+GRAPHIC 334,0 54 0 
+DESIGN c2_t7_color
+VIEW symbol.sb
+GRAPHIC 339,0 55 0 
+DESIGN c2_t7_color
+VIEW symbol.sb
+GRAPHIC 329,0 56 0 
+DESIGN c2_t7_basic_alien
+VIEW struct.bd
+GRAPHIC 666,0 59 0 
+DESIGN c2_t7_coordinate
+VIEW symbol.sb
+GRAPHIC 196,0 61 0 
+DESIGN c2_t7_coordinate
+VIEW symbol.sb
+GRAPHIC 201,0 62 0 
+DESIGN c2_t7_coordinate
+VIEW symbol.sb
+GRAPHIC 206,0 63 0 
+DESIGN c2_t7_coordinate
+VIEW symbol.sb
+GRAPHIC 211,0 64 0 
+DESIGN c2_t7_coordinate
+VIEW symbol.sb
+GRAPHIC 216,0 65 0 
+LIBRARY alien_game_lib
+DESIGN c2_t7_basic_alien
+VIEW struct.bd
+NO_GRAPHIC 68
+DESIGN c2_t7_basic_alien
+VIEW struct.bd
+GRAPHIC 710,0 71 0 
+DESIGN c2_t7_basic_alien
+VIEW struct.bd
+GRAPHIC 666,0 72 0 
+DESIGN c2_t7_basic_alien
+VIEW struct.bd
+NO_GRAPHIC 75
+DESIGN c2_t7_basic_alien
+VIEW struct.bd
+NO_GRAPHIC 77
+DESIGN c2_t7_basic_alien
+VIEW struct.bd
+GRAPHIC 710,0 79 0 
+DESIGN c2_t7_basic_alien
+VIEW struct.bd
+GRAPHIC 753,0 81 0 
+DESIGN c2_t7_basic_alien
+VIEW struct.bd
+GRAPHIC 71,0 82 0 
+DESIGN c2_t7_basic_alien
+VIEW struct.bd
+GRAPHIC 759,0 83 0 
+DESIGN c2_t7_basic_alien
+VIEW struct.bd
+GRAPHIC 15,0 84 0 
+DESIGN c2_t7_basic_alien
+VIEW struct.bd
+GRAPHIC 666,0 86 0 
+DESIGN c2_t7_basic_alien
+VIEW struct.bd
+GRAPHIC 43,0 88 0 
+DESIGN c2_t7_basic_alien
+VIEW struct.bd
+GRAPHIC 57,0 89 0 
+DESIGN c2_t7_basic_alien
+VIEW struct.bd
+GRAPHIC 85,0 90 0 
+DESIGN c2_t7_basic_alien
+VIEW struct.bd
+GRAPHIC 99,0 91 0 
+DESIGN c2_t7_basic_alien
+VIEW struct.bd
+GRAPHIC 113,0 92 0 
+DESIGN c2_t7_basic_alien
+VIEW struct.bd
+NO_GRAPHIC 95

@@ -93,7 +93,7 @@ value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c1_t3_hello_led"
 )
 (vvPair
 variable "date"
-value "27.09.2019"
+value " 4.10.2019"
 )
 (vvPair
 variable "day"
@@ -105,7 +105,7 @@ value "perjantai"
 )
 (vvPair
 variable "dd"
-value "27"
+value "04"
 )
 (vvPair
 variable "entity_name"
@@ -133,7 +133,7 @@ value "wirdatma"
 )
 (vvPair
 variable "graphical_source_date"
-value "27.09.2019"
+value " 4.10.2019"
 )
 (vvPair
 variable "graphical_source_group"
@@ -145,7 +145,7 @@ value "HTC219-712-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "11:21:00"
+value "10:57:46"
 )
 (vvPair
 variable "group"
@@ -169,7 +169,7 @@ value "$HDS_PROJECT_DIR/alien_game_lib/work"
 )
 (vvPair
 variable "mm"
-value "09"
+value "10"
 )
 (vvPair
 variable "module_name"
@@ -177,11 +177,11 @@ value "c1_t3_hello_led"
 )
 (vvPair
 variable "month"
-value "syys"
+value "loka"
 )
 (vvPair
 variable "month_long"
-value "syyskuu"
+value "lokakuu"
 )
 (vvPair
 variable "p"
@@ -245,7 +245,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "11:21:00"
+value "10:57:46"
 )
 (vvPair
 variable "unit"
@@ -297,7 +297,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "36200,48000,47200,49000"
+xt "36200,48000,47000,49000"
 st "
 by %user on %dd %month %year
 "
@@ -1000,7 +1000,7 @@ optionalChildren [
 *29 (Property
 pclass "param"
 pname "value"
-pvalue "4"
+pvalue "1"
 ptn "String"
 )
 ]
@@ -1205,7 +1205,7 @@ optionalChildren [
 *38 (Property
 pclass "param"
 pname "value"
-pvalue "65"
+pvalue "16777216"
 ptn "String"
 )
 ]
@@ -1277,8 +1277,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,2800,41500,3600"
-st "x     : std_logic_vector(7 DOWNTO 0)
-"
+st "x     : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *41 (PortIoOut
@@ -1387,8 +1386,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,3600,41500,4400"
-st "y     : std_logic_vector(7 DOWNTO 0)
-"
+st "y     : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *44 (Net
@@ -1407,8 +1405,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,2000,42000,2800"
-st "color : std_logic_vector(23 DOWNTO 0)
-"
+st "color : std_logic_vector(23 DOWNTO 0)"
 )
 )
 *45 (Wire
@@ -1648,12 +1645,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "-8,-8,2568,1408"
-viewArea "-12949,-10948,76493,37049"
+windowSize "0,0,2561,1416"
+viewArea "-12900,-10900,75754,38044"
 cachedDiagramExtent "0,0,77791,57544"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
-lastUid 1116,0
+lastUid 1139,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0

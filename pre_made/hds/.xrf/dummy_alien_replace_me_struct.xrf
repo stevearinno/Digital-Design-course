@@ -1,0 +1,119 @@
+DESIGN dummy_alien_replace_me
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN dummy_alien_replace_me
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN dummy_alien_replace_me
+VIEW symbol.sb
+GRAPHIC 123,0 14 0 
+DESIGN dummy_alien_replace_me
+VIEW symbol.sb
+GRAPHIC 128,0 15 0 
+DESIGN dummy_alien_replace_me
+VIEW symbol.sb
+GRAPHIC 133,0 16 0 
+DESIGN dummy_alien_replace_me
+VIEW symbol.sb
+GRAPHIC 138,0 17 0 
+DESIGN dummy_alien_replace_me
+VIEW symbol.sb
+GRAPHIC 108,0 18 0 
+DESIGN dummy_alien_replace_me
+VIEW symbol.sb
+GRAPHIC 113,0 19 0 
+DESIGN dummy_alien_replace_me
+VIEW symbol.sb
+GRAPHIC 118,0 20 0 
+DESIGN dummy_alien_replace_me
+VIEW symbol.sb
+GRAPHIC 1,0 23 0 
+DESIGN dummy_alien_replace_me
+VIEW symbol.sb
+GRAPHIC 1,0 24 0 
+DESIGN dummy_alien_replace_me
+VIEW struct.bd
+NO_GRAPHIC 27
+DESIGN dummy_alien_replace_me
+VIEW struct.bd
+GRAPHIC 153,0 36 0 
+DESIGN dummy_alien_replace_me
+VIEW struct.bd
+NO_GRAPHIC 39
+DESIGN dummy_alien_replace_me
+VIEW struct.bd
+GRAPHIC 0,0 42 2 
+DESIGN dummy_alien_replace_me
+VIEW struct.bd
+NO_GRAPHIC 47
+DESIGN dummy_alien_replace_me
+VIEW struct.bd
+NO_GRAPHIC 48
+LIBRARY alien_game_lib
+DESIGN c2_t7_basic_alien
+VIEW struct
+GRAPHIC 253,0 50 0 
+DESIGN c2_t7_basic_alien
+VIEW symbol.sb
+GRAPHIC 134,0 52 0 
+DESIGN c2_t7_basic_alien
+VIEW symbol.sb
+GRAPHIC 124,0 53 0 
+DESIGN c2_t7_basic_alien
+VIEW symbol.sb
+GRAPHIC 129,0 54 0 
+DESIGN c2_t7_basic_alien
+VIEW symbol.sb
+GRAPHIC 139,0 55 0 
+DESIGN c2_t7_basic_alien
+VIEW symbol.sb
+GRAPHIC 154,0 56 0 
+DESIGN c2_t7_basic_alien
+VIEW symbol.sb
+GRAPHIC 159,0 57 0 
+DESIGN c2_t7_basic_alien
+VIEW symbol.sb
+GRAPHIC 149,0 58 0 
+DESIGN c2_t7_basic_alien
+VIEW symbol.sb
+GRAPHIC 144,0 59 0 
+LIBRARY pre_made
+DESIGN dummy_alien_replace_me
+VIEW struct.bd
+NO_GRAPHIC 62
+DESIGN dummy_alien_replace_me
+VIEW struct.bd
+GRAPHIC 253,0 65 0 
+DESIGN dummy_alien_replace_me
+VIEW struct.bd
+NO_GRAPHIC 68
+DESIGN dummy_alien_replace_me
+VIEW struct.bd
+NO_GRAPHIC 70
+DESIGN dummy_alien_replace_me
+VIEW struct.bd
+GRAPHIC 253,0 72 0 
+DESIGN dummy_alien_replace_me
+VIEW struct.bd
+GRAPHIC 57,0 74 0 
+DESIGN dummy_alien_replace_me
+VIEW struct.bd
+GRAPHIC 71,0 75 0 
+DESIGN dummy_alien_replace_me
+VIEW struct.bd
+GRAPHIC 85,0 76 0 
+DESIGN dummy_alien_replace_me
+VIEW struct.bd
+GRAPHIC 99,0 77 0 
+DESIGN dummy_alien_replace_me
+VIEW struct.bd
+GRAPHIC 15,0 78 0 
+DESIGN dummy_alien_replace_me
+VIEW struct.bd
+GRAPHIC 29,0 80 0 
+DESIGN dummy_alien_replace_me
+VIEW struct.bd
+GRAPHIC 43,0 81 0 
+DESIGN dummy_alien_replace_me
+VIEW struct.bd
+NO_GRAPHIC 84

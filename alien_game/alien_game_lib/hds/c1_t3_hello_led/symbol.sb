@@ -439,7 +439,7 @@ value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c1_t3_hello_led"
 )
 (vvPair
 variable "date"
-value "27.09.2019"
+value " 4.10.2019"
 )
 (vvPair
 variable "day"
@@ -451,7 +451,7 @@ value "perjantai"
 )
 (vvPair
 variable "dd"
-value "27"
+value "04"
 )
 (vvPair
 variable "entity_name"
@@ -479,7 +479,7 @@ value "wirdatma"
 )
 (vvPair
 variable "graphical_source_date"
-value "27.09.2019"
+value " 4.10.2019"
 )
 (vvPair
 variable "graphical_source_group"
@@ -491,7 +491,7 @@ value "HTC219-712-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "11:21:04"
+value "10:57:46"
 )
 (vvPair
 variable "group"
@@ -515,7 +515,7 @@ value "$HDS_PROJECT_DIR/alien_game_lib/work"
 )
 (vvPair
 variable "mm"
-value "09"
+value "10"
 )
 (vvPair
 variable "module_name"
@@ -523,11 +523,11 @@ value "c1_t3_hello_led"
 )
 (vvPair
 variable "month"
-value "syys"
+value "loka"
 )
 (vvPair
 variable "month_long"
-value "syyskuu"
+value "lokakuu"
 )
 (vvPair
 variable "p"
@@ -591,7 +591,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "11:21:04"
+value "10:57:46"
 )
 (vvPair
 variable "unit"
@@ -659,8 +659,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,2800,69000,3600"
-st "x     : OUT    std_logic_vector (7 DOWNTO 0) ;
-"
+st "x     : OUT    std_logic_vector (7 DOWNTO 0) ;"
 )
 thePort (LogicalPort
 lang 2
@@ -708,8 +707,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,3600,68000,4400"
-st "y     : OUT    std_logic_vector (7 DOWNTO 0)
-"
+st "y     : OUT    std_logic_vector (7 DOWNTO 0)"
 )
 thePort (LogicalPort
 lang 2
@@ -757,8 +755,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,2000,69500,2800"
-st "color : OUT    std_logic_vector (23 DOWNTO 0) ;
-"
+st "color : OUT    std_logic_vector (23 DOWNTO 0) ;"
 )
 thePort (LogicalPort
 lang 2
@@ -854,7 +851,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "36200,48000,47200,49000"
+xt "36200,48000,47000,49000"
 st "
 by %user on %dd %month %year
 "
@@ -1470,6 +1467,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 197,0
+lastUid 243,0
 activeModelName "Symbol:CDM"
 )
