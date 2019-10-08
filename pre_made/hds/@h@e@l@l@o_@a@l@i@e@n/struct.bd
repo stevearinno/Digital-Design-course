@@ -53,31 +53,31 @@ libraryRefs [
 "ieee"
 ]
 )
-version "30.1"
-appVersion "2012.2a (Build 3)"
+version "32.1"
+appVersion "2019.3 (Build 4)"
 noEmbeddedEditors 1
 model (BlockDiag
 VExpander (VariableExpander
 vvMap [
 (vvPair
 variable "HDLDir"
-value "P:\\digital_design\\template_a2019\\pre_made_1\\hdl"
+value "P:\\DigitalDesign\\alien_game\\..\\pre_made\\hdl"
 )
 (vvPair
 variable "HDSDir"
-value "P:\\digital_design\\template_a2019\\pre_made_1\\hds"
+value "P:\\DigitalDesign\\alien_game\\..\\pre_made\\hds"
 )
 (vvPair
 variable "SideDataDesignDir"
-value "P:\\digital_design\\template_a2019\\pre_made_1\\hds\\@h@e@l@l@o_@a@l@i@e@n\\struct.bd.info"
+value "P:\\DigitalDesign\\alien_game\\..\\pre_made\\hds\\@h@e@l@l@o_@a@l@i@e@n\\struct.bd.info"
 )
 (vvPair
 variable "SideDataUserDir"
-value "P:\\digital_design\\template_a2019\\pre_made_1\\hds\\@h@e@l@l@o_@a@l@i@e@n\\struct.bd.user"
+value "P:\\DigitalDesign\\alien_game\\..\\pre_made\\hds\\@h@e@l@l@o_@a@l@i@e@n\\struct.bd.user"
 )
 (vvPair
 variable "SourceDir"
-value "P:\\digital_design\\template_a2019\\pre_made_1\\hds"
+value "P:\\DigitalDesign\\alien_game\\..\\pre_made\\hds"
 )
 (vvPair
 variable "appl"
@@ -93,27 +93,27 @@ value "%(unit)_%(view)_config"
 )
 (vvPair
 variable "d"
-value "P:\\digital_design\\template_a2019\\pre_made_1\\hds\\@h@e@l@l@o_@a@l@i@e@n"
+value "P:\\DigitalDesign\\alien_game\\..\\pre_made\\hds\\@h@e@l@l@o_@a@l@i@e@n"
 )
 (vvPair
 variable "d_logical"
-value "P:\\digital_design\\template_a2019\\pre_made_1\\hds\\HELLO_ALIEN"
+value "P:\\DigitalDesign\\alien_game\\..\\pre_made\\hds\\HELLO_ALIEN"
 )
 (vvPair
 variable "date"
-value "12.09.2019"
+value " 5.10.2019"
 )
 (vvPair
 variable "day"
-value "to"
+value "la"
 )
 (vvPair
 variable "day_long"
-value "torstai"
+value "lauantai"
 )
 (vvPair
 variable "dd"
-value "12"
+value "05"
 )
 (vvPair
 variable "entity_name"
@@ -137,19 +137,23 @@ value "struct"
 )
 (vvPair
 variable "graphical_source_author"
-value "kayra"
+value "wirdatma"
 )
 (vvPair
 variable "graphical_source_date"
-value "09/12/19"
+value " 5.10.2019"
 )
 (vvPair
 variable "graphical_source_group"
 value "UNKNOWN"
 )
 (vvPair
+variable "graphical_source_host"
+value "HTC219-712-SPC"
+)
+(vvPair
 variable "graphical_source_time"
-value "13:39:05"
+value "16:56:40"
 )
 (vvPair
 variable "group"
@@ -157,7 +161,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "WS-11696-PC"
+value "HTC219-712-SPC"
 )
 (vvPair
 variable "language"
@@ -165,7 +169,7 @@ value "VHDL"
 )
 (vvPair
 variable "library"
-value "pre_made_1"
+value "pre_made"
 )
 (vvPair
 variable "library_downstream_HdsLintPlugin"
@@ -173,11 +177,11 @@ value "$HDS_PROJECT_DIR/pre_made/designcheck"
 )
 (vvPair
 variable "library_downstream_ModelSimCompiler"
-value "$HDS_PROJECT_DIR/pre_made/work"
+value "$HDS_PROJECT_DIR/../pre_made/work"
 )
 (vvPair
 variable "mm"
-value "09"
+value "10"
 )
 (vvPair
 variable "module_name"
@@ -185,19 +189,19 @@ value "HELLO_ALIEN"
 )
 (vvPair
 variable "month"
-value "syys"
+value "loka"
 )
 (vvPair
 variable "month_long"
-value "syyskuu"
+value "lokakuu"
 )
 (vvPair
 variable "p"
-value "P:\\digital_design\\template_a2019\\pre_made_1\\hds\\@h@e@l@l@o_@a@l@i@e@n\\struct.bd"
+value "P:\\DigitalDesign\\alien_game\\..\\pre_made\\hds\\@h@e@l@l@o_@a@l@i@e@n\\struct.bd"
 )
 (vvPair
 variable "p_logical"
-value "P:\\digital_design\\template_a2019\\pre_made_1\\hds\\HELLO_ALIEN\\struct.bd"
+value "P:\\DigitalDesign\\alien_game\\..\\pre_made\\hds\\HELLO_ALIEN\\struct.bd"
 )
 (vvPair
 variable "package_name"
@@ -205,7 +209,7 @@ value "<Undefined Variable>"
 )
 (vvPair
 variable "project_name"
-value "new_digiharks_2k18"
+value "alien_game"
 )
 (vvPair
 variable "series"
@@ -253,7 +257,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "13:39:05"
+value "16:56:40"
 )
 (vvPair
 variable "unit"
@@ -261,11 +265,11 @@ value "HELLO_ALIEN"
 )
 (vvPair
 variable "user"
-value "kayra"
+value "wirdatma"
 )
 (vvPair
 variable "version"
-value "2012.2a (Build 3)"
+value "2019.3 (Build 4)"
 )
 (vvPair
 variable "view"
@@ -585,7 +589,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "36200,47000,49000,48000"
+xt "36200,47000,48200,48000"
 st "
 %library/%unit/%view
 "
@@ -2697,8 +2701,9 @@ vasetType 1
 fg "49152,49152,49152"
 )
 xt "21250,36250,22750,37750"
-iconName "UnknownFile.png"
-iconMaskName "UnknownFile.msk"
+iconName "BlockDiagram.png"
+iconMaskName "BlockDiagram.msk"
+ftype 1
 )
 viewiconposition 0
 portVis (PortSigDisplay
@@ -4050,8 +4055,8 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "246,0,2194,1407"
-viewArea "-18200,-18800,90724,55382"
+windowSize "246,0,2195,1407"
+viewArea "-18200,4825,90223,83638"
 cachedDiagramExtent "0,0,73000,49000"
 pageSetupInfo (PageSetupInfo
 ptrCmd ""
@@ -4064,7 +4069,7 @@ exportStdPackageRefs 1
 )
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
-lastUid 1844,0
+lastUid 1869,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
