@@ -9,165 +9,198 @@ VIEW symbol.sb
 GRAPHIC 196,0 14 0 
 DESIGN c2_t7_coordinate
 VIEW symbol.sb
-GRAPHIC 201,0 15 0 
+GRAPHIC 286,0 15 0 
 DESIGN c2_t7_coordinate
 VIEW symbol.sb
-GRAPHIC 206,0 16 0 
+GRAPHIC 452,0 16 0 
 DESIGN c2_t7_coordinate
 VIEW symbol.sb
-GRAPHIC 211,0 17 0 
+GRAPHIC 206,0 17 0 
 DESIGN c2_t7_coordinate
 VIEW symbol.sb
-GRAPHIC 216,0 18 0 
+GRAPHIC 211,0 18 0 
 DESIGN c2_t7_coordinate
 VIEW symbol.sb
-GRAPHIC 1,0 21 0 
+GRAPHIC 216,0 19 0 
 DESIGN c2_t7_coordinate
 VIEW symbol.sb
 GRAPHIC 1,0 22 0 
 DESIGN c2_t7_coordinate
-VIEW struct.bd
-NO_GRAPHIC 25
+VIEW symbol.sb
+GRAPHIC 1,0 23 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 137,0 34 0 
+NO_GRAPHIC 26
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-NO_GRAPHIC 37
+GRAPHIC 137,0 35 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 0,0 40 2 
+NO_GRAPHIC 38
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 383,0 45 0 
+GRAPHIC 0,0 41 2 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 700,0 46 0 
+GRAPHIC 383,0 46 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 446,0 47 0 
+GRAPHIC 700,0 47 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 706,0 48 0 
+GRAPHIC 446,0 48 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 843,0 49 0 
+GRAPHIC 706,0 49 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 849,0 50 0 
+GRAPHIC 843,0 50 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 799,0 51 0 
+GRAPHIC 849,0 51 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 927,0 52 0 
+GRAPHIC 1550,0 52 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 861,0 53 0 
+GRAPHIC 1448,0 53 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 867,0 54 0 
+GRAPHIC 1627,0 54 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 933,0 55 0 
+GRAPHIC 799,0 55 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-NO_GRAPHIC 56
+GRAPHIC 927,0 56 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 275,0 58 0 
+GRAPHIC 35,0 57 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-NO_GRAPHIC 66
+GRAPHIC 861,0 58 0 
+DESIGN c2_t7_coordinate
+VIEW struct.bd
+GRAPHIC 867,0 59 0 
+DESIGN c2_t7_coordinate
+VIEW struct.bd
+GRAPHIC 933,0 60 0 
+DESIGN c2_t7_coordinate
+VIEW struct.bd
+GRAPHIC 1519,0 61 0 
+DESIGN c2_t7_coordinate
+VIEW struct.bd
+NO_GRAPHIC 62
+DESIGN c2_t7_coordinate
+VIEW struct.bd
+GRAPHIC 275,0 64 0 
+DESIGN c2_t7_coordinate
+VIEW struct.bd
+NO_GRAPHIC 75
 LIBRARY alien_game_lib
 DESIGN c2_t3_left_shifter
 VIEW struct
-GRAPHIC 289,0 68 0 
+GRAPHIC 289,0 77 0 
 DESIGN c2_t3_left_shifter
 VIEW symbol.sb
-GRAPHIC 112,0 70 0 
+GRAPHIC 112,0 79 0 
 DESIGN c2_t3_left_shifter
 VIEW symbol.sb
-GRAPHIC 117,0 71 0 
+GRAPHIC 117,0 80 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 307,0 74 0 
+GRAPHIC 307,0 83 0 
 DESIGN c2_t4_right_shifter
 VIEW symbol.sb
-GRAPHIC 112,0 76 0 
+GRAPHIC 112,0 85 0 
 DESIGN c2_t4_right_shifter
 VIEW symbol.sb
-GRAPHIC 117,0 77 0 
+GRAPHIC 117,0 86 0 
 LIBRARY alien_game_lib
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-NO_GRAPHIC 80
+NO_GRAPHIC 89
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 289,0 83 0 
+GRAPHIC 289,0 92 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 307,0 84 0 
+GRAPHIC 307,0 93 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-NO_GRAPHIC 87
+NO_GRAPHIC 96
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 368,0 89 0 
+GRAPHIC 368,0 98 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 912,0 100 0 
+GRAPHIC 912,0 109 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 492,0 111 0 
+GRAPHIC 1562,0 120 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 529,0 114 0 
+GRAPHIC 492,0 131 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 214,0 117 0 
+GRAPHIC 529,0 134 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 814,0 120 0 
+GRAPHIC 214,0 137 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 833,0 123 0 
+GRAPHIC 814,0 140 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 691,0 126 0 
+GRAPHIC 833,0 143 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 262,0 129 0 
+GRAPHIC 1432,0 146 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 433,0 139 0 
+GRAPHIC 1531,0 149 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 750,0 149 0 
+GRAPHIC 691,0 152 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-NO_GRAPHIC 161
+GRAPHIC 262,0 155 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 289,0 163 0 
+GRAPHIC 433,0 165 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 317,0 165 0 
+GRAPHIC 750,0 175 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 863,0 166 0 
+GRAPHIC 1410,0 187 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 307,0 168 0 
+GRAPHIC 1498,0 197 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 323,0 170 0 
+NO_GRAPHIC 207
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 869,0 171 0 
+GRAPHIC 289,0 209 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-GRAPHIC 275,0 175 0 
+GRAPHIC 317,0 211 0 
 DESIGN c2_t7_coordinate
 VIEW struct.bd
-NO_GRAPHIC 177
+GRAPHIC 863,0 212 0 
+DESIGN c2_t7_coordinate
+VIEW struct.bd
+GRAPHIC 307,0 214 0 
+DESIGN c2_t7_coordinate
+VIEW struct.bd
+GRAPHIC 323,0 216 0 
+DESIGN c2_t7_coordinate
+VIEW struct.bd
+GRAPHIC 869,0 217 0 
+DESIGN c2_t7_coordinate
+VIEW struct.bd
+GRAPHIC 275,0 221 0 
+DESIGN c2_t7_coordinate
+VIEW struct.bd
+NO_GRAPHIC 223
