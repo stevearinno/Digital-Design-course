@@ -74,19 +74,19 @@ value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\tb_lib\\hds\\tb_
 )
 (vvPair
 variable "date"
-value "20.09.2019"
+value " 7.10.2019"
 )
 (vvPair
 variable "day"
-value "pe"
+value "ma"
 )
 (vvPair
 variable "day_long"
-value "perjantai"
+value "maanantai"
 )
 (vvPair
 variable "dd"
-value "20"
+value "07"
 )
 (vvPair
 variable "entity_name"
@@ -114,7 +114,7 @@ value "kayra"
 )
 (vvPair
 variable "graphical_source_date"
-value "09/20/19"
+value "10/07/19"
 )
 (vvPair
 variable "graphical_source_group"
@@ -122,7 +122,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_time"
-value "16:00:09"
+value "11:31:41"
 )
 (vvPair
 variable "group"
@@ -146,7 +146,7 @@ value "$HDS_PROJECT_DIR/tb_lib/work"
 )
 (vvPair
 variable "mm"
-value "09"
+value "10"
 )
 (vvPair
 variable "module_name"
@@ -154,11 +154,11 @@ value "tb_serial_tx"
 )
 (vvPair
 variable "month"
-value "syys"
+value "loka"
 )
 (vvPair
 variable "month_long"
-value "syyskuu"
+value "lokakuu"
 )
 (vvPair
 variable "p"
@@ -222,7 +222,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "16:00:09"
+value "11:31:41"
 )
 (vvPair
 variable "unit"
@@ -274,7 +274,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "36200,48000,45900,49000"
+xt "36200,48000,45700,49000"
 st "
 by %user on %dd %month %year
 "
@@ -635,48 +635,10 @@ st "SIGNAL rst_n    : std_logic
 "
 )
 )
-*15 (Net
-uid 177,0
-lang 11
-decl (Decl
-n "sck"
-t "std_logic"
-o 6
-suid 6,0
-)
-declText (MLText
-uid 178,0
-va (VaSet
-font "Courier New,8,0"
-)
-xt "22000,6200,37000,7000"
-st "SIGNAL sck      : std_logic
-"
-)
-)
-*16 (Net
-uid 187,0
-lang 11
-decl (Decl
-n "sda"
-t "std_logic"
-o 7
-suid 7,0
-)
-declText (MLText
-uid 188,0
-va (VaSet
-font "Courier New,8,0"
-)
-xt "22000,7000,37000,7800"
-st "SIGNAL sda      : std_logic
-"
-)
-)
-*17 (SaComponent
+*15 (SaComponent
 uid 405,0
 optionalChildren [
-*18 (CptPort
+*16 (CptPort
 uid 377,0
 ps "OnEdgeStrategy"
 shape (Triangle
@@ -713,7 +675,7 @@ suid 1,0
 )
 )
 )
-*19 (CptPort
+*17 (CptPort
 uid 381,0
 ps "OnEdgeStrategy"
 shape (Triangle
@@ -750,42 +712,7 @@ suid 2,0
 )
 )
 )
-*20 (CptPort
-uid 385,0
-ps "OnEdgeStrategy"
-shape (Triangle
-uid 386,0
-ro 90
-va (VaSet
-vasetType 1
-fg "0,65535,0"
-)
-xt "6250,21625,7000,22375"
-)
-tg (CPTG
-uid 387,0
-ps "CptPortTextPlaceStrategy"
-stg "VerticalLayoutStrategy"
-f (Text
-uid 388,0
-va (VaSet
-font "arial,8,0"
-)
-xt "8000,21500,9500,22500"
-st "rdy"
-blo "8000,22300"
-)
-)
-thePort (LogicalPort
-decl (Decl
-n "rdy"
-t "std_logic"
-o 1
-suid 3,0
-)
-)
-)
-*21 (CptPort
+*18 (CptPort
 uid 389,0
 ps "OnEdgeStrategy"
 shape (Triangle
@@ -822,77 +749,7 @@ suid 4,0
 )
 )
 )
-*22 (CptPort
-uid 397,0
-ps "OnEdgeStrategy"
-shape (Triangle
-uid 398,0
-ro 90
-va (VaSet
-vasetType 1
-fg "0,65535,0"
-)
-xt "6250,22625,7000,23375"
-)
-tg (CPTG
-uid 399,0
-ps "CptPortTextPlaceStrategy"
-stg "VerticalLayoutStrategy"
-f (Text
-uid 400,0
-va (VaSet
-font "arial,8,0"
-)
-xt "8000,22500,9600,23500"
-st "sck"
-blo "8000,23300"
-)
-)
-thePort (LogicalPort
-decl (Decl
-n "sck"
-t "std_logic"
-o 2
-suid 6,0
-)
-)
-)
-*23 (CptPort
-uid 401,0
-ps "OnEdgeStrategy"
-shape (Triangle
-uid 402,0
-ro 90
-va (VaSet
-vasetType 1
-fg "0,65535,0"
-)
-xt "6250,23625,7000,24375"
-)
-tg (CPTG
-uid 403,0
-ps "CptPortTextPlaceStrategy"
-stg "VerticalLayoutStrategy"
-f (Text
-uid 404,0
-va (VaSet
-font "arial,8,0"
-)
-xt "8000,23500,9600,24500"
-st "sda"
-blo "8000,24300"
-)
-)
-thePort (LogicalPort
-decl (Decl
-n "sda"
-t "std_logic"
-o 3
-suid 7,0
-)
-)
-)
-*24 (CptPort
+*19 (CptPort
 uid 634,0
 ps "OnEdgeStrategy"
 shape (Triangle
@@ -929,6 +786,111 @@ suid 10,0
 )
 )
 )
+*20 (CptPort
+uid 908,0
+ps "OnEdgeStrategy"
+shape (Triangle
+uid 909,0
+ro 90
+va (VaSet
+vasetType 1
+fg "0,65535,0"
+)
+xt "6250,21625,7000,22375"
+)
+tg (CPTG
+uid 910,0
+ps "CptPortTextPlaceStrategy"
+stg "VerticalLayoutStrategy"
+f (Text
+uid 911,0
+va (VaSet
+font "arial,8,0"
+)
+xt "8000,21500,10300,22500"
+st "ready"
+blo "8000,22300"
+)
+)
+thePort (LogicalPort
+decl (Decl
+n "ready"
+t "std_logic"
+o 1
+suid 13,0
+)
+)
+)
+*21 (CptPort
+uid 912,0
+ps "OnEdgeStrategy"
+shape (Triangle
+uid 913,0
+ro 90
+va (VaSet
+vasetType 1
+fg "0,65535,0"
+)
+xt "6250,22625,7000,23375"
+)
+tg (CPTG
+uid 914,0
+ps "CptPortTextPlaceStrategy"
+stg "VerticalLayoutStrategy"
+f (Text
+uid 915,0
+va (VaSet
+font "arial,8,0"
+)
+xt "8000,22500,10200,23500"
+st "s_clk"
+blo "8000,23300"
+)
+)
+thePort (LogicalPort
+decl (Decl
+n "s_clk"
+t "std_logic"
+o 2
+suid 11,0
+)
+)
+)
+*22 (CptPort
+uid 916,0
+ps "OnEdgeStrategy"
+shape (Triangle
+uid 917,0
+ro 90
+va (VaSet
+vasetType 1
+fg "0,65535,0"
+)
+xt "6250,23625,7000,24375"
+)
+tg (CPTG
+uid 918,0
+ps "CptPortTextPlaceStrategy"
+stg "VerticalLayoutStrategy"
+f (Text
+uid 919,0
+va (VaSet
+font "arial,8,0"
+)
+xt "8000,23500,10400,24500"
+st "s_sda"
+blo "8000,24300"
+)
+)
+thePort (LogicalPort
+decl (Decl
+n "s_sda"
+t "std_logic"
+o 3
+suid 12,0
+)
+)
+)
 ]
 shape (Rectangle
 uid 406,0
@@ -946,7 +908,7 @@ uid 407,0
 ps "CenterOffsetStrategy"
 stg "VerticalLayoutStrategy"
 textVec [
-*25 (Text
+*23 (Text
 uid 408,0
 va (VaSet
 font "arial,8,1"
@@ -956,7 +918,7 @@ st "tb_lib"
 blo "10200,26800"
 tm "BdLibraryNameMgr"
 )
-*26 (Text
+*24 (Text
 uid 409,0
 va (VaSet
 font "arial,8,1"
@@ -966,7 +928,7 @@ st "tx_tester_struct"
 blo "10200,27800"
 tm "CptNameMgr"
 )
-*27 (Text
+*25 (Text
 uid 410,0
 va (VaSet
 font "arial,8,1"
@@ -1014,7 +976,7 @@ sF 0
 )
 archFileType "UNKNOWN"
 )
-*28 (Net
+*26 (Net
 uid 632,0
 lang 11
 decl (Decl
@@ -1033,7 +995,7 @@ st "SIGNAL transmit : std_logic
 "
 )
 )
-*29 (Net
+*27 (Net
 uid 640,0
 lang 11
 decl (Decl
@@ -1052,6 +1014,44 @@ st "SIGNAL ready    : std_logic
 "
 )
 )
+*28 (Net
+uid 904,0
+lang 11
+decl (Decl
+n "s_clk"
+t "std_logic"
+o 6
+suid 12,0
+)
+declText (MLText
+uid 905,0
+va (VaSet
+font "Courier New,8,0"
+)
+xt "22000,6200,37000,7000"
+st "SIGNAL s_clk    : std_logic
+"
+)
+)
+*29 (Net
+uid 906,0
+lang 11
+decl (Decl
+n "s_sda"
+t "std_logic"
+o 7
+suid 13,0
+)
+declText (MLText
+uid 907,0
+va (VaSet
+font "Courier New,8,0"
+)
+xt "22000,7000,37000,7800"
+st "SIGNAL s_sda    : std_logic
+"
+)
+)
 *30 (Wire
 uid 119,0
 shape (OrthoPolyLine
@@ -1065,7 +1065,7 @@ pts [
 "32250,25000"
 ]
 )
-start &18
+start &16
 sat 32
 eat 16
 st 0
@@ -1101,7 +1101,7 @@ pts [
 "32250,22000"
 ]
 )
-start &19
+start &17
 sat 32
 eat 16
 st 0
@@ -1162,7 +1162,7 @@ blo "53750,21800"
 tm "WireNameMgr"
 )
 )
-on &29
+on &27
 )
 *33 (Wire
 uid 149,0
@@ -1177,7 +1177,7 @@ pts [
 "32250,23000"
 ]
 )
-start &21
+start &18
 sat 32
 eat 16
 st 0
@@ -1213,7 +1213,7 @@ pts [
 "32250,24000"
 ]
 )
-start &24
+start &19
 sat 32
 eat 16
 st 0
@@ -1234,7 +1234,7 @@ blo "22750,23800"
 tm "WireNameMgr"
 )
 )
-on &28
+on &26
 )
 *35 (Wire
 uid 169,0
@@ -1253,7 +1253,8 @@ pts [
 "6250,23000"
 ]
 )
-end &22
+end &21
+es 0
 sat 16
 eat 32
 st 0
@@ -1268,13 +1269,13 @@ uid 176,0
 va (VaSet
 font "arial,8,0"
 )
-xt "53750,22000,55350,23000"
-st "sck"
+xt "53750,22000,55950,23000"
+st "s_clk"
 blo "53750,22800"
 tm "WireNameMgr"
 )
 )
-on &15
+on &28
 )
 *36 (Wire
 uid 179,0
@@ -1293,7 +1294,7 @@ pts [
 "6250,24000"
 ]
 )
-end &23
+end &22
 sat 16
 eat 32
 st 0
@@ -1308,13 +1309,13 @@ uid 186,0
 va (VaSet
 font "arial,8,0"
 )
-xt "53750,23000,55350,24000"
-st "sda"
+xt "53750,23000,56150,24000"
+st "s_sda"
 blo "53750,23800"
 tm "WireNameMgr"
 )
 )
-on &16
+on &29
 )
 ]
 bg "65535,65535,65535"
@@ -1430,12 +1431,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "838,386,2095,1327"
-viewArea "-3100,-1000,82364,55664"
+windowSize "838,386,2096,1327"
+viewArea "-3100,-1000,82436,53648"
 cachedDiagramExtent "0,0,73000,49000"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
-lastUid 786,0
+lastUid 923,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
@@ -2493,7 +2494,7 @@ tm "BdDeclarativeTextMgr"
 )
 commonDM (CommonDM
 ldm (LogicalDM
-suid 11,0
+suid 13,0
 usingSuid 1
 emptyRow *68 (LEmptyRow
 )
@@ -2576,32 +2577,6 @@ port (LogicalPort
 lang 11
 m 4
 decl (Decl
-n "sck"
-t "std_logic"
-o 6
-suid 6,0
-)
-)
-uid 199,0
-)
-*85 (LeafLogPort
-port (LogicalPort
-lang 11
-m 4
-decl (Decl
-n "sda"
-t "std_logic"
-o 7
-suid 7,0
-)
-)
-uid 201,0
-)
-*86 (LeafLogPort
-port (LogicalPort
-lang 11
-m 4
-decl (Decl
 n "transmit"
 t "std_logic"
 o 5
@@ -2610,7 +2585,7 @@ suid 10,0
 )
 uid 638,0
 )
-*87 (LeafLogPort
+*85 (LeafLogPort
 port (LogicalPort
 lang 11
 m 4
@@ -2622,6 +2597,32 @@ suid 11,0
 )
 )
 uid 642,0
+)
+*86 (LeafLogPort
+port (LogicalPort
+lang 11
+m 4
+decl (Decl
+n "s_clk"
+t "std_logic"
+o 6
+suid 12,0
+)
+)
+uid 920,0
+)
+*87 (LeafLogPort
+port (LogicalPort
+lang 11
+m 4
+decl (Decl
+n "s_sda"
+t "std_logic"
+o 7
+suid 13,0
+)
+)
+uid 922,0
 )
 ]
 )
@@ -2695,25 +2696,25 @@ uid 196,0
 litem &84
 pos 3
 dimension 20
-uid 200,0
+uid 639,0
 )
 *97 (MRCItem
 litem &85
 pos 4
 dimension 20
-uid 202,0
+uid 643,0
 )
 *98 (MRCItem
 litem &86
 pos 5
 dimension 20
-uid 639,0
+uid 921,0
 )
 *99 (MRCItem
 litem &87
 pos 6
 dimension 20
-uid 643,0
+uid 923,0
 )
 ]
 )

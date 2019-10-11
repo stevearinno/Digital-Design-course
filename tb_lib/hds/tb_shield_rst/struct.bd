@@ -74,19 +74,19 @@ value "P:\\kesa18\\git-repot\\new_digiharks_2k18\\iotre\\hdl_d\\tb_lib\\hds\\tb_
 )
 (vvPair
 variable "date"
-value "20.09.2019"
+value " 7.10.2019"
 )
 (vvPair
 variable "day"
-value "pe"
+value "ma"
 )
 (vvPair
 variable "day_long"
-value "perjantai"
+value "maanantai"
 )
 (vvPair
 variable "dd"
-value "20"
+value "07"
 )
 (vvPair
 variable "entity_name"
@@ -114,7 +114,7 @@ value "kayra"
 )
 (vvPair
 variable "graphical_source_date"
-value "09/20/19"
+value "10/07/19"
 )
 (vvPair
 variable "graphical_source_group"
@@ -122,7 +122,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_time"
-value "14:19:07"
+value "14:06:16"
 )
 (vvPair
 variable "group"
@@ -146,7 +146,7 @@ value "$HDS_PROJECT_DIR/tb_lib/work"
 )
 (vvPair
 variable "mm"
-value "09"
+value "10"
 )
 (vvPair
 variable "module_name"
@@ -154,11 +154,11 @@ value "tb_shield_rst"
 )
 (vvPair
 variable "month"
-value "syys"
+value "loka"
 )
 (vvPair
 variable "month_long"
-value "syyskuu"
+value "lokakuu"
 )
 (vvPair
 variable "p"
@@ -222,7 +222,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "14:19:07"
+value "14:06:16"
 )
 (vvPair
 variable "unit"
@@ -274,7 +274,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "36200,48000,45900,49000"
+xt "36200,48000,45700,49000"
 st "
 by %user on %dd %month %year
 "
@@ -594,7 +594,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,3000,35500,3800"
-st "SIGNAL clk   : std_logic"
+st "SIGNAL clk   : std_logic
+"
 )
 )
 *13 (Net
@@ -612,7 +613,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,3800,35500,4600"
-st "SIGNAL done  : std_logic"
+st "SIGNAL done  : std_logic
+"
 )
 )
 *14 (Net
@@ -630,7 +632,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,4600,35500,5400"
-st "SIGNAL rst_n : std_logic"
+st "SIGNAL rst_n : std_logic
+"
 )
 )
 *15 (Net
@@ -648,7 +651,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,5400,35500,6200"
-st "SIGNAL s_rst : std_logic"
+st "SIGNAL s_rst : std_logic
+"
 )
 )
 *16 (SaComponent
@@ -1152,12 +1156,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "370,237,2010,1272"
-viewArea "-1088,-1088,87890,50315"
+windowSize "370,237,2011,1272"
+viewArea "-1100,-1100,88447,49003"
 cachedDiagramExtent "0,0,73000,49000"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
-lastUid 370,0
+lastUid 497,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
@@ -2215,7 +2219,7 @@ tm "BdDeclarativeTextMgr"
 )
 commonDM (CommonDM
 ldm (LogicalDM
-suid 5,0
+suid 6,0
 usingSuid 1
 emptyRow *59 (LEmptyRow
 )
