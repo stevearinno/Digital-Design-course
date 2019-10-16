@@ -25,9 +25,9 @@ ENTITY gun_test_block IS
     
     btn : out std_logic_vector (3 downto 0);
     
-    gun_px_idx : out std_logic_vector (4 downto 0);
+    gun_px_idx : out std_logic_vector (2 downto 0);
     
-    gun_pixel_amount : in std_logic_vector (4 downto 0);
+    gun_pixel_amount : in std_logic_vector (2 downto 0);
     
     enable : out std_logic
 );
@@ -51,7 +51,7 @@ ARCHITECTURE testbench OF gun_test_block IS
 	signal cntr : integer;
 	
 	signal gun_pix_integer : integer;
-	signal gun_index : std_logic_vector (4 downto 0);
+	signal gun_index : std_logic_vector (2 downto 0);
 	
 	signal cntr_wait : integer:=0;
 	signal ready : std_logic:='0';
