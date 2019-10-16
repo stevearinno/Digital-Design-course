@@ -144,7 +144,7 @@ value "LENOVO-PC"
 )
 (vvPair
 variable "graphical_source_time"
-value "10:19:06"
+value "12:32:01"
 )
 (vvPair
 variable "group"
@@ -244,7 +244,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "10:19:06"
+value "12:32:01"
 )
 (vvPair
 variable "unit"
@@ -616,7 +616,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,3800,41000,4600"
-st "SIGNAL clk              : std_logic"
+st "SIGNAL clk              : std_logic
+"
 )
 )
 *13 (Net
@@ -635,7 +636,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,3000,51000,3800"
-st "SIGNAL btn              : std_logic_vector(3 downto 0)"
+st "SIGNAL btn              : std_logic_vector(3 downto 0)
+"
 )
 )
 *14 (Net
@@ -653,7 +655,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,4600,41000,5400"
-st "SIGNAL enable           : std_logic"
+st "SIGNAL enable           : std_logic
+"
 )
 )
 *15 (Net
@@ -672,7 +675,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,5400,51500,6200"
-st "SIGNAL gun_color        : std_logic_vector(23 downto 0)"
+st "SIGNAL gun_color        : std_logic_vector(23 downto 0)
+"
 )
 )
 *16 (Net
@@ -691,7 +695,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,7800,51000,8600"
-st "SIGNAL gun_x            : std_logic_vector(7 downto 0)"
+st "SIGNAL gun_x            : std_logic_vector(7 downto 0)
+"
 )
 )
 *17 (Net
@@ -710,7 +715,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,8600,51000,9400"
-st "SIGNAL gun_y            : std_logic_vector(7 downto 0)"
+st "SIGNAL gun_y            : std_logic_vector(7 downto 0)
+"
 )
 )
 *18 (Net
@@ -728,7 +734,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,9400,41000,10200"
-st "SIGNAL rst_n            : std_logic"
+st "SIGNAL rst_n            : std_logic
+"
 )
 )
 *19 (SaComponent
@@ -1375,7 +1382,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,7000,51000,7800"
-st "SIGNAL gun_px_idx       : std_logic_vector(2 downto 0)"
+st "SIGNAL gun_px_idx       : std_logic_vector(2 downto 0)
+"
 )
 )
 *42 (Net
@@ -1393,7 +1401,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,6200,51000,7000"
-st "SIGNAL gun_pixel_amount : std_logic_vector(2 downto 0)"
+st "SIGNAL gun_pixel_amount : std_logic_vector(2 downto 0)
+"
 )
 )
 *43 (SaComponent
@@ -1663,10 +1672,10 @@ suid 8,0
 )
 )
 *51 (CptPort
-uid 860,0
+uid 948,0
 ps "OnEdgeStrategy"
 shape (Triangle
-uid 861,0
+uid 949,0
 ro 90
 va (VaSet
 vasetType 1
@@ -1675,26 +1684,26 @@ fg "0,65535,0"
 xt "41250,21625,42000,22375"
 )
 tg (CPTG
-uid 862,0
+uid 950,0
 ps "CptPortTextPlaceStrategy"
 stg "VerticalLayoutStrategy"
 f (Text
-uid 863,0
+uid 951,0
 va (VaSet
 font "arial,8,0"
 )
-xt "43000,21500,44300,22500"
-st "rst"
+xt "43000,21500,45100,22500"
+st "rst_n"
 blo "43000,22300"
 )
 )
 thePort (LogicalPort
 lang 2
 decl (Decl
-n "rst"
+n "rst_n"
 t "std_logic"
 o 5
-suid 9,0
+suid 10,0
 )
 )
 )
@@ -1720,9 +1729,9 @@ uid 867,0
 va (VaSet
 font "arial,8,1"
 )
-xt "49200,29000,55400,30000"
+xt "45200,29000,51400,30000"
 st "alien_game_lib"
-blo "49200,29800"
+blo "45200,29800"
 tm "BdLibraryNameMgr"
 )
 *53 (Text
@@ -1730,9 +1739,9 @@ uid 868,0
 va (VaSet
 font "arial,8,1"
 )
-xt "49200,30000,57000,31000"
+xt "45200,30000,53000,31000"
 st "c3_t1_gun_module"
-blo "49200,30800"
+blo "45200,30800"
 tm "CptNameMgr"
 )
 *54 (Text
@@ -1740,9 +1749,9 @@ uid 869,0
 va (VaSet
 font "arial,8,1"
 )
-xt "49200,31000,51000,32000"
+xt "45200,31000,47000,32000"
 st "U_1"
-blo "49200,31800"
+blo "45200,31800"
 tm "InstanceNameMgr"
 )
 ]
@@ -2042,7 +2051,6 @@ pts [
 )
 start &27
 end &51
-es 0
 sat 32
 eat 32
 st 0
@@ -2266,11 +2274,11 @@ tm "BdCompilerDirectivesTextMgr"
 associable 1
 )
 windowSize "0,0,1464,823"
-viewArea "-27177,1721,68098,55294"
+viewArea "-27177,-3366,68098,48048"
 cachedDiagramExtent "0,0,73100,49000"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
-lastUid 947,0
+lastUid 951,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0

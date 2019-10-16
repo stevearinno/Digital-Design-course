@@ -18,7 +18,7 @@ VIEW symbol.sb
 GRAPHIC 152,0 17 0 
 DESIGN c3_t1_gun_module
 VIEW symbol.sb
-GRAPHIC 419,0 18 0 
+GRAPHIC 778,0 18 0 
 DESIGN c3_t1_gun_module
 VIEW symbol.sb
 GRAPHIC 182,0 19 0 
@@ -48,162 +48,174 @@ VIEW struct.bd
 GRAPHIC 0,0 43 2 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 1490,0 48 0 
+GRAPHIC 2892,0 48 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 1535,0 49 0 
+GRAPHIC 2898,0 49 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 1612,0 50 0 
+GRAPHIC 2904,0 50 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 432,0 51 0 
+GRAPHIC 2535,0 51 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 438,0 52 0 
+GRAPHIC 432,0 52 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 1276,0 53 0 
+GRAPHIC 438,0 53 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 1713,0 54 0 
+GRAPHIC 1276,0 54 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 2381,0 55 0 
+GRAPHIC 1713,0 55 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 2417,0 56 0 
+GRAPHIC 2381,0 56 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 2447,0 57 0 
+GRAPHIC 2417,0 57 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 1496,0 58 0 
+GRAPHIC 2447,0 58 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 1541,0 59 0 
+GRAPHIC 2598,0 59 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 1618,0 60 0 
+GRAPHIC 1496,0 60 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-NO_GRAPHIC 61
+GRAPHIC 1541,0 61 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-NO_GRAPHIC 71
+GRAPHIC 1618,0 62 0 
+DESIGN c3_t1_gun_module
+VIEW struct.bd
+NO_GRAPHIC 63
+DESIGN c3_t1_gun_module
+VIEW struct.bd
+NO_GRAPHIC 79
 LIBRARY alien_game_lib
 DESIGN c3_t1_pixel_shifter
 VIEW struct
-GRAPHIC 2161,0 73 0 
+GRAPHIC 2161,0 81 0 
 DESIGN c3_t1_pixel_shifter
 VIEW symbol.sb
-GRAPHIC 634,0 75 0 
+GRAPHIC 634,0 83 0 
 DESIGN c3_t1_pixel_shifter
 VIEW symbol.sb
-GRAPHIC 689,0 76 0 
+GRAPHIC 689,0 84 0 
 DESIGN c3_t1_pixel_shifter
 VIEW symbol.sb
-GRAPHIC 649,0 77 0 
+GRAPHIC 649,0 85 0 
 DESIGN c3_t1_pixel_shifter
 VIEW symbol.sb
-GRAPHIC 639,0 78 0 
+GRAPHIC 639,0 86 0 
 LIBRARY alien_game_lib
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-NO_GRAPHIC 81
+NO_GRAPHIC 89
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 2161,0 84 0 
+GRAPHIC 2161,0 92 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-NO_GRAPHIC 87
+NO_GRAPHIC 95
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 1480,0 89 0 
+GRAPHIC 2502,0 97 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 1502,0 100 0 
+GRAPHIC 2565,0 108 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 1579,0 111 0 
+GRAPHIC 2793,0 119 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 321,0 122 0 
+GRAPHIC 2826,0 130 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 358,0 125 0 
+GRAPHIC 2859,0 141 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 246,0 128 0 
+GRAPHIC 321,0 152 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 1847,0 131 0 
+GRAPHIC 358,0 155 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 1857,0 134 0 
+GRAPHIC 246,0 158 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 2356,0 137 0 
+GRAPHIC 1847,0 161 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 423,0 140 0 
+GRAPHIC 1857,0 164 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 1914,0 143 0 
+GRAPHIC 2356,0 167 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 2022,0 159 0 
+GRAPHIC 423,0 170 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 1318,0 175 0 
+GRAPHIC 1914,0 173 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-NO_GRAPHIC 178
+GRAPHIC 2022,0 189 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 2161,0 180 0 
+GRAPHIC 1318,0 205 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 1715,0 182 0 
+NO_GRAPHIC 208
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 1498,0 183 0 
+GRAPHIC 2161,0 210 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 1278,0 184 0 
+GRAPHIC 1715,0 212 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 1492,0 185 0 
+GRAPHIC 2922,0 213 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 2187,0 187 0 
+GRAPHIC 1278,0 214 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 1719,0 189 0 
+GRAPHIC 2894,0 215 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 1543,0 190 0 
+GRAPHIC 2187,0 217 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 1547,0 191 0 
+GRAPHIC 1719,0 219 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 1537,0 192 0 
+GRAPHIC 2916,0 220 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 2213,0 194 0 
+GRAPHIC 1547,0 221 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 1725,0 196 0 
+GRAPHIC 2900,0 222 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 1620,0 197 0 
+GRAPHIC 2213,0 224 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 1624,0 198 0 
+GRAPHIC 1725,0 226 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-GRAPHIC 1614,0 199 0 
+GRAPHIC 2910,0 227 0 
 DESIGN c3_t1_gun_module
 VIEW struct.bd
-NO_GRAPHIC 202
+GRAPHIC 1624,0 228 0 
+DESIGN c3_t1_gun_module
+VIEW struct.bd
+GRAPHIC 2906,0 229 0 
+DESIGN c3_t1_gun_module
+VIEW struct.bd
+NO_GRAPHIC 232

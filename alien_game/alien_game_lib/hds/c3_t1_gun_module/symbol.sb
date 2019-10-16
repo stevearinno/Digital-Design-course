@@ -21,7 +21,7 @@ appVersion "2019.3 (Build 4)"
 model (Symbol
 commonDM (CommonDM
 ldm (LogicalDM
-suid 9,0
+suid 11,0
 usingSuid 1
 emptyRow *1 (LEmptyRow
 )
@@ -156,13 +156,13 @@ uid 151,0
 port (LogicalPort
 lang 2
 decl (Decl
-n "rst"
+n "rst_n"
 t "std_logic"
 o 5
-suid 9,0
+suid 11,0
 )
 )
-uid 418,0
+uid 777,0
 )
 ]
 )
@@ -234,25 +234,25 @@ uid 140,0
 )
 *30 (MRCItem
 litem &17
-pos 6
+pos 4
 dimension 20
 uid 142,0
 )
 *31 (MRCItem
 litem &18
-pos 3
+pos 5
 dimension 20
 uid 146,0
 )
 *32 (MRCItem
 litem &19
-pos 4
+pos 6
 dimension 20
 uid 148,0
 )
 *33 (MRCItem
 litem &20
-pos 5
+pos 3
 dimension 20
 uid 150,0
 )
@@ -260,7 +260,7 @@ uid 150,0
 litem &21
 pos 7
 dimension 20
-uid 417,0
+uid 776,0
 )
 ]
 )
@@ -583,7 +583,7 @@ value "LENOVO-PC"
 )
 (vvPair
 variable "graphical_source_time"
-value "10:14:21"
+value "13:16:35"
 )
 (vvPair
 variable "group"
@@ -683,7 +683,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "10:14:21"
+value "13:16:35"
 )
 (vvPair
 variable "unit"
@@ -1044,10 +1044,10 @@ suid 8,0
 )
 )
 *75 (CptPort
-uid 419,0
+uid 778,0
 ps "OnEdgeStrategy"
 shape (Triangle
-uid 420,0
+uid 779,0
 ro 90
 va (VaSet
 vasetType 1
@@ -1056,35 +1056,35 @@ fg "0,65535,0"
 xt "14250,10625,15000,11375"
 )
 tg (CPTG
-uid 421,0
+uid 780,0
 ps "CptPortTextPlaceStrategy"
 stg "VerticalLayoutStrategy"
 f (Text
-uid 422,0
+uid 781,0
 va (VaSet
 font "arial,8,0"
 )
-xt "16000,10500,17300,11500"
-st "rst"
+xt "16000,10500,18100,11500"
+st "rst_n"
 blo "16000,11300"
 tm "CptPortNameMgr"
 )
 )
 dt (MLText
-uid 423,0
+uid 782,0
 va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,5200,61500,6000"
-st "rst        : IN     std_logic  ;"
+st "rst_n      : IN     std_logic  ;"
 )
 thePort (LogicalPort
 lang 2
 decl (Decl
-n "rst"
+n "rst_n"
 t "std_logic"
 o 5
-suid 9,0
+suid 11,0
 )
 )
 )
@@ -1786,6 +1786,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 561,0
+lastUid 805,0
 activeModelName "Symbol:CDM"
 )
