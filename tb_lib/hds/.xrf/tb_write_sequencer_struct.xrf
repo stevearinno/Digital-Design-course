@@ -1,0 +1,165 @@
+DESIGN tb_write_sequencer
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN tb_write_sequencer
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN tb_write_sequencer
+VIEW symbol.sb
+GRAPHIC 1,0 13 0 
+DESIGN tb_write_sequencer
+VIEW symbol.sb
+GRAPHIC 1,0 14 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+NO_GRAPHIC 17
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 41,0 26 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+NO_GRAPHIC 29
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 0,0 33 2 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 397,0 38 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 395,0 39 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 239,0 40 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 309,0 41 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 241,0 42 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 574,0 43 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 265,0 44 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 253,0 45 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 217,0 46 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+NO_GRAPHIC 47
+DESIGN tb_write_sequencer
+VIEW struct.bd
+NO_GRAPHIC 48
+LIBRARY alien_game_lib
+DESIGN c3_t2_write_sequencer
+VIEW fsm
+GRAPHIC 687,0 50 0 
+DESIGN c3_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 124,0 52 0 
+DESIGN c3_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 235,0 53 0 
+DESIGN c3_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 134,0 54 0 
+DESIGN c3_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 159,0 55 0 
+DESIGN c3_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 154,0 56 0 
+DESIGN c3_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 144,0 57 0 
+DESIGN c3_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 139,0 58 0 
+DESIGN c3_t2_write_sequencer
+VIEW symbol.sb
+GRAPHIC 149,0 59 0 
+LIBRARY tb_lib
+DESIGN wr_seq_tester
+VIEW testbench
+GRAPHIC 606,0 62 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+NO_GRAPHIC 71
+LIBRARY tb_lib
+DESIGN tb_write_sequencer
+VIEW struct.bd
+NO_GRAPHIC 73
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 687,0 76 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 606,0 77 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+NO_GRAPHIC 80
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 369,0 82 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 350,0 85 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 556,0 88 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+NO_GRAPHIC 91
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 687,0 93 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 231,0 95 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 209,0 96 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 199,0 97 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 301,0 98 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 257,0 99 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 245,0 102 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 606,0 104 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 301,0 106 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 257,0 107 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 245,0 108 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 231,0 109 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 209,0 110 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 199,0 111 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 568,0 112 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+NO_GRAPHIC 115
