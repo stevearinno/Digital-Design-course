@@ -34,23 +34,23 @@ VExpander (VariableExpander
 vvMap [
 (vvPair
 variable "HDLDir"
-value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hdl"
+value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hdl"
 )
 (vvPair
 variable "HDSDir"
-value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds"
+value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds"
 )
 (vvPair
 variable "SideDataDesignDir"
-value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds\\c3_t2_write_sequencer\\fsm.sm.info"
+value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c3_t2_write_sequencer\\fsm.sm.info"
 )
 (vvPair
 variable "SideDataUserDir"
-value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds\\c3_t2_write_sequencer\\fsm.sm.user"
+value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c3_t2_write_sequencer\\fsm.sm.user"
 )
 (vvPair
 variable "SourceDir"
-value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds"
+value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds"
 )
 (vvPair
 variable "appl"
@@ -66,27 +66,27 @@ value "%(unit)_%(view)_config"
 )
 (vvPair
 variable "d"
-value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds\\c3_t2_write_sequencer"
+value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c3_t2_write_sequencer"
 )
 (vvPair
 variable "d_logical"
-value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds\\c3_t2_write_sequencer"
+value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c3_t2_write_sequencer"
 )
 (vvPair
 variable "date"
-value "10/18/2019"
+value "21.10.2019"
 )
 (vvPair
 variable "day"
-value "Fri"
+value "ma"
 )
 (vvPair
 variable "day_long"
-value "Friday"
+value "maanantai"
 )
 (vvPair
 variable "dd"
-value "18"
+value "21"
 )
 (vvPair
 variable "entity_name"
@@ -110,11 +110,11 @@ value "fsm"
 )
 (vvPair
 variable "graphical_source_author"
-value "Thinkpad X1"
+value "wirdatma"
 )
 (vvPair
 variable "graphical_source_date"
-value "10/18/2019"
+value "21.10.2019"
 )
 (vvPair
 variable "graphical_source_group"
@@ -122,11 +122,11 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_host"
-value "LENOVO-PC"
+value "HTC219-716-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "23:16:49"
+value "14:44:03"
 )
 (vvPair
 variable "group"
@@ -134,7 +134,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "LENOVO-PC"
+value "HTC219-716-SPC"
 )
 (vvPair
 variable "language"
@@ -158,19 +158,19 @@ value "c3_t2_write_sequencer"
 )
 (vvPair
 variable "month"
-value "Oct"
+value "loka"
 )
 (vvPair
 variable "month_long"
-value "October"
+value "lokakuu"
 )
 (vvPair
 variable "p"
-value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds\\c3_t2_write_sequencer\\fsm.sm"
+value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c3_t2_write_sequencer\\fsm.sm"
 )
 (vvPair
 variable "p_logical"
-value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds\\c3_t2_write_sequencer\\fsm.sm"
+value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c3_t2_write_sequencer\\fsm.sm"
 )
 (vvPair
 variable "package_name"
@@ -194,7 +194,7 @@ value "<TBD>"
 )
 (vvPair
 variable "task_ModelSimPath"
-value "C:\\modeltech_10.7d\\win32"
+value "C:\\Apps\\MODELTECH_10.2C\\win32"
 )
 (vvPair
 variable "task_NC-SimPath"
@@ -226,7 +226,7 @@ value "fsm"
 )
 (vvPair
 variable "time"
-value "23:16:49"
+value "14:44:03"
 )
 (vvPair
 variable "unit"
@@ -234,7 +234,7 @@ value "c3_t2_write_sequencer"
 )
 (vvPair
 variable "user"
-value "Thinkpad X1"
+value "wirdatma"
 )
 (vvPair
 variable "version"
@@ -254,6 +254,7 @@ value "19"
 )
 ]
 )
+uid 701,0
 optionalChildren [
 *1 (ConcurrentSM
 uid 1,0
@@ -3224,8 +3225,8 @@ va (VaSet
 fg "0,0,32768"
 font "arial,10,1"
 )
-xt "37210,27710,40810,28910"
-st "wait 2"
+xt "37210,27710,41410,28910"
+st "wait 10"
 blo "37210,28710"
 tm "SmWaitText"
 )
@@ -5000,11 +5001,11 @@ tm "SmCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "1,7,1452,566"
-viewArea "-28463,12280,65096,43109"
+windowSize "-8,-8,2568,1408"
+viewArea "-28500,9032,149948,106920"
 cachedDiagramExtent "-28923,-1000,89700,72504"
 hasePageBreakOrigin 1
-pageBreakOrigin "0,-2000"
+pageBreakOrigin "-73000,-2000"
 isTopLevel 1
 defaultCommentText (CommentText
 shape (Rectangle
@@ -5396,7 +5397,7 @@ stateOrder [
 name "csm"
 )
 ]
-lastUid 700,0
+lastUid 746,0
 commonDM (CommonDM
 ldm (LogicalDM
 emptyRow *82 (LEmptyRow
@@ -5774,6 +5775,7 @@ genericsCommonDM (CommonDM
 ldm (LogicalDM
 emptyRow *136 (LEmptyRow
 )
+uid 721,0
 optionalChildren [
 *137 (RefLabelRowHdr
 )
@@ -5810,6 +5812,7 @@ tm "GenericEolColHdrMgr"
 pdm (PhysicalDM
 displayShortBounds 1
 editShortBounds 1
+uid 733,0
 optionalChildren [
 *148 (Sheet
 sheetRow (SheetRow
@@ -5833,22 +5836,26 @@ litem &136
 pos 0
 dimension 20
 )
+uid 735,0
 optionalChildren [
 *150 (MRCItem
 litem &137
 pos 0
 dimension 20
+uid 736,0
 )
 *151 (MRCItem
 litem &138
 pos 1
 dimension 23
+uid 737,0
 )
 *152 (MRCItem
 litem &139
 pos 2
 hidden 1
 dimension 20
+uid 738,0
 )
 ]
 )
@@ -5859,52 +5866,62 @@ fontColor "0,0,0"
 font "Tahoma,10,0"
 textAngle 90
 )
+uid 739,0
 optionalChildren [
 *153 (MRCItem
 litem &140
 pos 0
 dimension 20
+uid 740,0
 )
 *154 (MRCItem
 litem &142
 pos 1
 dimension 50
+uid 741,0
 )
 *155 (MRCItem
 litem &143
 pos 2
 dimension 100
+uid 742,0
 )
 *156 (MRCItem
 litem &144
 pos 3
 dimension 100
+uid 743,0
 )
 *157 (MRCItem
 litem &145
 pos 4
 dimension 50
+uid 744,0
 )
 *158 (MRCItem
 litem &146
 pos 5
 dimension 50
+uid 745,0
 )
 *159 (MRCItem
 litem &147
 pos 6
 dimension 80
+uid 746,0
 )
 ]
 )
 fixedCol 3
 fixedRow 2
 name "Ports"
+uid 734,0
 vaOverrides [
 ]
 )
 ]
 )
+uid 720,0
 type 1
 )
 signalSuffix "_int"
@@ -6494,7 +6511,7 @@ va (VaSet
 vasetType 1
 transparent 1
 )
-xt "-371,971,-115,1279"
+xt "-443,924,-115,1325"
 )
 ]
 )
@@ -6571,7 +6588,7 @@ va (VaSet
 vasetType 1
 transparent 1
 )
-xt "-415,1064,-76,1263"
+xt "-425,943,-76,1304"
 )
 (Line
 sl 0
