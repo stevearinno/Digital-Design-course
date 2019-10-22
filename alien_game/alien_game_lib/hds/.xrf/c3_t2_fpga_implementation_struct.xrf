@@ -6,331 +6,202 @@ VIEW symbol.sb
 GRAPHIC 50,0 8 0 
 DESIGN c3_t2_fpga_implementation
 VIEW symbol.sb
-GRAPHIC 124,0 14 0 
+GRAPHIC 571,0 14 0 
 DESIGN c3_t2_fpga_implementation
 VIEW symbol.sb
-GRAPHIC 119,0 15 0 
+GRAPHIC 581,0 15 0 
 DESIGN c3_t2_fpga_implementation
 VIEW symbol.sb
-GRAPHIC 114,0 16 0 
+GRAPHIC 576,0 16 0 
 DESIGN c3_t2_fpga_implementation
 VIEW symbol.sb
-GRAPHIC 154,0 17 0 
+GRAPHIC 566,0 17 0 
 DESIGN c3_t2_fpga_implementation
 VIEW symbol.sb
-GRAPHIC 1,0 20 0 
+GRAPHIC 551,0 18 0 
 DESIGN c3_t2_fpga_implementation
 VIEW symbol.sb
-GRAPHIC 1,0 21 0 
+GRAPHIC 541,0 19 0 
+DESIGN c3_t2_fpga_implementation
+VIEW symbol.sb
+GRAPHIC 561,0 20 0 
+DESIGN c3_t2_fpga_implementation
+VIEW symbol.sb
+GRAPHIC 546,0 21 0 
+DESIGN c3_t2_fpga_implementation
+VIEW symbol.sb
+GRAPHIC 556,0 22 0 
+DESIGN c3_t2_fpga_implementation
+VIEW symbol.sb
+GRAPHIC 1,0 25 0 
+DESIGN c3_t2_fpga_implementation
+VIEW symbol.sb
+GRAPHIC 1,0 26 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-NO_GRAPHIC 24
+NO_GRAPHIC 29
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 89,0 33 0 
+GRAPHIC 89,0 38 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-NO_GRAPHIC 36
+NO_GRAPHIC 41
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 0,0 40 2 
+GRAPHIC 0,0 45 2 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 828,0 45 0 
+GRAPHIC 1931,0 50 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 1144,0 46 0 
+GRAPHIC 1901,0 51 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 1150,0 47 0 
+GRAPHIC 1895,0 52 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 1156,0 48 0 
+GRAPHIC 1907,0 53 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 459,0 49 0 
+GRAPHIC 1919,0 54 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 447,0 50 0 
+GRAPHIC 1925,0 55 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 846,0 51 0 
+NO_GRAPHIC 56
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 465,0 52 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 906,0 53 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 1162,0 54 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 1168,0 55 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 1174,0 56 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 453,0 57 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 471,0 58 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 816,0 59 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 834,0 60 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 822,0 61 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 840,0 62 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-NO_GRAPHIC 63
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-NO_GRAPHIC 73
+NO_GRAPHIC 57
 LIBRARY alien_game_lib
-DESIGN c2_t7_basic_alien
+DESIGN c3_t2_writer_seq_top_level
 VIEW struct
-GRAPHIC 311,0 75 0 
-DESIGN c2_t7_basic_alien
+GRAPHIC 1885,0 59 0 
+DESIGN c3_t2_writer_seq_top_level
 VIEW symbol.sb
-GRAPHIC 134,0 77 0 
-DESIGN c2_t7_basic_alien
+GRAPHIC 277,0 61 0 
+DESIGN c3_t2_writer_seq_top_level
 VIEW symbol.sb
-GRAPHIC 124,0 78 0 
-DESIGN c2_t7_basic_alien
+GRAPHIC 282,0 62 0 
+DESIGN c3_t2_writer_seq_top_level
 VIEW symbol.sb
-GRAPHIC 129,0 79 0 
-DESIGN c2_t7_basic_alien
+GRAPHIC 307,0 63 0 
+DESIGN c3_t2_writer_seq_top_level
 VIEW symbol.sb
-GRAPHIC 139,0 80 0 
-DESIGN c2_t7_basic_alien
+GRAPHIC 398,0 64 0 
+DESIGN c3_t2_writer_seq_top_level
 VIEW symbol.sb
-GRAPHIC 154,0 81 0 
-DESIGN c2_t7_basic_alien
+GRAPHIC 423,0 65 0 
+DESIGN c3_t2_writer_seq_top_level
 VIEW symbol.sb
-GRAPHIC 159,0 82 0 
-DESIGN c2_t7_basic_alien
+GRAPHIC 403,0 66 0 
+DESIGN c3_t2_writer_seq_top_level
 VIEW symbol.sb
-GRAPHIC 149,0 83 0 
-DESIGN c2_t7_basic_alien
+GRAPHIC 408,0 67 0 
+DESIGN c3_t2_writer_seq_top_level
 VIEW symbol.sb
-GRAPHIC 144,0 84 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 395,0 87 0 
-DESIGN c3_t1_gun_module
+GRAPHIC 413,0 68 0 
+DESIGN c3_t2_writer_seq_top_level
 VIEW symbol.sb
-GRAPHIC 110,0 89 0 
-DESIGN c3_t1_gun_module
-VIEW symbol.sb
-GRAPHIC 162,0 90 0 
-DESIGN c3_t1_gun_module
-VIEW symbol.sb
-GRAPHIC 157,0 91 0 
-DESIGN c3_t1_gun_module
-VIEW symbol.sb
-GRAPHIC 152,0 92 0 
-DESIGN c3_t1_gun_module
-VIEW symbol.sb
-GRAPHIC 778,0 93 0 
-DESIGN c3_t1_gun_module
-VIEW symbol.sb
-GRAPHIC 182,0 94 0 
-DESIGN c3_t1_gun_module
-VIEW symbol.sb
-GRAPHIC 172,0 95 0 
-DESIGN c3_t1_gun_module
-VIEW symbol.sb
-GRAPHIC 177,0 96 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 189,0 99 0 
-DESIGN c3_t2_write_sequencer
-VIEW symbol.sb
-GRAPHIC 124,0 101 0 
-DESIGN c3_t2_write_sequencer
-VIEW symbol.sb
-GRAPHIC 235,0 102 0 
-DESIGN c3_t2_write_sequencer
-VIEW symbol.sb
-GRAPHIC 134,0 103 0 
-DESIGN c3_t2_write_sequencer
-VIEW symbol.sb
-GRAPHIC 159,0 104 0 
-DESIGN c3_t2_write_sequencer
-VIEW symbol.sb
-GRAPHIC 154,0 105 0 
-DESIGN c3_t2_write_sequencer
-VIEW symbol.sb
-GRAPHIC 144,0 106 0 
-DESIGN c3_t2_write_sequencer
-VIEW symbol.sb
-GRAPHIC 139,0 107 0 
-DESIGN c3_t2_write_sequencer
-VIEW symbol.sb
-GRAPHIC 149,0 108 0 
+GRAPHIC 418,0 69 0 
 LIBRARY pre_made
 DESIGN z_black_box_y
 VIEW struct
-GRAPHIC 199,0 111 0 
+GRAPHIC 1582,0 72 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-NO_GRAPHIC 127
+NO_GRAPHIC 88
 LIBRARY alien_game_lib
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-NO_GRAPHIC 129
+NO_GRAPHIC 90
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 311,0 132 0 
+GRAPHIC 1885,0 93 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 395,0 133 0 
+GRAPHIC 1582,0 94 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 189,0 134 0 
+NO_GRAPHIC 97
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 199,0 135 0 
+NO_GRAPHIC 99
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-NO_GRAPHIC 138
+GRAPHIC 1885,0 101 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 1050,0 140 0 
+GRAPHIC 1957,0 103 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 1060,0 151 0 
+GRAPHIC 1989,0 104 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 1093,0 162 0 
+GRAPHIC 1977,0 105 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 653,0 173 0 
+GRAPHIC 1897,0 106 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 690,0 183 0 
+GRAPHIC 1933,0 107 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 753,0 193 0 
+GRAPHIC 1903,0 108 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-NO_GRAPHIC 203
+GRAPHIC 1909,0 109 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 311,0 205 0 
+GRAPHIC 1921,0 110 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 411,0 207 0 
+GRAPHIC 1927,0 111 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 900,0 208 0 
+GRAPHIC 1582,0 113 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 441,0 209 0 
+GRAPHIC 2001,0 115 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 429,0 210 0 
+GRAPHIC 1933,0 116 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 830,0 211 0 
+GRAPHIC 1903,0 117 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 818,0 213 0 
+GRAPHIC 1981,0 118 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 824,0 214 0 
+GRAPHIC 1909,0 119 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 395,0 216 0 
+GRAPHIC 1921,0 120 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 15,0 218 0 
+GRAPHIC 1927,0 121 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 405,0 219 0 
+GRAPHIC 1817,0 122 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 461,0 220 0 
+GRAPHIC 1757,0 123 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 467,0 221 0 
+GRAPHIC 1785,0 124 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 435,0 222 0 
+GRAPHIC 1771,0 125 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 848,0 223 0 
+GRAPHIC 1789,0 126 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 836,0 224 0 
+GRAPHIC 1897,0 127 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 842,0 225 0 
+GRAPHIC 1761,0 128 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 189,0 227 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 29,0 229 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 43,0 230 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 455,0 231 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 461,0 232 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 449,0 233 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 467,0 234 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 908,0 235 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 473,0 236 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 199,0 238 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 417,0 240 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 1176,0 241 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 449,0 242 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 423,0 243 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 473,0 244 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 1164,0 245 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 1170,0 246 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 271,0 250 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-GRAPHIC 455,0 252 0 
-DESIGN c3_t2_fpga_implementation
-VIEW struct.bd
-NO_GRAPHIC 256
+NO_GRAPHIC 131

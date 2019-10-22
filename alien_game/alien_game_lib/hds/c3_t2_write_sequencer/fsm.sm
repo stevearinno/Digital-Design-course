@@ -74,19 +74,19 @@ value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c3_t2_write_sequencer
 )
 (vvPair
 variable "date"
-value "21.10.2019"
+value "22.10.2019"
 )
 (vvPair
 variable "day"
-value "ma"
+value "ti"
 )
 (vvPair
 variable "day_long"
-value "maanantai"
+value "tiistai"
 )
 (vvPair
 variable "dd"
-value "21"
+value "22"
 )
 (vvPair
 variable "entity_name"
@@ -114,7 +114,7 @@ value "wirdatma"
 )
 (vvPair
 variable "graphical_source_date"
-value "21.10.2019"
+value "22.10.2019"
 )
 (vvPair
 variable "graphical_source_group"
@@ -122,11 +122,11 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_host"
-value "HTC219-716-SPC"
+value "HTC219-709-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "14:44:03"
+value "13:52:28"
 )
 (vvPair
 variable "group"
@@ -134,7 +134,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "HTC219-716-SPC"
+value "HTC219-709-SPC"
 )
 (vvPair
 variable "language"
@@ -226,7 +226,7 @@ value "fsm"
 )
 (vvPair
 variable "time"
-value "14:44:03"
+value "13:52:28"
 )
 (vvPair
 variable "unit"
@@ -809,7 +809,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "31200,48000,42800,49000"
+xt "31200,48000,42000,49000"
 st "
 by %user on %dd %month %year
 "
@@ -3225,8 +3225,8 @@ va (VaSet
 fg "0,0,32768"
 font "arial,10,1"
 )
-xt "37210,27710,41410,28910"
-st "wait 10"
+xt "37210,27710,40810,28910"
+st "wait 2"
 blo "37210,28710"
 tm "SmWaitText"
 )
@@ -5001,8 +5001,8 @@ tm "SmCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "-8,-8,2568,1408"
-viewArea "-28500,9032,149948,106920"
+windowSize "0,24,2561,1440"
+viewArea "-28500,9000,148808,104760"
 cachedDiagramExtent "-28923,-1000,89700,72504"
 hasePageBreakOrigin 1
 pageBreakOrigin "-73000,-2000"
@@ -5397,7 +5397,7 @@ stateOrder [
 name "csm"
 )
 ]
-lastUid 746,0
+lastUid 833,0
 commonDM (CommonDM
 ldm (LogicalDM
 emptyRow *82 (LEmptyRow
@@ -5500,7 +5500,7 @@ decl (Decl
 n "module_select"
 t "std_logic_vector"
 b "(1 DOWNTO 0)"
-o 4
+o 7
 )
 )
 uid 162,0
@@ -5515,7 +5515,7 @@ decl (Decl
 n "gun_px_idx"
 t "std_logic_vector"
 b "(2 DOWNTO 0)"
-o 5
+o 6
 )
 )
 uid 164,0
@@ -5529,7 +5529,7 @@ m 1
 decl (Decl
 n "write"
 t "std_logic"
-o 6
+o 8
 )
 )
 uid 166,0
@@ -5543,7 +5543,7 @@ m 1
 decl (Decl
 n "frame_done"
 t "std_logic"
-o 7
+o 5
 )
 )
 uid 168,0
@@ -5557,7 +5557,7 @@ m 1
 decl (Decl
 n "enable"
 t "std_logic"
-o 8
+o 4
 )
 )
 uid 170,0

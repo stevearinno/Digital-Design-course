@@ -93,19 +93,19 @@ value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c2_t7_color"
 )
 (vvPair
 variable "date"
-value "21.10.2019"
+value "22.10.2019"
 )
 (vvPair
 variable "day"
-value "ma"
+value "ti"
 )
 (vvPair
 variable "day_long"
-value "maanantai"
+value "tiistai"
 )
 (vvPair
 variable "dd"
-value "21"
+value "22"
 )
 (vvPair
 variable "entity_name"
@@ -133,7 +133,7 @@ value "wirdatma"
 )
 (vvPair
 variable "graphical_source_date"
-value "21.10.2019"
+value "22.10.2019"
 )
 (vvPair
 variable "graphical_source_group"
@@ -141,11 +141,11 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_host"
-value "HTC219-715-SPC"
+value "HTC219-709-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "16:02:37"
+value "14:28:05"
 )
 (vvPair
 variable "group"
@@ -153,7 +153,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "HTC219-715-SPC"
+value "HTC219-709-SPC"
 )
 (vvPair
 variable "language"
@@ -245,7 +245,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "16:02:37"
+value "14:28:05"
 )
 (vvPair
 variable "unit"
@@ -1647,7 +1647,7 @@ pts [
 ]
 )
 *55 (Circle
-uid 520,0
+uid 698,0
 va (VaSet
 vasetType 1
 fg "65535,65535,65535"
@@ -1969,20 +1969,21 @@ ptn "String"
 )
 *68 (Property
 pclass "param"
-pname "rst_type"
-pvalue "2"
-ptn "String"
-)
-*69 (Property
-pclass "param"
 pname "rst_val"
 pvalue "16711680"
 ptn "String"
 )
-*70 (Property
+*69 (Property
 pclass "param"
 pname "set_type"
 pvalue "4"
+ptn "String"
+)
+*70 (Property
+uid 697,0
+pclass "param"
+pname "rst_type"
+pvalue "2"
 ptn "String"
 )
 ]
@@ -2594,12 +2595,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "173,152,1192,842"
-viewArea "-7700,4600,65072,53912"
+windowSize "125,82,1145,772"
+viewArea "-2272,4600,70592,51336"
 cachedDiagramExtent "-6100,0,67000,49000"
 hasePageBreakOrigin 1
 pageBreakOrigin "-79000,0"
-lastUid 665,0
+lastUid 698,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0

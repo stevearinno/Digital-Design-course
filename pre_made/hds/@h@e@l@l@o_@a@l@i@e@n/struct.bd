@@ -101,19 +101,19 @@ value "P:\\DigitalDesign\\alien_game\\..\\pre_made\\hds\\HELLO_ALIEN"
 )
 (vvPair
 variable "date"
-value " 5.10.2019"
+value "22.10.2019"
 )
 (vvPair
 variable "day"
-value "la"
+value "ti"
 )
 (vvPair
 variable "day_long"
-value "lauantai"
+value "tiistai"
 )
 (vvPair
 variable "dd"
-value "05"
+value "22"
 )
 (vvPair
 variable "entity_name"
@@ -141,7 +141,7 @@ value "wirdatma"
 )
 (vvPair
 variable "graphical_source_date"
-value " 5.10.2019"
+value "22.10.2019"
 )
 (vvPair
 variable "graphical_source_group"
@@ -149,11 +149,11 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_host"
-value "HTC219-712-SPC"
+value "HTC219-709-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "16:56:40"
+value "15:21:56"
 )
 (vvPair
 variable "group"
@@ -161,7 +161,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "HTC219-712-SPC"
+value "HTC219-709-SPC"
 )
 (vvPair
 variable "language"
@@ -257,7 +257,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "16:56:40"
+value "15:21:56"
 )
 (vvPair
 variable "unit"
@@ -309,7 +309,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "36200,48000,45900,49000"
+xt "36200,48000,47000,49000"
 st "
 by %user on %dd %month %year
 "
@@ -465,7 +465,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "57200,44000,64900,45000"
+xt "57200,44000,61900,45000"
 st "
 %project_name
 "
@@ -1026,7 +1026,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "65000,39625,65750,40375"
+xt "65000,32625,65750,33375"
 )
 tg (CPTG
 uid 415,0
@@ -1036,10 +1036,10 @@ f (Text
 uid 416,0
 va (VaSet
 )
-xt "60100,39500,64000,40500"
+xt "60100,32500,64000,33500"
 st "iotre_will"
 ju 2
-blo "64000,40300"
+blo "64000,33300"
 )
 )
 thePort (LogicalPort
@@ -1062,7 +1062,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "65000,39625,65750,40375"
+xt "65000,35625,65750,36375"
 )
 tg (CPTG
 uid 419,0
@@ -1072,10 +1072,10 @@ f (Text
 uid 420,0
 va (VaSet
 )
-xt "60800,39500,64000,40500"
+xt "60800,35500,64000,36500"
 st "like_this"
 ju 2
-blo "64000,40300"
+blo "64000,36300"
 )
 )
 thePort (LogicalPort
@@ -1098,7 +1098,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "65000,39625,65750,40375"
+xt "65000,29625,65750,30375"
 )
 tg (CPTG
 uid 423,0
@@ -1108,10 +1108,10 @@ f (Text
 uid 424,0
 va (VaSet
 )
-xt "58300,39500,64000,40500"
+xt "58300,29500,64000,30500"
 st "of_this_course"
 ju 2
-blo "64000,40300"
+blo "64000,30300"
 )
 )
 thePort (LogicalPort
@@ -1134,7 +1134,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "65000,39625,65750,40375"
+xt "65000,37625,65750,38375"
 )
 tg (CPTG
 uid 427,0
@@ -1144,10 +1144,10 @@ f (Text
 uid 428,0
 va (VaSet
 )
-xt "58300,39500,64000,40500"
+xt "58300,37500,64000,38500"
 st "throw_you_out"
 ju 2
-blo "64000,40300"
+blo "64000,38300"
 )
 )
 thePort (LogicalPort
@@ -1170,7 +1170,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "65000,39625,65750,40375"
+xt "65000,27625,65750,28375"
 )
 tg (CPTG
 uid 431,0
@@ -1180,10 +1180,10 @@ f (Text
 uid 432,0
 va (VaSet
 )
-xt "58900,39500,64000,40500"
+xt "58900,27500,64000,28500"
 st "your_signals"
 ju 2
-blo "64000,40300"
+blo "64000,28300"
 )
 )
 thePort (LogicalPort
@@ -1337,16 +1337,16 @@ optionalChildren [
 uid 267,0
 sl 0
 ro 270
-xt "67500,39625,69000,40375"
+xt "67500,37625,69000,38375"
 )
 (Line
 uid 268,0
 sl 0
 ro 270
-xt "67000,40000,67500,40000"
+xt "67000,38000,67500,38000"
 pts [
-"67000,40000"
-"67500,40000"
+"67000,38000"
+"67500,38000"
 ]
 )
 ]
@@ -1361,9 +1361,9 @@ f (Text
 uid 270,0
 va (VaSet
 )
-xt "57000,39500,62700,40500"
+xt "57000,37500,62700,38500"
 st "throw_you_out"
-blo "57000,40300"
+blo "57000,38300"
 tm "WireNameMgr"
 )
 )
@@ -1381,16 +1381,16 @@ optionalChildren [
 uid 273,0
 sl 0
 ro 270
-xt "67500,39625,69000,40375"
+xt "67500,35625,69000,36375"
 )
 (Line
 uid 274,0
 sl 0
 ro 270
-xt "67000,40000,67500,40000"
+xt "67000,36000,67500,36000"
 pts [
-"67000,40000"
-"67500,40000"
+"67000,36000"
+"67500,36000"
 ]
 )
 ]
@@ -1405,9 +1405,9 @@ f (Text
 uid 276,0
 va (VaSet
 )
-xt "59000,39500,62200,40500"
+xt "59000,35500,62200,36500"
 st "like_this"
-blo "59000,40300"
+blo "59000,36300"
 tm "WireNameMgr"
 )
 )
@@ -1425,16 +1425,16 @@ optionalChildren [
 uid 279,0
 sl 0
 ro 270
-xt "67500,39625,69000,40375"
+xt "67500,32625,69000,33375"
 )
 (Line
 uid 280,0
 sl 0
 ro 270
-xt "67000,40000,67500,40000"
+xt "67000,33000,67500,33000"
 pts [
-"67000,40000"
-"67500,40000"
+"67000,33000"
+"67500,33000"
 ]
 )
 ]
@@ -1449,9 +1449,9 @@ f (Text
 uid 282,0
 va (VaSet
 )
-xt "61000,39500,64900,40500"
+xt "61000,32500,64900,33500"
 st "iotre_will"
-blo "61000,40300"
+blo "61000,33300"
 tm "WireNameMgr"
 )
 )
@@ -1469,16 +1469,16 @@ optionalChildren [
 uid 285,0
 sl 0
 ro 270
-xt "67500,39625,69000,40375"
+xt "67500,29625,69000,30375"
 )
 (Line
 uid 286,0
 sl 0
 ro 270
-xt "67000,40000,67500,40000"
+xt "67000,30000,67500,30000"
 pts [
-"67000,40000"
-"67500,40000"
+"67000,30000"
+"67500,30000"
 ]
 )
 ]
@@ -1493,9 +1493,9 @@ f (Text
 uid 288,0
 va (VaSet
 )
-xt "57000,39500,62700,40500"
+xt "57000,29500,62700,30500"
 st "of_this_course"
-blo "57000,40300"
+blo "57000,30300"
 tm "WireNameMgr"
 )
 )
@@ -1513,16 +1513,16 @@ optionalChildren [
 uid 291,0
 sl 0
 ro 270
-xt "67500,39625,69000,40375"
+xt "67500,27625,69000,28375"
 )
 (Line
 uid 292,0
 sl 0
 ro 270
-xt "67000,40000,67500,40000"
+xt "67000,28000,67500,28000"
 pts [
-"67000,40000"
-"67500,40000"
+"67000,28000"
+"67500,28000"
 ]
 )
 ]
@@ -1537,9 +1537,9 @@ f (Text
 uid 294,0
 va (VaSet
 )
-xt "57000,39500,62100,40500"
+xt "57000,27500,62100,28500"
 st "your_signals"
-blo "57000,40300"
+blo "57000,28300"
 tm "WireNameMgr"
 )
 )
@@ -1558,7 +1558,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,6800,54500,7600"
-st "of_this_course : std_logic"
+st "of_this_course : std_logic
+"
 )
 )
 *39 (Net
@@ -1575,7 +1576,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,7600,54500,8400"
-st "throw_you_out  : std_logic"
+st "throw_you_out  : std_logic
+"
 )
 )
 *40 (Net
@@ -1592,7 +1594,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,8400,54500,9200"
-st "your_signals   : std_logic"
+st "your_signals   : std_logic
+"
 )
 )
 *41 (Net
@@ -1609,7 +1612,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,2800,54500,3600"
-st "clk            : std_logic"
+st "clk            : std_logic
+"
 )
 )
 *42 (Net
@@ -1626,7 +1630,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,3600,54500,4400"
-st "rst_n          : std_logic"
+st "rst_n          : std_logic
+"
 )
 )
 *43 (Net
@@ -1644,7 +1649,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,4400,64500,5200"
-st "if_you_name    : std_logic_vector(7 DOWNTO 0)"
+st "if_you_name    : std_logic_vector(7 DOWNTO 0)
+"
 )
 )
 *44 (Net
@@ -1661,7 +1667,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,6000,54500,6800"
-st "like_this      : std_logic"
+st "like_this      : std_logic
+"
 )
 )
 *45 (Net
@@ -1678,7 +1685,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,5200,54500,6000"
-st "iotre_will     : std_logic"
+st "iotre_will     : std_logic
+"
 )
 )
 *46 (MWC
@@ -2223,7 +2231,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,13400,58000,14200"
-st "SIGNAL q              : std_logic"
+st "SIGNAL q              : std_logic
+"
 )
 )
 *72 (Net
@@ -2240,7 +2249,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,14200,58000,15000"
-st "SIGNAL write          : std_logic"
+st "SIGNAL write          : std_logic
+"
 )
 )
 *73 (PortIoIn
@@ -2303,7 +2313,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,2000,64500,2800"
-st "btn            : std_logic_vector(3 DOWNTO 0)"
+st "btn            : std_logic_vector(3 DOWNTO 0)
+"
 )
 )
 *75 (Net
@@ -2320,7 +2331,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,12600,58000,13400"
-st "SIGNAL enable         : std_logic"
+st "SIGNAL enable         : std_logic
+"
 )
 )
 *76 (Net
@@ -2338,7 +2350,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,11000,68000,11800"
-st "SIGNAL alien_x        : std_logic_vector(7 DOWNTO 0)"
+st "SIGNAL alien_x        : std_logic_vector(7 DOWNTO 0)
+"
 )
 )
 *77 (Net
@@ -2356,7 +2369,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,11800,68000,12600"
-st "SIGNAL alien_y        : std_logic_vector(7 DOWNTO 0)"
+st "SIGNAL alien_y        : std_logic_vector(7 DOWNTO 0)
+"
 )
 )
 *78 (Net
@@ -2374,7 +2388,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,10200,68500,11000"
-st "SIGNAL alien_color    : std_logic_vector(23 DOWNTO 0)"
+st "SIGNAL alien_color    : std_logic_vector(23 DOWNTO 0)
+"
 )
 )
 *79 (SaComponent
@@ -3108,10 +3123,10 @@ uid 332,0
 va (VaSet
 vasetType 3
 )
-xt "65750,40000,67000,40000"
+xt "65750,36000,67000,36000"
 pts [
-"65750,40000"
-"67000,40000"
+"65750,36000"
+"67000,36000"
 ]
 )
 start &25
@@ -3132,9 +3147,9 @@ uid 334,0
 va (VaSet
 isHidden 1
 )
-xt "64750,39000,67950,40000"
+xt "64750,35000,67950,36000"
 st "like_this"
-blo "64750,39800"
+blo "64750,35800"
 tm "WireNameMgr"
 )
 )
@@ -3147,10 +3162,10 @@ uid 336,0
 va (VaSet
 vasetType 3
 )
-xt "65750,40000,67000,40000"
+xt "65750,38000,67000,38000"
 pts [
-"65750,40000"
-"67000,40000"
+"65750,38000"
+"67000,38000"
 ]
 )
 start &27
@@ -3171,9 +3186,9 @@ uid 338,0
 va (VaSet
 isHidden 1
 )
-xt "64750,39000,70450,40000"
+xt "64750,37000,70450,38000"
 st "throw_you_out"
-blo "64750,39800"
+blo "64750,37800"
 tm "WireNameMgr"
 )
 )
@@ -3186,10 +3201,10 @@ uid 340,0
 va (VaSet
 vasetType 3
 )
-xt "65750,40000,67000,40000"
+xt "65750,28000,67000,28000"
 pts [
-"65750,40000"
-"67000,40000"
+"65750,28000"
+"67000,28000"
 ]
 )
 start &28
@@ -3210,9 +3225,9 @@ uid 342,0
 va (VaSet
 isHidden 1
 )
-xt "64750,39000,69850,40000"
+xt "64750,27000,69850,28000"
 st "your_signals"
-blo "64750,39800"
+blo "64750,27800"
 tm "WireNameMgr"
 )
 )
@@ -3265,10 +3280,10 @@ uid 352,0
 va (VaSet
 vasetType 3
 )
-xt "65750,40000,67000,40000"
+xt "65750,33000,67000,33000"
 pts [
-"65750,40000"
-"67000,40000"
+"65750,33000"
+"67000,33000"
 ]
 )
 start &24
@@ -3289,9 +3304,9 @@ uid 354,0
 va (VaSet
 isHidden 1
 )
-xt "64750,39000,68650,40000"
+xt "64750,32000,68650,33000"
 st "iotre_will"
-blo "64750,39800"
+blo "64750,32800"
 tm "WireNameMgr"
 )
 )
@@ -3304,10 +3319,10 @@ uid 356,0
 va (VaSet
 vasetType 3
 )
-xt "65750,40000,67000,40000"
+xt "65750,30000,67000,30000"
 pts [
-"65750,40000"
-"67000,40000"
+"65750,30000"
+"67000,30000"
 ]
 )
 start &26
@@ -3328,9 +3343,9 @@ uid 358,0
 va (VaSet
 isHidden 1
 )
-xt "64750,39000,70450,40000"
+xt "64750,29000,70450,30000"
 st "of_this_course"
-blo "64750,39800"
+blo "64750,29800"
 tm "WireNameMgr"
 )
 )
@@ -4055,8 +4070,8 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "246,0,2195,1407"
-viewArea "-18200,4825,90223,83638"
+windowSize "246,0,2196,1407"
+viewArea "-18200,-3075,90286,77502"
 cachedDiagramExtent "0,0,73000,49000"
 pageSetupInfo (PageSetupInfo
 ptrCmd ""
@@ -4069,7 +4084,7 @@ exportStdPackageRefs 1
 )
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
-lastUid 1869,0
+lastUid 1894,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
