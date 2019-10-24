@@ -57,7 +57,7 @@ VIEW struct.bd
 GRAPHIC 1901,0 51 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 1895,0 52 0 
+GRAPHIC 2137,0 52 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
 GRAPHIC 1907,0 53 0 
@@ -141,7 +141,7 @@ VIEW struct.bd
 GRAPHIC 1977,0 105 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 1897,0 106 0 
+GRAPHIC 2139,0 106 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
 GRAPHIC 1933,0 107 0 
@@ -198,7 +198,7 @@ VIEW struct.bd
 GRAPHIC 1789,0 126 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
-GRAPHIC 1897,0 127 0 
+GRAPHIC 2139,0 127 0 
 DESIGN c3_t2_fpga_implementation
 VIEW struct.bd
 GRAPHIC 1761,0 128 0 

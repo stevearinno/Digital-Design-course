@@ -123,7 +123,7 @@ VIEW struct.bd
 GRAPHIC 141,0 93 0 
 DESIGN tb_gun
 VIEW struct.bd
-GRAPHIC 894,0 94 0 
+GRAPHIC 783,0 94 0 
 DESIGN tb_gun
 VIEW struct.bd
 GRAPHIC 191,0 95 0 
@@ -159,7 +159,7 @@ VIEW struct.bd
 GRAPHIC 131,0 107 0 
 DESIGN tb_gun
 VIEW struct.bd
-GRAPHIC 894,0 108 0 
+GRAPHIC 417,0 108 0 
 DESIGN tb_gun
 VIEW struct.bd
 GRAPHIC 411,0 109 0 

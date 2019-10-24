@@ -265,7 +265,7 @@ uid 390,0
 )
 *34 (MRCItem
 litem &20
-pos 6
+pos 8
 dimension 20
 uid 392,0
 )
@@ -277,7 +277,7 @@ uid 394,0
 )
 *36 (MRCItem
 litem &22
-pos 8
+pos 6
 dimension 20
 uid 396,0
 )
@@ -602,7 +602,7 @@ value "HTC219-709-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "15:48:30"
+value "17:27:14"
 )
 (vvPair
 variable "group"
@@ -702,7 +702,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "15:48:30"
+value "17:27:14"
 )
 (vvPair
 variable "unit"
@@ -769,8 +769,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,2000,72000,2800"
-st "btn         : IN     std_logic_vector (3 DOWNTO 0) ;
-"
+st "btn         : IN     std_logic_vector (3 DOWNTO 0) ;"
 )
 thePort (LogicalPort
 lang 2
@@ -816,8 +815,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,2800,62000,3600"
-st "clk         : IN     std_logic  ;
-"
+st "clk         : IN     std_logic  ;"
 )
 thePort (LogicalPort
 lang 2
@@ -862,8 +860,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,3600,62000,4400"
-st "rst_n       : IN     std_logic  ;
-"
+st "rst_n       : IN     std_logic  ;"
 )
 thePort (LogicalPort
 lang 2
@@ -908,8 +905,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,4400,62000,5200"
-st "write_ready : IN     std_logic  ;
-"
+st "write_ready : IN     std_logic  ;"
 )
 thePort (LogicalPort
 lang 2
@@ -955,8 +951,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,6000,62000,6800"
-st "frame_done  : OUT    std_logic  ;
-"
+st "frame_done  : OUT    std_logic  ;"
 )
 thePort (LogicalPort
 lang 2
@@ -1003,8 +998,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,6800,62000,7600"
-st "write       : OUT    std_logic  ;
-"
+st "write       : OUT    std_logic  ;"
 )
 thePort (LogicalPort
 lang 2
@@ -1051,8 +1045,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,7600,72000,8400"
-st "x_coord2    : OUT    std_logic_vector (7 DOWNTO 0) ;
-"
+st "x_coord2    : OUT    std_logic_vector (7 DOWNTO 0) ;"
 )
 thePort (LogicalPort
 lang 2
@@ -1100,8 +1093,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,8400,71000,9200"
-st "y_coord2    : OUT    std_logic_vector (7 DOWNTO 0)
-"
+st "y_coord2    : OUT    std_logic_vector (7 DOWNTO 0)"
 )
 thePort (LogicalPort
 lang 2
@@ -1149,8 +1141,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,5200,72500,6000"
-st "color_BGR   : OUT    std_logic_vector (23 DOWNTO 0) ;
-"
+st "color_BGR   : OUT    std_logic_vector (23 DOWNTO 0) ;"
 )
 thePort (LogicalPort
 lang 2
@@ -1865,6 +1856,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 450,0
+lastUid 519,0
 activeModelName "Symbol:CDM"
 )

@@ -39,10 +39,10 @@ VIEW struct.bd
 GRAPHIC 586,0 44 0 
 DESIGN c3_t1_pixel_shifter
 VIEW struct.bd
-GRAPHIC 476,0 45 0 
+GRAPHIC 860,0 45 0 
 DESIGN c3_t1_pixel_shifter
 VIEW struct.bd
-GRAPHIC 470,0 46 0 
+GRAPHIC 866,0 46 0 
 DESIGN c3_t1_pixel_shifter
 VIEW struct.bd
 NO_GRAPHIC 47
@@ -98,7 +98,7 @@ VIEW struct.bd
 GRAPHIC 725,0 98 0 
 DESIGN c3_t1_pixel_shifter
 VIEW struct.bd
-GRAPHIC 478,0 99 0 
+GRAPHIC 862,0 99 0 
 DESIGN c3_t1_pixel_shifter
 VIEW struct.bd
 GRAPHIC 165,0 101 0 
@@ -107,7 +107,7 @@ VIEW struct.bd
 GRAPHIC 719,0 103 0 
 DESIGN c3_t1_pixel_shifter
 VIEW struct.bd
-GRAPHIC 472,0 104 0 
+GRAPHIC 868,0 104 0 
 DESIGN c3_t1_pixel_shifter
 VIEW struct.bd
 NO_GRAPHIC 107
