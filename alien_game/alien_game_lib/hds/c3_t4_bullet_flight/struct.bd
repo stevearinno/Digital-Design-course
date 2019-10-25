@@ -190,7 +190,7 @@ value "HTC219-706-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "11:29:00"
+value "12:29:55"
 )
 (vvPair
 variable "group"
@@ -290,7 +290,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "11:29:00"
+value "12:29:55"
 )
 (vvPair
 variable "unit"
@@ -382,8 +382,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,-22000,36500,-21200"
-st "clk            : std_logic
-"
+st "clk            : std_logic"
 )
 )
 *3 (PortIoIn
@@ -448,8 +447,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,-20400,46500,-19600"
-st "gun_x          : std_logic_vector(7 DOWNTO 0)
-"
+st "gun_x          : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *5 (PortIoIn
@@ -513,8 +511,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,-19600,36500,-18800"
-st "rst_n          : std_logic
-"
+st "rst_n          : std_logic"
 )
 )
 *7 (PortIoOut
@@ -623,8 +620,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,-17200,46500,-16400"
-st "bullet_y       : std_logic_vector(7 DOWNTO 0)
-"
+st "bullet_y       : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *10 (Grouping
@@ -1146,7 +1142,7 @@ optionalChildren [
 *29 (Property
 pclass "param"
 pname "value"
-pvalue "16"
+pvalue "32"
 ptn "String"
 )
 ]
@@ -1703,8 +1699,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,-13800,50000,-13000"
-st "SIGNAL din1           : std_logic_vector(7 DOWNTO 0)
-"
+st "SIGNAL din1           : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *52 (Net
@@ -1723,8 +1718,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,-13000,50000,-12200"
-st "SIGNAL dout           : std_logic_vector(7 DOWNTO 0)
-"
+st "SIGNAL dout           : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *53 (MWC
@@ -2328,8 +2322,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,-21200,36500,-20400"
-st "en             : std_logic
-"
+st "en             : std_logic"
 )
 )
 *80 (PortIoOut
@@ -2393,8 +2386,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,-18800,47000,-18000"
-st "bullet_colour  : std_logic_vector(23 DOWNTO 0)
-"
+st "bullet_colour  : std_logic_vector(23 DOWNTO 0)"
 )
 )
 *82 (PortIoIn
@@ -2459,8 +2451,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,-22800,46500,-22000"
-st "btn            : std_logic_vector(3 DOWNTO 0)
-"
+st "btn            : std_logic_vector(3 DOWNTO 0)"
 )
 )
 *84 (MWC
@@ -3005,8 +2996,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,-12200,50000,-11400"
-st "SIGNAL out_left_shift : std_logic_vector(7 DOWNTO 0)
-"
+st "SIGNAL out_left_shift : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *106 (Net
@@ -3025,8 +3015,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,-15400,50000,-14600"
-st "SIGNAL d              : std_logic_vector(7 DOWNTO 0)
-"
+st "SIGNAL d              : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *107 (MWC
@@ -4286,8 +4275,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,-18000,46500,-17200"
-st "bullet_x       : std_logic_vector(7 DOWNTO 0)
-"
+st "bullet_x       : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *167 (SaComponent
@@ -4469,8 +4457,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,-14600,50500,-13800"
-st "SIGNAL d1             : std_logic_vector(23 DOWNTO 0)
-"
+st "SIGNAL d1             : std_logic_vector(23 DOWNTO 0)"
 )
 )
 *174 (Wire
@@ -5504,12 +5491,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "631,69,1922,907"
-viewArea "-8700,-12900,91222,48764"
+windowSize "806,280,2099,1118"
+viewArea "-8700,-12900,91410,51396"
 cachedDiagramExtent "-7200,-24800,90100,49000"
 hasePageBreakOrigin 1
 pageBreakOrigin "-9000,-51000"
-lastUid 1018,0
+lastUid 1068,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0

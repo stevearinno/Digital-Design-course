@@ -54,222 +54,288 @@ VIEW struct.bd
 GRAPHIC 1648,0 49 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1632,0 50 0 
+GRAPHIC 2349,0 50 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1644,0 51 0 
+GRAPHIC 2361,0 51 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1634,0 52 0 
+GRAPHIC 2355,0 52 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1636,0 53 0 
+GRAPHIC 1632,0 53 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1640,0 54 0 
+GRAPHIC 1644,0 54 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1638,0 55 0 
+GRAPHIC 1634,0 55 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1642,0 56 0 
+GRAPHIC 1636,0 56 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1646,0 57 0 
+GRAPHIC 1640,0 57 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-NO_GRAPHIC 58
+GRAPHIC 1638,0 58 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-NO_GRAPHIC 59
+GRAPHIC 1642,0 59 0 
+DESIGN c3_t2_writer_seq_top_level
+VIEW struct.bd
+GRAPHIC 1646,0 60 0 
+DESIGN c3_t2_writer_seq_top_level
+VIEW struct.bd
+NO_GRAPHIC 61
+DESIGN c3_t2_writer_seq_top_level
+VIEW struct.bd
+NO_GRAPHIC 62
 LIBRARY alien_game_lib
 DESIGN c2_t7_basic_alien
 VIEW struct
-GRAPHIC 1173,0 61 0 
+GRAPHIC 1173,0 64 0 
 DESIGN c2_t7_basic_alien
 VIEW symbol.sb
-GRAPHIC 134,0 63 0 
+GRAPHIC 134,0 66 0 
 DESIGN c2_t7_basic_alien
 VIEW symbol.sb
-GRAPHIC 124,0 64 0 
+GRAPHIC 124,0 67 0 
 DESIGN c2_t7_basic_alien
 VIEW symbol.sb
-GRAPHIC 129,0 65 0 
+GRAPHIC 129,0 68 0 
 DESIGN c2_t7_basic_alien
 VIEW symbol.sb
-GRAPHIC 139,0 66 0 
+GRAPHIC 139,0 69 0 
 DESIGN c2_t7_basic_alien
 VIEW symbol.sb
-GRAPHIC 154,0 67 0 
+GRAPHIC 154,0 70 0 
 DESIGN c2_t7_basic_alien
 VIEW symbol.sb
-GRAPHIC 159,0 68 0 
+GRAPHIC 159,0 71 0 
 DESIGN c2_t7_basic_alien
 VIEW symbol.sb
-GRAPHIC 149,0 69 0 
+GRAPHIC 149,0 72 0 
 DESIGN c2_t7_basic_alien
 VIEW symbol.sb
-GRAPHIC 144,0 70 0 
+GRAPHIC 144,0 73 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1131,0 73 0 
+GRAPHIC 1131,0 76 0 
 DESIGN c3_t1_gun_module
 VIEW symbol.sb
-GRAPHIC 110,0 75 0 
+GRAPHIC 110,0 78 0 
 DESIGN c3_t1_gun_module
 VIEW symbol.sb
-GRAPHIC 162,0 76 0 
+GRAPHIC 162,0 79 0 
 DESIGN c3_t1_gun_module
 VIEW symbol.sb
-GRAPHIC 157,0 77 0 
+GRAPHIC 157,0 80 0 
 DESIGN c3_t1_gun_module
 VIEW symbol.sb
-GRAPHIC 152,0 78 0 
+GRAPHIC 152,0 81 0 
 DESIGN c3_t1_gun_module
 VIEW symbol.sb
-GRAPHIC 778,0 79 0 
+GRAPHIC 778,0 82 0 
 DESIGN c3_t1_gun_module
 VIEW symbol.sb
-GRAPHIC 182,0 80 0 
+GRAPHIC 182,0 83 0 
 DESIGN c3_t1_gun_module
 VIEW symbol.sb
-GRAPHIC 172,0 81 0 
+GRAPHIC 172,0 84 0 
 DESIGN c3_t1_gun_module
 VIEW symbol.sb
-GRAPHIC 177,0 82 0 
+GRAPHIC 177,0 85 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1089,0 85 0 
+GRAPHIC 1089,0 88 0 
 DESIGN c3_t2_write_sequencer
 VIEW symbol.sb
-GRAPHIC 124,0 87 0 
+GRAPHIC 124,0 90 0 
 DESIGN c3_t2_write_sequencer
 VIEW symbol.sb
-GRAPHIC 235,0 88 0 
+GRAPHIC 235,0 91 0 
 DESIGN c3_t2_write_sequencer
 VIEW symbol.sb
-GRAPHIC 134,0 89 0 
+GRAPHIC 134,0 92 0 
 DESIGN c3_t2_write_sequencer
 VIEW symbol.sb
-GRAPHIC 159,0 90 0 
+GRAPHIC 159,0 93 0 
 DESIGN c3_t2_write_sequencer
 VIEW symbol.sb
-GRAPHIC 154,0 91 0 
+GRAPHIC 154,0 94 0 
 DESIGN c3_t2_write_sequencer
 VIEW symbol.sb
-GRAPHIC 144,0 92 0 
+GRAPHIC 144,0 95 0 
 DESIGN c3_t2_write_sequencer
 VIEW symbol.sb
-GRAPHIC 139,0 93 0 
+GRAPHIC 139,0 96 0 
 DESIGN c3_t2_write_sequencer
 VIEW symbol.sb
-GRAPHIC 149,0 94 0 
+GRAPHIC 149,0 97 0 
+DESIGN c3_t2_writer_seq_top_level
+VIEW struct.bd
+GRAPHIC 2315,0 100 0 
+DESIGN c3_t4_bullet_flight
+VIEW symbol.sb
+GRAPHIC 371,0 102 0 
+DESIGN c3_t4_bullet_flight
+VIEW symbol.sb
+GRAPHIC 130,0 103 0 
+DESIGN c3_t4_bullet_flight
+VIEW symbol.sb
+GRAPHIC 361,0 104 0 
+DESIGN c3_t4_bullet_flight
+VIEW symbol.sb
+GRAPHIC 346,0 105 0 
+DESIGN c3_t4_bullet_flight
+VIEW symbol.sb
+GRAPHIC 135,0 106 0 
+DESIGN c3_t4_bullet_flight
+VIEW symbol.sb
+GRAPHIC 366,0 107 0 
+DESIGN c3_t4_bullet_flight
+VIEW symbol.sb
+GRAPHIC 356,0 108 0 
+DESIGN c3_t4_bullet_flight
+VIEW symbol.sb
+GRAPHIC 351,0 109 0 
 LIBRARY alien_game_lib
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-NO_GRAPHIC 97
+NO_GRAPHIC 112
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1173,0 100 0 
+GRAPHIC 1173,0 115 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1131,0 101 0 
+GRAPHIC 1131,0 116 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1089,0 102 0 
+GRAPHIC 1089,0 117 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-NO_GRAPHIC 105
+GRAPHIC 2315,0 118 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1380,0 107 0 
+NO_GRAPHIC 121
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1443,0 117 0 
+GRAPHIC 1380,0 123 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1317,0 127 0 
+GRAPHIC 1443,0 134 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-NO_GRAPHIC 137
+GRAPHIC 1317,0 145 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1173,0 139 0 
+NO_GRAPHIC 157
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1556,0 141 0 
+GRAPHIC 1173,0 159 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1512,0 142 0 
+GRAPHIC 1556,0 161 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1566,0 143 0 
+GRAPHIC 1512,0 162 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 2018,0 144 0 
+GRAPHIC 1566,0 163 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1598,0 145 0 
+GRAPHIC 2018,0 164 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1578,0 147 0 
+GRAPHIC 1598,0 165 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1586,0 148 0 
+GRAPHIC 1578,0 167 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1131,0 150 0 
+GRAPHIC 1586,0 168 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1560,0 152 0 
+GRAPHIC 1131,0 170 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1550,0 153 0 
+GRAPHIC 1560,0 172 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1506,0 154 0 
+GRAPHIC 1550,0 173 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1582,0 155 0 
+GRAPHIC 1506,0 174 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 2024,0 156 0 
+GRAPHIC 1582,0 175 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1570,0 157 0 
+GRAPHIC 2024,0 176 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1590,0 158 0 
+GRAPHIC 1570,0 177 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1574,0 159 0 
+GRAPHIC 1590,0 178 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1089,0 161 0 
+GRAPHIC 1574,0 179 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1544,0 163 0 
+GRAPHIC 1089,0 181 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1594,0 164 0 
+GRAPHIC 1544,0 183 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1894,0 165 0 
+GRAPHIC 1594,0 184 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1506,0 166 0 
+GRAPHIC 1894,0 185 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1976,0 167 0 
+GRAPHIC 1506,0 186 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1582,0 168 0 
+GRAPHIC 1976,0 187 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1516,0 169 0 
+GRAPHIC 1582,0 188 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-GRAPHIC 1982,0 170 0 
+GRAPHIC 1516,0 189 0 
 DESIGN c3_t2_writer_seq_top_level
 VIEW struct.bd
-NO_GRAPHIC 173
+GRAPHIC 1982,0 190 0 
+DESIGN c3_t2_writer_seq_top_level
+VIEW struct.bd
+GRAPHIC 2315,0 192 0 
+DESIGN c3_t2_writer_seq_top_level
+VIEW struct.bd
+GRAPHIC 2343,0 194 0 
+DESIGN c3_t2_writer_seq_top_level
+VIEW struct.bd
+GRAPHIC 2325,0 195 0 
+DESIGN c3_t2_writer_seq_top_level
+VIEW struct.bd
+GRAPHIC 2337,0 196 0 
+DESIGN c3_t2_writer_seq_top_level
+VIEW struct.bd
+GRAPHIC 2367,0 197 0 
+DESIGN c3_t2_writer_seq_top_level
+VIEW struct.bd
+GRAPHIC 2331,0 198 0 
+DESIGN c3_t2_writer_seq_top_level
+VIEW struct.bd
+GRAPHIC 2351,0 199 0 
+DESIGN c3_t2_writer_seq_top_level
+VIEW struct.bd
+GRAPHIC 2363,0 200 0 
+DESIGN c3_t2_writer_seq_top_level
+VIEW struct.bd
+GRAPHIC 2357,0 201 0 
+DESIGN c3_t2_writer_seq_top_level
+VIEW struct.bd
+NO_GRAPHIC 204
