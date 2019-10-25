@@ -1276,10 +1276,122 @@ function initialise() {
                    'BlockDiagramDef', 'struct',
                    'alien_game_lib/c2_t7_coordinate/struct_bd.htm',
                    'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c3_t1_gun_module',
+                   '',
+                   'c3_t1_gun_module');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c3_t1_gun_module/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'BlockDiagramDef', 'struct',
+                   'alien_game_lib/c3_t1_gun_module/struct_bd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c3_t1_pixel_shifter',
+                   '',
+                   'c3_t1_pixel_shifter');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c3_t1_pixel_shifter/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'BlockDiagramDef', 'struct',
+                   'alien_game_lib/c3_t1_pixel_shifter/struct_bd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c3_t2_fpga_implementation',
+                   '',
+                   'c3_t2_fpga_implementation');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c3_t2_fpga_implementation/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'BlockDiagramDef', 'struct',
+                   'alien_game_lib/c3_t2_fpga_implementation/struct_bd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c3_t2_fpga_tester',
+                   '',
+                   'c3_t2_fpga_tester');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c3_t2_fpga_tester/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'BlockDiagramDef', 'struct',
+                   'alien_game_lib/c3_t2_fpga_tester/struct_bd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c3_t2_write_sequencer',
+                   '',
+                   'c3_t2_write_sequencer');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c3_t2_write_sequencer/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'StateDiagramDef', 'fsm',
+                   'alien_game_lib/c3_t2_write_sequencer/fsm_sm.htm',
+                   'fsm');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c3_t2_writer_seq_top_level',
+                   '',
+                   'c3_t2_writer_seq_top_level');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c3_t2_writer_seq_top_level/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'BlockDiagramDef', 'struct',
+                   'alien_game_lib/c3_t2_writer_seq_top_level/struct_bd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c3_t3_button_debounce',
+                   '',
+                   'c3_t3_button_debounce');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c3_t3_button_debounce/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'StateDiagramDef', 'fsm',
+                   'alien_game_lib/c3_t3_button_debounce/fsm_sm.htm',
+                   'fsm');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c3_t4_bullet_flight',
+                   '',
+                   'c3_t4_bullet_flight');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c3_t4_bullet_flight/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'BlockDiagramDef', 'struct',
+                   'alien_game_lib/c3_t4_bullet_flight/struct_bd.htm',
+                   'struct');
    nodes[2] = theMenu.addChild(nodes[1],
                    'Folder', 'HDL Files',
                    '',
                    'HDL Files');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'replaced', 'c3_t1_pixel_shifter_struct.vhd.replaced',
+                   'alien_game_lib/c3_t1_pixel_shifter_struct_vhd_replaced.htm',
+                   'c3_t1_pixel_shifter_struct.vhd.replaced');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'replaced', 'c3_t2_write_sequencer_fsm.vhd.replaced',
+                   'alien_game_lib/c3_t2_write_sequencer_fsm_vhd_replaced.htm',
+                   'c3_t2_write_sequencer_fsm.vhd.replaced');
 
 }
 
