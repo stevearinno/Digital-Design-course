@@ -81,8 +81,8 @@ DESIGN c3_t4_bullet_flight
 VIEW symbol.sb
 GRAPHIC 351,0 58 0 
 LIBRARY tb_lib
-DESIGN tb_bullet
-VIEW struct
+DESIGN bullet_test_block
+VIEW testbench
 GRAPHIC 199,0 61 0 
 DESIGN tb_bullet
 VIEW struct.bd
