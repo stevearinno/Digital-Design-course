@@ -1,7 +1,9 @@
 [ModelSim]
 alien_game_lib = $HDS_PROJECT_DIR/alien_game_lib/work
-pre_made = $HDS_PROJECT_DIR\..\pre_made\work
+pre_made = $HDS_PROJECT_DIR/../pre_made/work
 tb_lib = $HDS_PROJECT_DIR/../tb_lib/work
+[Precision]
+alien_game_lib = $HDS_PROJECT_DIR\alien_game_lib\ps
 [hdl]
 alien_game_lib = $HDS_PROJECT_DIR/alien_game_lib/hdl
 pre_made = $HDS_PROJECT_DIR/../pre_made/hdl
