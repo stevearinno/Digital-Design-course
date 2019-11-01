@@ -92,19 +92,19 @@ value "P:\\DigitalDesign\\alien_game\\..\\tb_lib\\hds\\tb_hit_detect"
 )
 (vvPair
 variable "date"
-value "29.10.2019"
+value "31.10.2019"
 )
 (vvPair
 variable "day"
-value "ti"
+value "to"
 )
 (vvPair
 variable "day_long"
-value "tiistai"
+value "torstai"
 )
 (vvPair
 variable "dd"
-value "29"
+value "31"
 )
 (vvPair
 variable "entity_name"
@@ -132,7 +132,7 @@ value "wirdatma"
 )
 (vvPair
 variable "graphical_source_date"
-value "29.10.2019"
+value "31.10.2019"
 )
 (vvPair
 variable "graphical_source_group"
@@ -140,11 +140,11 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_host"
-value "HTC219-716-SPC"
+value "HTC219-706-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "16:38:32"
+value "10:34:37"
 )
 (vvPair
 variable "group"
@@ -152,7 +152,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "HTC219-716-SPC"
+value "HTC219-706-SPC"
 )
 (vvPair
 variable "language"
@@ -244,7 +244,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "16:38:32"
+value "10:34:37"
 )
 (vvPair
 variable "unit"
@@ -979,7 +979,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "35250,35625,36000,36375"
+xt "36250,35625,37000,36375"
 )
 tg (CPTG
 uid 1347,0
@@ -990,9 +990,9 @@ uid 1348,0
 va (VaSet
 font "arial,8,0"
 )
-xt "37000,35500,42400,36500"
+xt "38000,35500,43400,36500"
 st "alien_x : (7:0)"
-blo "37000,36300"
+blo "38000,36300"
 )
 )
 thePort (LogicalPort
@@ -1016,7 +1016,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "35250,33625,36000,34375"
+xt "36250,33625,37000,34375"
 )
 tg (CPTG
 uid 1351,0
@@ -1027,9 +1027,9 @@ uid 1352,0
 va (VaSet
 font "arial,8,0"
 )
-xt "37000,33500,42400,34500"
+xt "38000,33500,43400,34500"
 st "alien_y : (7:0)"
-blo "37000,34300"
+blo "38000,34300"
 )
 )
 thePort (LogicalPort
@@ -1053,7 +1053,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "35250,31625,36000,32375"
+xt "36250,31625,37000,32375"
 )
 tg (CPTG
 uid 1355,0
@@ -1064,9 +1064,9 @@ uid 1356,0
 va (VaSet
 font "arial,8,0"
 )
-xt "37000,31500,42600,32500"
+xt "38000,31500,43600,32500"
 st "bullet_x : (7:0)"
-blo "37000,32300"
+blo "38000,32300"
 )
 )
 thePort (LogicalPort
@@ -1090,7 +1090,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "35250,32625,36000,33375"
+xt "36250,32625,37000,33375"
 )
 tg (CPTG
 uid 1359,0
@@ -1101,9 +1101,9 @@ uid 1360,0
 va (VaSet
 font "arial,8,0"
 )
-xt "37000,32500,42600,33500"
+xt "38000,32500,43600,33500"
 st "bullet_y : (7:0)"
-blo "37000,33300"
+blo "38000,33300"
 )
 )
 thePort (LogicalPort
@@ -1127,7 +1127,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "54000,29625,54750,30375"
+xt "55000,29625,55750,30375"
 )
 tg (CPTG
 uid 1363,0
@@ -1138,10 +1138,10 @@ uid 1364,0
 va (VaSet
 font "arial,8,0"
 )
-xt "51800,29500,53000,30500"
+xt "52800,29500,54000,30500"
 st "hit"
 ju 2
-blo "53000,30300"
+blo "54000,30300"
 )
 )
 thePort (LogicalPort
@@ -1165,7 +1165,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "35250,27625,36000,28375"
+xt "36250,27625,37000,28375"
 )
 tg (CPTG
 uid 1367,0
@@ -1176,9 +1176,9 @@ uid 1368,0
 va (VaSet
 font "arial,8,0"
 )
-xt "37000,27500,38400,28500"
+xt "38000,27500,39400,28500"
 st "clk"
-blo "37000,28300"
+blo "38000,28300"
 )
 )
 thePort (LogicalPort
@@ -1201,7 +1201,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "35250,28625,36000,29375"
+xt "36250,28625,37000,29375"
 )
 tg (CPTG
 uid 1371,0
@@ -1212,9 +1212,9 @@ uid 1372,0
 va (VaSet
 font "arial,8,0"
 )
-xt "37000,28500,39100,29500"
+xt "38000,28500,40100,29500"
 st "rst_n"
-blo "37000,29300"
+blo "38000,29300"
 )
 )
 thePort (LogicalPort
@@ -1236,7 +1236,7 @@ fg "0,65535,0"
 lineColor "0,32896,0"
 lineWidth 2
 )
-xt "36000,26000,54000,40000"
+xt "37000,26000,55000,40000"
 )
 oxt "15000,6000,33000,26000"
 ttg (MlTextGroup
@@ -1249,9 +1249,9 @@ uid 1376,0
 va (VaSet
 font "arial,8,1"
 )
-xt "47200,34000,53400,35000"
+xt "48200,34000,54400,35000"
 st "alien_game_lib"
-blo "47200,34800"
+blo "48200,34800"
 tm "BdLibraryNameMgr"
 )
 *39 (Text
@@ -1259,9 +1259,9 @@ uid 1377,0
 va (VaSet
 font "arial,8,1"
 )
-xt "47200,35000,54800,36000"
+xt "48200,35000,55800,36000"
 st "c4_t1_hit_detector"
-blo "47200,35800"
+blo "48200,35800"
 tm "CptNameMgr"
 )
 *40 (Text
@@ -1269,9 +1269,9 @@ uid 1378,0
 va (VaSet
 font "arial,8,1"
 )
-xt "47200,36000,49000,37000"
+xt "48200,36000,50000,37000"
 st "U_0"
-blo "47200,36800"
+blo "48200,36800"
 tm "InstanceNameMgr"
 )
 ]
@@ -1286,7 +1286,7 @@ uid 1381,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "21000,32000,21000,32000"
+xt "22000,32000,22000,32000"
 )
 header ""
 )
@@ -1300,7 +1300,7 @@ va (VaSet
 vasetType 1
 fg "49152,49152,49152"
 )
-xt "36250,38250,37750,39750"
+xt "37250,38250,38750,39750"
 iconName "BlockDiagram.png"
 iconMaskName "BlockDiagram.msk"
 ftype 1
@@ -1733,7 +1733,7 @@ vasetType 3
 )
 xt "5000,16000,71000,30000"
 pts [
-"54750,30000"
+"55750,30000"
 "71000,30000"
 "71000,16000"
 "5000,16000"
@@ -1758,9 +1758,9 @@ uid 723,0
 va (VaSet
 font "arial,8,0"
 )
-xt "57000,29000,58200,30000"
+xt "58000,29000,59200,30000"
 st "hit"
-blo "57000,29800"
+blo "58000,29800"
 tm "WireNameMgr"
 )
 )
@@ -1773,10 +1773,10 @@ uid 729,0
 va (VaSet
 vasetType 3
 )
-xt "20750,28000,35250,28000"
+xt "20750,28000,36250,28000"
 pts [
 "20750,28000"
-"35250,28000"
+"36250,28000"
 ]
 )
 start &46
@@ -1810,10 +1810,10 @@ uid 745,0
 va (VaSet
 vasetType 3
 )
-xt "20750,29000,35250,29000"
+xt "20750,29000,36250,29000"
 pts [
 "20750,29000"
-"35250,29000"
+"36250,29000"
 ]
 )
 start &50
@@ -1848,10 +1848,10 @@ va (VaSet
 vasetType 3
 lineWidth 2
 )
-xt "20750,32000,35250,32000"
+xt "20750,32000,36250,32000"
 pts [
 "20750,32000"
-"35250,32000"
+"36250,32000"
 ]
 )
 start &44
@@ -1887,10 +1887,10 @@ va (VaSet
 vasetType 3
 lineWidth 2
 )
-xt "20750,33000,35250,33000"
+xt "20750,33000,36250,33000"
 pts [
 "20750,33000"
-"35250,33000"
+"36250,33000"
 ]
 )
 start &45
@@ -1926,10 +1926,10 @@ va (VaSet
 vasetType 3
 lineWidth 2
 )
-xt "20750,34000,35250,34000"
+xt "20750,34000,36250,34000"
 pts [
 "20750,34000"
-"35250,34000"
+"36250,34000"
 ]
 )
 start &43
@@ -1965,10 +1965,10 @@ va (VaSet
 vasetType 3
 lineWidth 2
 )
-xt "20750,36000,35250,36000"
+xt "20750,36000,36250,36000"
 pts [
 "20750,36000"
-"35250,36000"
+"36250,36000"
 ]
 )
 start &42
@@ -2188,12 +2188,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "271,32,2116,1439"
-viewArea "-46300,-14300,73358,80346"
+windowSize "271,32,2117,1439"
+viewArea "-46300,-14300,73432,78274"
 cachedDiagramExtent "0,0,73000,49000"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
-lastUid 1454,0
+lastUid 1479,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
