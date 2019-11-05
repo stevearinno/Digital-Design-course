@@ -21,7 +21,7 @@ appVersion "2019.3 (Build 4)"
 model (Symbol
 commonDM (CommonDM
 ldm (LogicalDM
-suid 8,0
+suid 10,0
 usingSuid 1
 emptyRow *1 (LEmptyRow
 )
@@ -76,18 +76,6 @@ uid 109,0
 port (LogicalPort
 lang 2
 decl (Decl
-n "hit"
-t "std_logic"
-o 3
-suid 2,0
-)
-)
-uid 111,0
-)
-*16 (LogPort
-port (LogicalPort
-lang 2
-decl (Decl
 n "clock"
 t "std_logic"
 o 1
@@ -96,7 +84,7 @@ suid 3,0
 )
 uid 113,0
 )
-*17 (LogPort
+*16 (LogPort
 port (LogicalPort
 lang 2
 decl (Decl
@@ -108,7 +96,7 @@ suid 4,0
 )
 uid 115,0
 )
-*18 (LogPort
+*17 (LogPort
 port (LogicalPort
 lang 2
 m 1
@@ -122,7 +110,7 @@ suid 5,0
 )
 uid 117,0
 )
-*19 (LogPort
+*18 (LogPort
 port (LogicalPort
 lang 2
 m 1
@@ -136,7 +124,7 @@ suid 6,0
 )
 uid 119,0
 )
-*20 (LogPort
+*19 (LogPort
 port (LogicalPort
 lang 2
 m 1
@@ -150,19 +138,30 @@ suid 7,0
 )
 uid 121,0
 )
+*20 (LogPort
+port (LogicalPort
+lang 2
+decl (Decl
+n "hit"
+t "std_logic"
+o 3
+suid 9,0
+)
+)
+uid 510,0
+)
 *21 (LogPort
 port (LogicalPort
 lang 2
 m 1
 decl (Decl
 n "alien_defeated"
-t "std_logic_vector"
-b "(23 DOWNTO 0)"
+t "std_logic"
 o 6
-suid 8,0
+suid 10,0
 )
 )
-uid 123,0
+uid 540,0
 )
 ]
 )
@@ -224,43 +223,43 @@ uid 108,0
 litem &15
 pos 1
 dimension 20
-uid 110,0
+uid 112,0
 )
 *29 (MRCItem
 litem &16
 pos 2
 dimension 20
-uid 112,0
+uid 114,0
 )
 *30 (MRCItem
 litem &17
 pos 3
 dimension 20
-uid 114,0
+uid 116,0
 )
 *31 (MRCItem
 litem &18
 pos 4
 dimension 20
-uid 116,0
+uid 118,0
 )
 *32 (MRCItem
 litem &19
 pos 5
 dimension 20
-uid 118,0
+uid 120,0
 )
 *33 (MRCItem
 litem &20
 pos 6
 dimension 20
-uid 120,0
+uid 509,0
 )
 *34 (MRCItem
 litem &21
 pos 7
 dimension 20
-uid 122,0
+uid 539,0
 )
 ]
 )
@@ -531,19 +530,19 @@ value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c2_t7_basic_alien"
 )
 (vvPair
 variable "date"
-value "10.10.2019"
+value " 1.11.2019"
 )
 (vvPair
 variable "day"
-value "to"
+value "pe"
 )
 (vvPair
 variable "day_long"
-value "torstai"
+value "perjantai"
 )
 (vvPair
 variable "dd"
-value "10"
+value "01"
 )
 (vvPair
 variable "entity_name"
@@ -571,7 +570,7 @@ value "wirdatma"
 )
 (vvPair
 variable "graphical_source_date"
-value "10.10.2019"
+value " 1.11.2019"
 )
 (vvPair
 variable "graphical_source_group"
@@ -579,11 +578,11 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_host"
-value "HTC219-706-SPC"
+value "HTC219-704-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "10:45:00"
+value "18:03:55"
 )
 (vvPair
 variable "group"
@@ -591,7 +590,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "HTC219-706-SPC"
+value "HTC219-704-SPC"
 )
 (vvPair
 variable "language"
@@ -606,8 +605,12 @@ variable "library_downstream_ModelSimCompiler"
 value "$HDS_PROJECT_DIR/alien_game_lib/work"
 )
 (vvPair
+variable "library_downstream_PrecisionSynthesisDataPrep"
+value "$HDS_PROJECT_DIR/alien_game_lib/ps"
+)
+(vvPair
 variable "mm"
-value "10"
+value "11"
 )
 (vvPair
 variable "module_name"
@@ -615,11 +618,11 @@ value "c2_t7_basic_alien"
 )
 (vvPair
 variable "month"
-value "loka"
+value "marras"
 )
 (vvPair
 variable "month_long"
-value "lokakuu"
+value "marraskuu"
 )
 (vvPair
 variable "p"
@@ -683,7 +686,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "10:45:00"
+value "18:03:55"
 )
 (vvPair
 variable "unit"
@@ -750,7 +753,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,2800,63500,3600"
-st "enable         : IN     std_logic  ;"
+st "enable         : IN     std_logic  ;
+"
 )
 thePort (LogicalPort
 lang 2
@@ -763,51 +767,6 @@ suid 1,0
 )
 )
 *69 (CptPort
-uid 129,0
-ps "OnEdgeStrategy"
-shape (Triangle
-uid 130,0
-ro 90
-va (VaSet
-vasetType 1
-fg "0,65535,0"
-)
-xt "14250,7625,15000,8375"
-)
-tg (CPTG
-uid 131,0
-ps "CptPortTextPlaceStrategy"
-stg "VerticalLayoutStrategy"
-f (Text
-uid 132,0
-va (VaSet
-font "arial,8,0"
-)
-xt "16000,7500,17200,8500"
-st "hit"
-blo "16000,8300"
-tm "CptPortNameMgr"
-)
-)
-dt (MLText
-uid 133,0
-va (VaSet
-font "Courier New,8,0"
-)
-xt "44000,3600,63500,4400"
-st "hit            : IN     std_logic  ;"
-)
-thePort (LogicalPort
-lang 2
-decl (Decl
-n "hit"
-t "std_logic"
-o 3
-suid 2,0
-)
-)
-)
-*70 (CptPort
 uid 134,0
 ps "OnEdgeStrategy"
 shape (Triangle
@@ -840,7 +799,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,2000,63500,2800"
-st "clock          : IN     std_logic  ;"
+st "clock          : IN     std_logic  ;
+"
 )
 thePort (LogicalPort
 lang 2
@@ -852,7 +812,7 @@ suid 3,0
 )
 )
 )
-*71 (CptPort
+*70 (CptPort
 uid 139,0
 ps "OnEdgeStrategy"
 shape (Triangle
@@ -885,7 +845,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,4400,63500,5200"
-st "rst_n          : IN     std_logic  ;"
+st "rst_n          : IN     std_logic  ;
+"
 )
 thePort (LogicalPort
 lang 2
@@ -897,7 +858,7 @@ suid 4,0
 )
 )
 )
-*72 (CptPort
+*71 (CptPort
 uid 144,0
 ps "OnEdgeStrategy"
 shape (Triangle
@@ -931,7 +892,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,7600,72500,8400"
-st "y_coord        : OUT    std_logic_vector (7 DOWNTO 0)"
+st "y_coord        : OUT    std_logic_vector (7 DOWNTO 0)
+"
 )
 thePort (LogicalPort
 lang 2
@@ -945,7 +907,7 @@ suid 5,0
 )
 )
 )
-*73 (CptPort
+*72 (CptPort
 uid 149,0
 ps "OnEdgeStrategy"
 shape (Triangle
@@ -979,7 +941,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,6800,73500,7600"
-st "x_coord        : OUT    std_logic_vector (7 DOWNTO 0) ;"
+st "x_coord        : OUT    std_logic_vector (7 DOWNTO 0) ;
+"
 )
 thePort (LogicalPort
 lang 2
@@ -993,7 +956,7 @@ suid 6,0
 )
 )
 )
-*74 (CptPort
+*73 (CptPort
 uid 154,0
 ps "OnEdgeStrategy"
 shape (Triangle
@@ -1027,7 +990,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,5200,74000,6000"
-st "alien_color    : OUT    std_logic_vector (23 DOWNTO 0) ;"
+st "alien_color    : OUT    std_logic_vector (23 DOWNTO 0) ;
+"
 )
 thePort (LogicalPort
 lang 2
@@ -1041,11 +1005,57 @@ suid 7,0
 )
 )
 )
-*75 (CptPort
-uid 159,0
+*74 (CptPort
+uid 511,0
 ps "OnEdgeStrategy"
 shape (Triangle
-uid 160,0
+uid 512,0
+ro 90
+va (VaSet
+vasetType 1
+fg "0,65535,0"
+)
+xt "14250,10625,15000,11375"
+)
+tg (CPTG
+uid 513,0
+ps "CptPortTextPlaceStrategy"
+stg "VerticalLayoutStrategy"
+f (Text
+uid 514,0
+va (VaSet
+font "arial,8,0"
+)
+xt "16000,10500,17200,11500"
+st "hit"
+blo "16000,11300"
+tm "CptPortNameMgr"
+)
+)
+dt (MLText
+uid 515,0
+va (VaSet
+font "Courier New,8,0"
+)
+xt "44000,3600,63500,4400"
+st "hit            : IN     std_logic  ;
+"
+)
+thePort (LogicalPort
+lang 2
+decl (Decl
+n "hit"
+t "std_logic"
+o 3
+suid 9,0
+)
+)
+)
+*75 (CptPort
+uid 541,0
+ps "OnEdgeStrategy"
+shape (Triangle
+uid 542,0
 ro 90
 va (VaSet
 vasetType 1
@@ -1054,38 +1064,38 @@ fg "0,65535,0"
 xt "33000,9625,33750,10375"
 )
 tg (CPTG
-uid 161,0
+uid 543,0
 ps "CptPortTextPlaceStrategy"
 stg "RightVerticalLayoutStrategy"
 f (Text
-uid 162,0
+uid 544,0
 va (VaSet
 font "arial,8,0"
 )
-xt "23400,9500,32000,10500"
-st "alien_defeated : (23:0)"
+xt "26400,9500,32000,10500"
+st "alien_defeated"
 ju 2
 blo "32000,10300"
 tm "CptPortNameMgr"
 )
 )
 dt (MLText
-uid 163,0
+uid 545,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "44000,6000,74000,6800"
-st "alien_defeated : OUT    std_logic_vector (23 DOWNTO 0) ;"
+xt "44000,6000,63500,6800"
+st "alien_defeated : OUT    std_logic  ;
+"
 )
 thePort (LogicalPort
 lang 2
 m 1
 decl (Decl
 n "alien_defeated"
-t "std_logic_vector"
-b "(23 DOWNTO 0)"
+t "std_logic"
 o 6
-suid 8,0
+suid 10,0
 )
 )
 )
@@ -1171,7 +1181,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "36200,48000,47000,49000"
+xt "36200,48000,48100,49000"
 st "
 by %user on %dd %month %year
 "
@@ -1787,6 +1797,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 462,0
+lastUid 591,0
 activeModelName "Symbol:CDM"
 )

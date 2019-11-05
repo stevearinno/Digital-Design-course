@@ -1,0 +1,392 @@
+DESIGN c4_t2_victory_effect
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN c4_t2_victory_effect
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN c4_t2_victory_effect
+VIEW symbol.sb
+GRAPHIC 587,0 14 0 
+DESIGN c4_t2_victory_effect
+VIEW symbol.sb
+GRAPHIC 592,0 15 0 
+DESIGN c4_t2_victory_effect
+VIEW symbol.sb
+GRAPHIC 597,0 16 0 
+DESIGN c4_t2_victory_effect
+VIEW symbol.sb
+GRAPHIC 602,0 17 0 
+DESIGN c4_t2_victory_effect
+VIEW symbol.sb
+GRAPHIC 739,0 18 0 
+DESIGN c4_t2_victory_effect
+VIEW symbol.sb
+GRAPHIC 607,0 19 0 
+DESIGN c4_t2_victory_effect
+VIEW symbol.sb
+GRAPHIC 612,0 20 0 
+DESIGN c4_t2_victory_effect
+VIEW symbol.sb
+GRAPHIC 617,0 21 0 
+DESIGN c4_t2_victory_effect
+VIEW symbol.sb
+GRAPHIC 1,0 24 0 
+DESIGN c4_t2_victory_effect
+VIEW symbol.sb
+GRAPHIC 1,0 25 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+NO_GRAPHIC 28
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 153,0 37 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+NO_GRAPHIC 40
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 0,0 43 2 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3666,0 48 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3486,0 49 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3570,0 50 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3612,0 51 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3660,0 52 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3702,0 53 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3744,0 54 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3798,0 55 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 2235,0 56 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 2610,0 57 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 2688,0 58 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 2706,0 59 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 2712,0 60 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 2718,0 61 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 2724,0 62 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 2730,0 63 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3528,0 64 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 1075,0 65 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 1020,0 66 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3301,0 67 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3307,0 68 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3313,0 69 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3319,0 70 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3325,0 71 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3331,0 72 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3337,0 73 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3343,0 74 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3840,0 75 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 1026,0 76 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 1032,0 77 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 1038,0 78 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 1044,0 79 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 1050,0 80 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 1081,0 81 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 1915,0 82 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3492,0 83 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3534,0 84 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3576,0 85 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3624,0 86 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3708,0 87 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3750,0 88 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3804,0 89 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+NO_GRAPHIC 90
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+NO_GRAPHIC 121
+LIBRARY alien_game_lib
+DESIGN c4_t2_rolling_left
+VIEW struct
+GRAPHIC 3468,0 123 0 
+DESIGN c4_t2_rolling_left
+VIEW symbol.sb
+GRAPHIC 51,0 125 0 
+DESIGN c4_t2_rolling_left
+VIEW symbol.sb
+GRAPHIC 56,0 126 0 
+LIBRARY alien_game_lib
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+NO_GRAPHIC 129
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3468,0 132 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+NO_GRAPHIC 135
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 1354,0 137 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 1364,0 148 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 1397,0 159 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 1430,0 170 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 1463,0 181 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 1496,0 192 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 1529,0 203 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 1562,0 214 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 2034,0 225 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 2075,0 236 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 506,0 247 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 297,0 250 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 278,0 253 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 316,0 256 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 240,0 259 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3149,0 262 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3168,0 265 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3187,0 268 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3206,0 271 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3225,0 274 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3244,0 277 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3263,0 280 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3282,0 283 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 230,0 286 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 335,0 289 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 1056,0 292 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 259,0 295 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 563,0 298 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 1651,0 315 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3062,0 332 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 2184,0 349 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 2253,0 359 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 2304,0 369 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 2355,0 379 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 2406,0 389 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 2457,0 399 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 2508,0 409 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 2559,0 419 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+NO_GRAPHIC 429
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3468,0 431 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3494,0 433 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3488,0 434 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3510,0 436 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3536,0 438 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3530,0 439 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3552,0 441 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3578,0 443 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3572,0 444 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3594,0 446 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3626,0 448 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3614,0 449 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3642,0 451 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3668,0 453 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3662,0 454 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3684,0 456 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3710,0 458 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3704,0 459 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3770,0 461 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3752,0 463 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3746,0 464 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3780,0 466 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3806,0 468 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+GRAPHIC 3800,0 469 0 
+DESIGN c4_t2_victory_effect
+VIEW struct.bd
+NO_GRAPHIC 472
