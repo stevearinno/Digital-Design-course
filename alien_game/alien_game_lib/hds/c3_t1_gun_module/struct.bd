@@ -246,19 +246,19 @@ value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c3_t1_gun_module"
 )
 (vvPair
 variable "date"
-value "23.10.2019"
+value "29.10.2019"
 )
 (vvPair
 variable "day"
-value "ke"
+value "ti"
 )
 (vvPair
 variable "day_long"
-value "keskiviikko"
+value "tiistai"
 )
 (vvPair
 variable "dd"
-value "23"
+value "29"
 )
 (vvPair
 variable "entity_name"
@@ -286,7 +286,7 @@ value "wirdatma"
 )
 (vvPair
 variable "graphical_source_date"
-value "23.10.2019"
+value "29.10.2019"
 )
 (vvPair
 variable "graphical_source_group"
@@ -298,7 +298,7 @@ value "HTC219-714-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "18:33:39"
+value "13:59:14"
 )
 (vvPair
 variable "group"
@@ -398,7 +398,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "18:33:39"
+value "13:59:14"
 )
 (vvPair
 variable "unit"
@@ -442,16 +442,16 @@ optionalChildren [
 uid 11,0
 sl 0
 ro 270
-xt "-3000,19625,-1500,20375"
+xt "-38000,19625,-36500,20375"
 )
 (Line
 uid 12,0
 sl 0
 ro 270
-xt "-1500,20000,-1000,20000"
+xt "-36500,20000,-36000,20000"
 pts [
-"-1500,20000"
-"-1000,20000"
+"-36500,20000"
+"-36000,20000"
 ]
 )
 ]
@@ -467,10 +467,10 @@ uid 14,0
 va (VaSet
 font "arial,8,0"
 )
-xt "-5400,19500,-4000,20500"
+xt "-40400,19500,-39000,20500"
 st "btn"
 ju 2
-blo "-4000,20300"
+blo "-39000,20300"
 tm "WireNameMgr"
 )
 )
@@ -491,7 +491,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "27000,-16400,49500,-15600"
-st "btn        : std_logic_vector(3 DOWNTO 0)"
+st "btn        : std_logic_vector(3 DOWNTO 0)
+"
 )
 )
 *3 (Grouping
@@ -881,7 +882,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "27000,-14000,49500,-13200"
-st "gun_px_idx : std_logic_vector(2 DOWNTO 0)"
+st "gun_px_idx : std_logic_vector(2 DOWNTO 0)
+"
 )
 )
 *16 (PortIoIn
@@ -945,7 +947,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "27000,-14800,39500,-14000"
-st "enable     : std_logic"
+st "enable     : std_logic
+"
 )
 )
 *18 (PortIoIn
@@ -961,16 +964,16 @@ optionalChildren [
 uid 169,0
 sl 0
 ro 270
-xt "-3000,13625,-1500,14375"
+xt "-38000,15625,-36500,16375"
 )
 (Line
 uid 170,0
 sl 0
 ro 270
-xt "-1500,14000,-1000,14000"
+xt "-36500,16000,-36000,16000"
 pts [
-"-1500,14000"
-"-1000,14000"
+"-36500,16000"
+"-36000,16000"
 ]
 )
 ]
@@ -986,10 +989,10 @@ uid 172,0
 va (VaSet
 font "arial,8,0"
 )
-xt "-5400,13500,-4000,14500"
+xt "-40400,15500,-39000,16500"
 st "clk"
 ju 2
-blo "-4000,14300"
+blo "-39000,16300"
 tm "WireNameMgr"
 )
 )
@@ -1007,16 +1010,16 @@ optionalChildren [
 uid 183,0
 sl 0
 ro 270
-xt "-3000,4625,-1500,5375"
+xt "-38000,5625,-36500,6375"
 )
 (Line
 uid 184,0
 sl 0
 ro 270
-xt "-1500,5000,-1000,5000"
+xt "-36500,6000,-36000,6000"
 pts [
-"-1500,5000"
-"-1000,5000"
+"-36500,6000"
+"-36000,6000"
 ]
 )
 ]
@@ -1032,10 +1035,10 @@ uid 186,0
 va (VaSet
 font "arial,8,0"
 )
-xt "-6100,4500,-4000,5500"
+xt "-41100,5500,-39000,6500"
 st "rst_n"
 ju 2
-blo "-4000,5300"
+blo "-39000,6300"
 tm "WireNameMgr"
 )
 )
@@ -1191,7 +1194,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "27000,-12400,50000,-11600"
-st "gun_color  : std_logic_vector(23 DOWNTO 0)"
+st "gun_color  : std_logic_vector(23 DOWNTO 0)
+"
 )
 )
 *24 (MWC
@@ -2538,7 +2542,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "27000,-5800,43000,-5000"
-st "SIGNAL dout       : std_logic"
+st "SIGNAL dout       : std_logic
+"
 )
 )
 *87 (Net
@@ -2556,7 +2561,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "27000,-5000,43000,-4200"
-st "SIGNAL dout1      : std_logic"
+st "SIGNAL dout1      : std_logic
+"
 )
 )
 *88 (Net
@@ -2575,7 +2581,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "27000,-4200,53000,-3400"
-st "SIGNAL dout2      : std_logic_vector(1 DOWNTO 0)"
+st "SIGNAL dout2      : std_logic_vector(1 DOWNTO 0)
+"
 )
 )
 *89 (Net
@@ -2594,7 +2601,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "27000,2200,53000,3000"
-st "SIGNAL q          : std_logic_vector(7 DOWNTO 0)"
+st "SIGNAL q          : std_logic_vector(7 DOWNTO 0)
+"
 )
 )
 *90 (Net
@@ -2613,7 +2621,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "27000,3000,53000,3800"
-st "SIGNAL q1         : std_logic_vector(7 DOWNTO 0)"
+st "SIGNAL q1         : std_logic_vector(7 DOWNTO 0)
+"
 )
 )
 *91 (Net
@@ -2632,7 +2641,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "27000,3800,53000,4600"
-st "SIGNAL q2         : std_logic_vector(7 DOWNTO 0)"
+st "SIGNAL q2         : std_logic_vector(7 DOWNTO 0)
+"
 )
 )
 *92 (Net
@@ -2650,7 +2660,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "27000,-3400,43000,-2600"
-st "SIGNAL dout3      : std_logic"
+st "SIGNAL dout3      : std_logic
+"
 )
 )
 *93 (Net
@@ -2668,7 +2679,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "27000,-15600,39500,-14800"
-st "clk        : std_logic"
+st "clk        : std_logic
+"
 )
 )
 *94 (MWC
@@ -5847,7 +5859,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "27000,-2600,53000,-1800"
-st "SIGNAL dout4      : std_logic_vector(7 DOWNTO 0)"
+st "SIGNAL dout4      : std_logic_vector(7 DOWNTO 0)
+"
 )
 )
 *212 (Net
@@ -5866,7 +5879,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "27000,-1800,53000,-1000"
-st "SIGNAL dout5      : std_logic_vector(7 DOWNTO 0)"
+st "SIGNAL dout5      : std_logic_vector(7 DOWNTO 0)
+"
 )
 )
 *213 (Net
@@ -5885,7 +5899,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "27000,-1000,53000,-200"
-st "SIGNAL dout6      : std_logic_vector(7 DOWNTO 0)"
+st "SIGNAL dout6      : std_logic_vector(7 DOWNTO 0)
+"
 )
 )
 *214 (MWC
@@ -6430,7 +6445,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "27000,-6600,53000,-5800"
-st "SIGNAL d3         : std_logic_vector(7 DOWNTO 0)"
+st "SIGNAL d3         : std_logic_vector(7 DOWNTO 0)
+"
 )
 )
 *241 (Net
@@ -6449,7 +6465,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "27000,-11600,49500,-10800"
-st "x_coord    : std_logic_vector(7 DOWNTO 0)"
+st "x_coord    : std_logic_vector(7 DOWNTO 0)
+"
 )
 )
 *242 (MWC
@@ -6992,7 +7009,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "27000,-200,53000,600"
-st "SIGNAL dout7      : std_logic_vector(7 DOWNTO 0)"
+st "SIGNAL dout7      : std_logic_vector(7 DOWNTO 0)
+"
 )
 )
 *269 (Net
@@ -7011,7 +7029,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "27000,-10800,49500,-10000"
-st "y_coord    : std_logic_vector(7 DOWNTO 0)"
+st "y_coord    : std_logic_vector(7 DOWNTO 0)
+"
 )
 )
 *270 (MWC
@@ -8602,7 +8621,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "27000,-9000,53000,-8200"
-st "SIGNAL d          : std_logic_vector(7 DOWNTO 0)"
+st "SIGNAL d          : std_logic_vector(7 DOWNTO 0)
+"
 )
 )
 *349 (Net
@@ -8621,7 +8641,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "27000,-8200,53000,-7400"
-st "SIGNAL d1         : std_logic_vector(7 DOWNTO 0)"
+st "SIGNAL d1         : std_logic_vector(7 DOWNTO 0)
+"
 )
 )
 *350 (Net
@@ -8640,7 +8661,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "27000,-7400,53000,-6600"
-st "SIGNAL d2         : std_logic_vector(7 DOWNTO 0)"
+st "SIGNAL d2         : std_logic_vector(7 DOWNTO 0)
+"
 )
 )
 *351 (Net
@@ -8658,7 +8680,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "27000,-13200,39500,-12400"
-st "rst_n      : std_logic"
+st "rst_n      : std_logic
+"
 )
 )
 *352 (MWC
@@ -8827,7 +8850,7 @@ lang 2
 decl (Decl
 n "din1"
 t "std_logic"
-o 1
+o 24
 )
 )
 )
@@ -9859,7 +9882,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "27000,600,43000,1400"
-st "SIGNAL dout8      : std_logic"
+st "SIGNAL dout8      : std_logic
+"
 )
 )
 *412 (Net
@@ -9877,40 +9901,41 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "27000,1400,43000,2200"
-st "SIGNAL dout9      : std_logic"
+st "SIGNAL dout9      : std_logic
+"
 )
 )
 *413 (Wire
 uid 15,0
 optionalChildren [
 *414 (Ripper
-uid 377,0
+uid 3429,0
 ps "OnConnectorStrategy"
 shape (Line2D
 pts [
-"6000,20000"
-"7000,21000"
+"-27000,20000"
+"-26000,19000"
 ]
-uid 378,0
+uid 3430,0
 va (VaSet
 vasetType 3
 )
-xt "6000,20000,7000,21000"
+xt "-27000,19000,-26000,20000"
 )
 )
 *415 (Ripper
-uid 383,0
+uid 3441,0
 ps "OnConnectorStrategy"
 shape (Line2D
 pts [
-"7000,20000"
-"8000,19000"
+"-28000,20000"
+"-27000,21000"
 ]
-uid 384,0
+uid 3442,0
 va (VaSet
 vasetType 3
 )
-xt "7000,19000,8000,20000"
+xt "-28000,20000,-27000,21000"
 )
 )
 ]
@@ -9920,10 +9945,10 @@ va (VaSet
 vasetType 3
 lineWidth 2
 )
-xt "-1000,20000,9000,20000"
+xt "-36000,20000,-26000,20000"
 pts [
-"-1000,20000"
-"9000,20000"
+"-36000,20000"
+"-26000,20000"
 ]
 )
 start &1
@@ -9943,9 +9968,9 @@ va (VaSet
 isHidden 1
 font "arial,8,0"
 )
-xt "1000,19000,5000,20000"
+xt "-34000,19000,-30000,20000"
 st "btn : (3:0)"
-blo "1000,19800"
+blo "-34000,19800"
 tm "WireNameMgr"
 )
 )
@@ -10101,114 +10126,6 @@ tm "WireNameMgr"
 on &23
 )
 *421 (Wire
-uid 373,0
-optionalChildren [
-*422 (BdJunction
-uid 3165,0
-ps "OnConnectorStrategy"
-shape (Circle
-uid 3166,0
-va (VaSet
-vasetType 1
-)
-xt "8600,25600,9400,26400"
-radius 400
-)
-)
-]
-shape (OrthoPolyLine
-uid 374,0
-va (VaSet
-vasetType 3
-)
-xt "7000,21000,17000,26000"
-pts [
-"7000,21000"
-"7000,26000"
-"17000,26000"
-]
-)
-start &414
-end &57
-sat 32
-eat 32
-sl "(1)"
-stc 0
-st 0
-sf 1
-si 0
-tg (WTG
-uid 375,0
-ps "ConnStartEndStrategy"
-stg "STSignalDisplayStrategy"
-f (Text
-uid 376,0
-va (VaSet
-font "arial,8,0"
-)
-xt "14000,25000,16400,26000"
-st "btn(1)"
-blo "14000,25800"
-tm "WireNameMgr"
-)
-)
-on &2
-)
-*423 (Wire
-uid 379,0
-optionalChildren [
-*424 (BdJunction
-uid 3159,0
-ps "OnConnectorStrategy"
-shape (Circle
-uid 3160,0
-va (VaSet
-vasetType 1
-)
-xt "9600,16600,10400,17400"
-radius 400
-)
-)
-]
-shape (OrthoPolyLine
-uid 380,0
-va (VaSet
-vasetType 3
-)
-xt "8000,17000,17000,19000"
-pts [
-"8000,19000"
-"8000,17000"
-"17000,17000"
-]
-)
-start &415
-end &37
-sat 32
-eat 32
-sl "(3)"
-stc 0
-st 0
-sf 1
-si 0
-tg (WTG
-uid 381,0
-ps "ConnStartEndStrategy"
-stg "STSignalDisplayStrategy"
-f (Text
-uid 382,0
-va (VaSet
-font "arial,8,0"
-)
-xt "14000,16000,16400,17000"
-st "btn(3)"
-blo "14000,16800"
-tm "WireNameMgr"
-)
-)
-on &2
-)
-*425 (Wire
 uid 385,0
 shape (OrthoPolyLine
 uid 386,0
@@ -10247,7 +10164,7 @@ tm "WireNameMgr"
 )
 on &17
 )
-*426 (Wire
+*422 (Wire
 uid 434,0
 shape (OrthoPolyLine
 uid 435,0
@@ -10288,7 +10205,7 @@ tm "WireNameMgr"
 )
 on &86
 )
-*427 (Wire
+*423 (Wire
 uid 440,0
 shape (OrthoPolyLine
 uid 441,0
@@ -10329,10 +10246,10 @@ tm "WireNameMgr"
 )
 on &87
 )
-*428 (Wire
+*424 (Wire
 uid 1278,0
 optionalChildren [
-*429 (BdJunction
+*425 (BdJunction
 uid 1551,0
 ps "OnConnectorStrategy"
 shape (Circle
@@ -10386,10 +10303,10 @@ tm "WireNameMgr"
 )
 on &88
 )
-*430 (Wire
+*426 (Wire
 uid 1547,0
 optionalChildren [
-*431 (BdJunction
+*427 (BdJunction
 uid 1628,0
 ps "OnConnectorStrategy"
 shape (Circle
@@ -10415,7 +10332,7 @@ pts [
 "41250,35000"
 ]
 )
-start &429
+start &425
 end &189
 sat 32
 eat 32
@@ -10441,7 +10358,7 @@ tm "WireNameMgr"
 )
 on &88
 )
-*432 (Wire
+*428 (Wire
 uid 1624,0
 shape (OrthoPolyLine
 uid 1625,0
@@ -10456,7 +10373,7 @@ pts [
 "41250,48000"
 ]
 )
-start &431
+start &427
 end &197
 sat 32
 eat 32
@@ -10482,10 +10399,10 @@ tm "WireNameMgr"
 )
 on &88
 )
-*433 (Wire
+*429 (Wire
 uid 1719,0
 optionalChildren [
-*434 (BdJunction
+*430 (BdJunction
 uid 1729,0
 ps "OnConnectorStrategy"
 shape (Circle
@@ -10497,7 +10414,7 @@ xt "34600,35600,35400,36400"
 radius 400
 )
 )
-*435 (BdJunction
+*431 (BdJunction
 uid 3216,0
 ps "OnConnectorStrategy"
 shape (Circle
@@ -10548,7 +10465,7 @@ tm "WireNameMgr"
 )
 on &92
 )
-*436 (Wire
+*432 (Wire
 uid 1725,0
 shape (OrthoPolyLine
 uid 1726,0
@@ -10562,7 +10479,7 @@ pts [
 "41250,49000"
 ]
 )
-start &434
+start &430
 end &195
 sat 32
 eat 32
@@ -10587,7 +10504,7 @@ tm "WireNameMgr"
 )
 on &92
 )
-*437 (Wire
+*433 (Wire
 uid 2109,0
 shape (OrthoPolyLine
 uid 2110,0
@@ -10631,10 +10548,10 @@ tm "WireNameMgr"
 )
 on &15
 )
-*438 (Wire
+*434 (Wire
 uid 2383,0
 optionalChildren [
-*439 (BdJunction
+*435 (BdJunction
 uid 2397,0
 ps "OnConnectorStrategy"
 shape (Circle
@@ -10686,10 +10603,10 @@ tm "WireNameMgr"
 )
 on &211
 )
-*440 (Wire
+*436 (Wire
 uid 2393,0
 optionalChildren [
-*441 (BdJunction
+*437 (BdJunction
 uid 2403,0
 ps "OnConnectorStrategy"
 shape (Circle
@@ -10715,7 +10632,7 @@ pts [
 "74000,62000"
 ]
 )
-start &439
+start &435
 end &161
 sat 32
 eat 32
@@ -10741,7 +10658,7 @@ tm "WireNameMgr"
 )
 on &211
 )
-*442 (Wire
+*438 (Wire
 uid 2399,0
 shape (OrthoPolyLine
 uid 2400,0
@@ -10756,7 +10673,7 @@ pts [
 "74000,64000"
 ]
 )
-start &441
+start &437
 end &163
 sat 32
 eat 32
@@ -10782,10 +10699,10 @@ tm "WireNameMgr"
 )
 on &211
 )
-*443 (Wire
+*439 (Wire
 uid 2419,0
 optionalChildren [
-*444 (BdJunction
+*440 (BdJunction
 uid 2433,0
 ps "OnConnectorStrategy"
 shape (Circle
@@ -10837,10 +10754,10 @@ tm "WireNameMgr"
 )
 on &212
 )
-*445 (Wire
+*441 (Wire
 uid 2429,0
 optionalChildren [
-*446 (BdJunction
+*442 (BdJunction
 uid 2445,0
 ps "OnConnectorStrategy"
 shape (Circle
@@ -10866,7 +10783,7 @@ pts [
 "74000,68000"
 ]
 )
-start &444
+start &440
 end &167
 sat 32
 eat 32
@@ -10892,7 +10809,7 @@ tm "WireNameMgr"
 )
 on &212
 )
-*447 (Wire
+*443 (Wire
 uid 2441,0
 shape (OrthoPolyLine
 uid 2442,0
@@ -10907,7 +10824,7 @@ pts [
 "74000,70000"
 ]
 )
-start &446
+start &442
 end &169
 sat 32
 eat 32
@@ -10933,10 +10850,10 @@ tm "WireNameMgr"
 )
 on &212
 )
-*448 (Wire
+*444 (Wire
 uid 2449,0
 optionalChildren [
-*449 (BdJunction
+*445 (BdJunction
 uid 2463,0
 ps "OnConnectorStrategy"
 shape (Circle
@@ -10988,7 +10905,7 @@ tm "WireNameMgr"
 )
 on &213
 )
-*450 (Wire
+*446 (Wire
 uid 2459,0
 shape (OrthoPolyLine
 uid 2460,0
@@ -11003,7 +10920,7 @@ pts [
 "74000,74000"
 ]
 )
-start &449
+start &445
 end &173
 sat 32
 eat 32
@@ -11029,7 +10946,7 @@ tm "WireNameMgr"
 )
 on &213
 )
-*451 (Wire
+*447 (Wire
 uid 2537,0
 shape (OrthoPolyLine
 uid 2538,0
@@ -11069,7 +10986,7 @@ tm "WireNameMgr"
 )
 on &240
 )
-*452 (Wire
+*448 (Wire
 uid 2543,0
 shape (OrthoPolyLine
 uid 2544,0
@@ -11110,10 +11027,10 @@ tm "WireNameMgr"
 )
 on &241
 )
-*453 (Wire
+*449 (Wire
 uid 2549,0
 optionalChildren [
-*454 (BdJunction
+*450 (BdJunction
 uid 2622,0
 ps "OnConnectorStrategy"
 shape (Circle
@@ -11125,7 +11042,7 @@ xt "80600,41600,81400,42400"
 radius 400
 )
 )
-*455 (BdJunction
+*451 (BdJunction
 uid 2968,0
 ps "OnConnectorStrategy"
 shape (Circle
@@ -11133,7 +11050,7 @@ uid 2969,0
 va (VaSet
 vasetType 1
 )
-xt "53600,13600,54400,14400"
+xt "53600,15600,54400,16400"
 radius 400
 )
 )
@@ -11143,11 +11060,9 @@ uid 2550,0
 va (VaSet
 vasetType 3
 )
-xt "-1000,14000,83000,42000"
+xt "-36000,16000,83000,42000"
 pts [
-"-1000,14000"
-"57000,14000"
-"57000,16000"
+"-36000,16000"
 "81000,16000"
 "81000,42000"
 "83000,42000"
@@ -11171,15 +11086,15 @@ va (VaSet
 isHidden 1
 font "arial,8,0"
 )
-xt "1000,13000,2400,14000"
+xt "-34000,15000,-32600,16000"
 st "clk"
-blo "1000,13800"
+blo "-34000,15800"
 tm "WireNameMgr"
 )
 )
 on &93
 )
-*456 (Wire
+*452 (Wire
 uid 2600,0
 shape (OrthoPolyLine
 uid 2601,0
@@ -11220,7 +11135,7 @@ tm "WireNameMgr"
 )
 on &268
 )
-*457 (Wire
+*453 (Wire
 uid 2606,0
 shape (OrthoPolyLine
 uid 2607,0
@@ -11261,7 +11176,7 @@ tm "WireNameMgr"
 )
 on &269
 )
-*458 (Wire
+*454 (Wire
 uid 2618,0
 shape (OrthoPolyLine
 uid 2619,0
@@ -11275,7 +11190,7 @@ pts [
 "83000,71000"
 ]
 )
-start &454
+start &450
 end &247
 sat 32
 eat 32
@@ -11300,10 +11215,10 @@ tm "WireNameMgr"
 )
 on &93
 )
-*459 (Wire
+*455 (Wire
 uid 2714,0
 optionalChildren [
-*460 (BdJunction
+*456 (BdJunction
 uid 2736,0
 ps "OnConnectorStrategy"
 shape (Circle
@@ -11315,7 +11230,7 @@ xt "69600,30600,70400,31400"
 radius 400
 )
 )
-*461 (BdJunction
+*457 (BdJunction
 uid 2926,0
 ps "OnConnectorStrategy"
 shape (Circle
@@ -11327,7 +11242,7 @@ xt "62600,20600,63400,21400"
 radius 400
 )
 )
-*462 (Ripper
+*458 (Ripper
 uid 2932,0
 ps "OnConnectorStrategy"
 shape (Line2D
@@ -11383,10 +11298,10 @@ tm "WireNameMgr"
 )
 on &89
 )
-*463 (Wire
+*459 (Wire
 uid 2720,0
 optionalChildren [
-*464 (BdJunction
+*460 (BdJunction
 uid 2742,0
 ps "OnConnectorStrategy"
 shape (Circle
@@ -11398,7 +11313,7 @@ xt "68600,33600,69400,34400"
 radius 400
 )
 )
-*465 (BdJunction
+*461 (BdJunction
 uid 2920,0
 ps "OnConnectorStrategy"
 shape (Circle
@@ -11451,10 +11366,10 @@ tm "WireNameMgr"
 )
 on &90
 )
-*466 (Wire
+*462 (Wire
 uid 2726,0
 optionalChildren [
-*467 (BdJunction
+*463 (BdJunction
 uid 2748,0
 ps "OnConnectorStrategy"
 shape (Circle
@@ -11466,7 +11381,7 @@ xt "67600,40600,68400,41400"
 radius 400
 )
 )
-*468 (BdJunction
+*464 (BdJunction
 uid 2914,0
 ps "OnConnectorStrategy"
 shape (Circle
@@ -11478,7 +11393,7 @@ xt "62600,46600,63400,47400"
 radius 400
 )
 )
-*469 (Ripper
+*465 (Ripper
 uid 3153,0
 ps "OnConnectorStrategy"
 shape (Line2D
@@ -11536,7 +11451,7 @@ tm "WireNameMgr"
 )
 on &91
 )
-*470 (Wire
+*466 (Wire
 uid 2732,0
 shape (OrthoPolyLine
 uid 2733,0
@@ -11551,7 +11466,7 @@ pts [
 "74000,37000"
 ]
 )
-start &460
+start &456
 end &132
 sat 32
 eat 32
@@ -11577,10 +11492,10 @@ tm "WireNameMgr"
 )
 on &89
 )
-*471 (Wire
+*467 (Wire
 uid 2738,0
 optionalChildren [
-*472 (BdJunction
+*468 (BdJunction
 uid 2754,0
 ps "OnConnectorStrategy"
 shape (Circle
@@ -11606,7 +11521,7 @@ pts [
 "74000,39000"
 ]
 )
-start &464
+start &460
 end &134
 sat 32
 eat 32
@@ -11632,7 +11547,7 @@ tm "WireNameMgr"
 )
 on &90
 )
-*473 (Wire
+*469 (Wire
 uid 2744,0
 shape (OrthoPolyLine
 uid 2745,0
@@ -11646,7 +11561,7 @@ pts [
 "74000,41000"
 ]
 )
-start &467
+start &463
 end &136
 sat 32
 eat 32
@@ -11672,10 +11587,10 @@ tm "WireNameMgr"
 )
 on &91
 )
-*474 (Wire
+*470 (Wire
 uid 2750,0
 optionalChildren [
-*475 (BdJunction
+*471 (BdJunction
 uid 2760,0
 ps "OnConnectorStrategy"
 shape (Circle
@@ -11701,7 +11616,7 @@ pts [
 "74000,43000"
 ]
 )
-start &472
+start &468
 end &138
 sat 32
 eat 32
@@ -11727,7 +11642,7 @@ tm "WireNameMgr"
 )
 on &90
 )
-*476 (Wire
+*472 (Wire
 uid 2756,0
 shape (OrthoPolyLine
 uid 2757,0
@@ -11742,7 +11657,7 @@ pts [
 "74000,45000"
 ]
 )
-start &475
+start &471
 end &140
 sat 32
 eat 32
@@ -11768,7 +11683,7 @@ tm "WireNameMgr"
 )
 on &90
 )
-*477 (Wire
+*473 (Wire
 uid 2894,0
 shape (OrthoPolyLine
 uid 2895,0
@@ -11808,7 +11723,7 @@ tm "WireNameMgr"
 )
 on &348
 )
-*478 (Wire
+*474 (Wire
 uid 2900,0
 shape (OrthoPolyLine
 uid 2901,0
@@ -11848,7 +11763,7 @@ tm "WireNameMgr"
 )
 on &349
 )
-*479 (Wire
+*475 (Wire
 uid 2906,0
 shape (OrthoPolyLine
 uid 2907,0
@@ -11888,7 +11803,7 @@ tm "WireNameMgr"
 )
 on &350
 )
-*480 (Wire
+*476 (Wire
 uid 2910,0
 shape (OrthoPolyLine
 uid 2911,0
@@ -11905,7 +11820,7 @@ pts [
 "41250,47000"
 ]
 )
-start &468
+start &464
 end &198
 sat 32
 eat 32
@@ -11931,7 +11846,7 @@ tm "WireNameMgr"
 )
 on &91
 )
-*481 (Wire
+*477 (Wire
 uid 2916,0
 shape (OrthoPolyLine
 uid 2917,0
@@ -11948,7 +11863,7 @@ pts [
 "41250,34000"
 ]
 )
-start &465
+start &461
 end &190
 sat 32
 eat 32
@@ -11974,7 +11889,7 @@ tm "WireNameMgr"
 )
 on &90
 )
-*482 (Wire
+*478 (Wire
 uid 2922,0
 shape (OrthoPolyLine
 uid 2923,0
@@ -11991,7 +11906,7 @@ pts [
 "41250,21000"
 ]
 )
-start &461
+start &457
 end &182
 sat 32
 eat 32
@@ -12017,7 +11932,7 @@ tm "WireNameMgr"
 )
 on &89
 )
-*483 (Wire
+*479 (Wire
 uid 2928,0
 shape (OrthoPolyLine
 uid 2929,0
@@ -12033,7 +11948,7 @@ pts [
 "17000,31000"
 ]
 )
-start &462
+start &458
 end &356
 sat 32
 eat 32
@@ -12060,10 +11975,10 @@ tm "WireNameMgr"
 )
 on &89
 )
-*484 (Wire
+*480 (Wire
 uid 2942,0
 optionalChildren [
-*485 (BdJunction
+*481 (BdJunction
 uid 2950,0
 ps "OnConnectorStrategy"
 shape (Circle
@@ -12071,11 +11986,11 @@ uid 2951,0
 va (VaSet
 vasetType 1
 )
-xt "58600,4600,59400,5400"
+xt "58600,5600,59400,6400"
 radius 400
 )
 )
-*486 (BdJunction
+*482 (BdJunction
 uid 2956,0
 ps "OnConnectorStrategy"
 shape (Circle
@@ -12083,11 +11998,11 @@ uid 2957,0
 va (VaSet
 vasetType 1
 )
-xt "66600,4600,67400,5400"
+xt "66600,5600,67400,6400"
 radius 400
 )
 )
-*487 (BdJunction
+*483 (BdJunction
 uid 2986,0
 ps "OnConnectorStrategy"
 shape (Circle
@@ -12105,10 +12020,10 @@ uid 2943,0
 va (VaSet
 vasetType 3
 )
-xt "-1000,5000,86000,36000"
+xt "-36000,6000,86000,36000"
 pts [
-"-1000,5000"
-"86000,5000"
+"-36000,6000"
+"86000,6000"
 "86000,36000"
 ]
 )
@@ -12130,28 +12045,28 @@ va (VaSet
 isHidden 1
 font "arial,8,0"
 )
-xt "1000,4000,3100,5000"
+xt "-34000,5000,-31900,6000"
 st "rst_n"
-blo "1000,4800"
+blo "-34000,5800"
 tm "WireNameMgr"
 )
 )
 on &351
 )
-*488 (Wire
+*484 (Wire
 uid 2946,0
 shape (OrthoPolyLine
 uid 2947,0
 va (VaSet
 vasetType 3
 )
-xt "59000,5000,59000,19000"
+xt "59000,6000,59000,19000"
 pts [
-"59000,5000"
+"59000,6000"
 "59000,19000"
 ]
 )
-start &485
+start &481
 end &278
 sat 32
 eat 32
@@ -12177,10 +12092,10 @@ tm "WireNameMgr"
 )
 on &351
 )
-*489 (Wire
+*485 (Wire
 uid 2952,0
 optionalChildren [
-*490 (BdJunction
+*486 (BdJunction
 uid 2962,0
 ps "OnConnectorStrategy"
 shape (Circle
@@ -12198,15 +12113,15 @@ uid 2953,0
 va (VaSet
 vasetType 3
 )
-xt "59000,5000,67000,32000"
+xt "59000,6000,67000,32000"
 pts [
-"67000,5000"
+"67000,6000"
 "67000,29000"
 "59000,29000"
 "59000,32000"
 ]
 )
-start &486
+start &482
 end &304
 sat 32
 eat 32
@@ -12232,7 +12147,7 @@ tm "WireNameMgr"
 )
 on &351
 )
-*491 (Wire
+*487 (Wire
 uid 2958,0
 shape (OrthoPolyLine
 uid 2959,0
@@ -12247,7 +12162,7 @@ pts [
 "59000,45000"
 ]
 )
-start &490
+start &486
 end &330
 sat 32
 eat 32
@@ -12273,10 +12188,10 @@ tm "WireNameMgr"
 )
 on &351
 )
-*492 (Wire
+*488 (Wire
 uid 2964,0
 optionalChildren [
-*493 (BdJunction
+*489 (BdJunction
 uid 2974,0
 ps "OnConnectorStrategy"
 shape (Circle
@@ -12294,14 +12209,14 @@ uid 2965,0
 va (VaSet
 vasetType 3
 )
-xt "54000,14000,56000,25000"
+xt "54000,16000,56000,25000"
 pts [
-"54000,14000"
+"54000,16000"
 "54000,25000"
 "56000,25000"
 ]
 )
-start &455
+start &451
 end &275
 sat 32
 eat 32
@@ -12326,10 +12241,10 @@ tm "WireNameMgr"
 )
 on &93
 )
-*494 (Wire
+*490 (Wire
 uid 2970,0
 optionalChildren [
-*495 (BdJunction
+*491 (BdJunction
 uid 2980,0
 ps "OnConnectorStrategy"
 shape (Circle
@@ -12354,7 +12269,7 @@ pts [
 "56000,38000"
 ]
 )
-start &493
+start &489
 end &301
 sat 32
 eat 32
@@ -12379,7 +12294,7 @@ tm "WireNameMgr"
 )
 on &93
 )
-*496 (Wire
+*492 (Wire
 uid 2976,0
 shape (OrthoPolyLine
 uid 2977,0
@@ -12393,7 +12308,7 @@ pts [
 "56000,51000"
 ]
 )
-start &495
+start &491
 end &327
 sat 32
 eat 32
@@ -12418,7 +12333,7 @@ tm "WireNameMgr"
 )
 on &93
 )
-*497 (Wire
+*493 (Wire
 uid 2982,0
 shape (OrthoPolyLine
 uid 2983,0
@@ -12434,7 +12349,7 @@ pts [
 "86000,65000"
 ]
 )
-start &487
+start &483
 end &250
 sat 32
 eat 32
@@ -12460,7 +12375,7 @@ tm "WireNameMgr"
 )
 on &351
 )
-*498 (Wire
+*494 (Wire
 uid 3149,0
 shape (OrthoPolyLine
 uid 3150,0
@@ -12476,7 +12391,7 @@ pts [
 "17000,42000"
 ]
 )
-start &469
+start &465
 end &376
 sat 32
 eat 32
@@ -12502,87 +12417,7 @@ tm "WireNameMgr"
 )
 on &91
 )
-*499 (Wire
-uid 3155,0
-shape (OrthoPolyLine
-uid 3156,0
-va (VaSet
-vasetType 3
-)
-xt "10000,17000,17000,40000"
-pts [
-"10000,17000"
-"10000,40000"
-"17000,40000"
-]
-)
-start &424
-end &374
-sat 32
-eat 32
-sl "(3)"
-stc 0
-st 0
-sf 1
-si 0
-tg (WTG
-uid 3157,0
-ps "ConnStartEndStrategy"
-stg "STSignalDisplayStrategy"
-f (Text
-uid 3158,0
-va (VaSet
-font "arial,8,0"
-)
-xt "14000,39000,16400,40000"
-st "btn(3)"
-blo "14000,39800"
-tm "WireNameMgr"
-)
-)
-on &2
-)
-*500 (Wire
-uid 3161,0
-shape (OrthoPolyLine
-uid 3162,0
-va (VaSet
-vasetType 3
-)
-xt "9000,26000,17000,33000"
-pts [
-"9000,26000"
-"9000,33000"
-"17000,33000"
-]
-)
-start &422
-end &358
-sat 32
-eat 32
-sl "(1)"
-stc 0
-st 0
-sf 1
-si 0
-tg (WTG
-uid 3163,0
-ps "ConnStartEndStrategy"
-stg "STSignalDisplayStrategy"
-f (Text
-uid 3164,0
-va (VaSet
-font "arial,8,0"
-)
-xt "14000,32000,16400,33000"
-st "btn(1)"
-blo "14000,32800"
-tm "WireNameMgr"
-)
-)
-on &2
-)
-*501 (Wire
+*495 (Wire
 uid 3212,0
 shape (OrthoPolyLine
 uid 3213,0
@@ -12595,7 +12430,7 @@ pts [
 "32000,36000"
 ]
 )
-start &435
+start &431
 end &391
 sat 32
 eat 32
@@ -12620,7 +12455,7 @@ tm "WireNameMgr"
 )
 on &92
 )
-*502 (Wire
+*496 (Wire
 uid 3220,0
 shape (OrthoPolyLine
 uid 3221,0
@@ -12661,7 +12496,7 @@ tm "WireNameMgr"
 )
 on &411
 )
-*503 (Wire
+*497 (Wire
 uid 3226,0
 shape (OrthoPolyLine
 uid 3227,0
@@ -12700,6 +12535,194 @@ tm "WireNameMgr"
 )
 )
 on &412
+)
+*498 (Wire
+uid 3425,0
+optionalChildren [
+*499 (BdJunction
+uid 3435,0
+ps "OnConnectorStrategy"
+shape (Circle
+uid 3436,0
+va (VaSet
+vasetType 1
+)
+xt "8600,16600,9400,17400"
+radius 400
+)
+)
+]
+shape (OrthoPolyLine
+uid 3426,0
+va (VaSet
+vasetType 3
+)
+xt "-26000,17000,17000,19000"
+pts [
+"-26000,19000"
+"-26000,17000"
+"17000,17000"
+]
+)
+start &414
+end &37
+sat 32
+eat 32
+sl "(3)"
+stc 0
+st 0
+sf 1
+si 0
+tg (WTG
+uid 3427,0
+ps "ConnStartEndStrategy"
+stg "STSignalDisplayStrategy"
+f (Text
+uid 3428,0
+va (VaSet
+font "arial,8,0"
+)
+xt "14000,16000,16400,17000"
+st "btn(3)"
+blo "14000,16800"
+tm "WireNameMgr"
+)
+)
+on &2
+)
+*500 (Wire
+uid 3431,0
+shape (OrthoPolyLine
+uid 3432,0
+va (VaSet
+vasetType 3
+)
+xt "9000,17000,17000,40000"
+pts [
+"17000,40000"
+"9000,40000"
+"9000,17000"
+]
+)
+start &374
+end &499
+sat 32
+eat 32
+sl "(3)"
+stc 0
+st 0
+sf 1
+si 0
+tg (WTG
+uid 3433,0
+ps "ConnStartEndStrategy"
+stg "STSignalDisplayStrategy"
+f (Text
+uid 3434,0
+va (VaSet
+font "arial,8,0"
+)
+xt "14000,39000,16400,40000"
+st "btn(3)"
+blo "14000,39800"
+tm "WireNameMgr"
+)
+)
+on &2
+)
+*501 (Wire
+uid 3437,0
+optionalChildren [
+*502 (BdJunction
+uid 3447,0
+ps "OnConnectorStrategy"
+shape (Circle
+uid 3448,0
+va (VaSet
+vasetType 1
+)
+xt "10600,25600,11400,26400"
+radius 400
+)
+)
+]
+shape (OrthoPolyLine
+uid 3438,0
+va (VaSet
+vasetType 3
+)
+xt "-27000,21000,17000,26000"
+pts [
+"-27000,21000"
+"-27000,26000"
+"17000,26000"
+]
+)
+start &415
+end &57
+sat 32
+eat 32
+sl "(1)"
+stc 0
+st 0
+sf 1
+si 0
+tg (WTG
+uid 3439,0
+ps "ConnStartEndStrategy"
+stg "STSignalDisplayStrategy"
+f (Text
+uid 3440,0
+va (VaSet
+font "arial,8,0"
+)
+xt "14000,25000,16400,26000"
+st "btn(1)"
+blo "14000,25800"
+tm "WireNameMgr"
+)
+)
+on &2
+)
+*503 (Wire
+uid 3443,0
+shape (OrthoPolyLine
+uid 3444,0
+va (VaSet
+vasetType 3
+)
+xt "11000,26000,17000,33000"
+pts [
+"17000,33000"
+"11000,33000"
+"11000,26000"
+]
+)
+start &358
+end &502
+sat 32
+eat 32
+sl "(1)"
+stc 0
+st 0
+sf 1
+si 0
+tg (WTG
+uid 3445,0
+ps "ConnStartEndStrategy"
+stg "STSignalDisplayStrategy"
+f (Text
+uid 3446,0
+va (VaSet
+font "arial,8,0"
+)
+xt "14000,32000,16400,33000"
+st "btn(1)"
+blo "14000,32800"
+tm "WireNameMgr"
+)
+)
+on &2
 )
 ]
 bg "65535,65535,65535"
@@ -12815,12 +12838,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "-67,93,1401,880"
-viewArea "-21144,3200,87976,58728"
-cachedDiagramExtent "-8600,-18400,103100,96000"
+windowSize "480,189,1950,976"
+viewArea "-51700,-8200,57596,47328"
+cachedDiagramExtent "-41100,-18400,103100,96000"
 hasePageBreakOrigin 1
 pageBreakOrigin "-73000,-51000"
-lastUid 3258,0
+lastUid 3448,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
@@ -13880,7 +13903,7 @@ tm "BdDeclarativeTextMgr"
 )
 commonDM (CommonDM
 ldm (LogicalDM
-suid 57,0
+suid 59,0
 usingSuid 1
 emptyRow *535 (LEmptyRow
 )

@@ -21,7 +21,7 @@ appVersion "2019.3 (Build 4)"
 model (Symbol
 commonDM (CommonDM
 ldm (LogicalDM
-suid 14,0
+suid 15,0
 usingSuid 1
 emptyRow *1 (LEmptyRow
 )
@@ -90,18 +90,6 @@ uid 324,0
 port (LogicalPort
 lang 2
 decl (Decl
-n "hit"
-t "std_logic"
-o 2
-suid 13,0
-)
-)
-uid 326,0
-)
-*17 (LogPort
-port (LogicalPort
-lang 2
-decl (Decl
 n "rst_n"
 t "std_logic"
 o 3
@@ -109,6 +97,19 @@ suid 14,0
 )
 )
 uid 328,0
+)
+*17 (LogPort
+port (LogicalPort
+lang 2
+decl (Decl
+n "hit_count"
+t "std_logic_vector"
+b "(1 DOWNTO 0)"
+o 2
+suid 15,0
+)
+)
+uid 460,0
 )
 ]
 )
@@ -176,13 +177,13 @@ uid 323,0
 litem &16
 pos 2
 dimension 20
-uid 325,0
+uid 327,0
 )
 *26 (MRCItem
 litem &17
 pos 3
 dimension 20
-uid 327,0
+uid 459,0
 )
 ]
 )
@@ -453,19 +454,19 @@ value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c2_t7_color"
 )
 (vvPair
 variable "date"
-value " 5.10.2019"
+value " 8.11.2019"
 )
 (vvPair
 variable "day"
-value "la"
+value "pe"
 )
 (vvPair
 variable "day_long"
-value "lauantai"
+value "perjantai"
 )
 (vvPair
 variable "dd"
-value "05"
+value "08"
 )
 (vvPair
 variable "entity_name"
@@ -493,7 +494,7 @@ value "wirdatma"
 )
 (vvPair
 variable "graphical_source_date"
-value " 5.10.2019"
+value " 8.11.2019"
 )
 (vvPair
 variable "graphical_source_group"
@@ -501,11 +502,11 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_host"
-value "HTC219-712-SPC"
+value "HTC219-704-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "15:48:20"
+value "16:22:19"
 )
 (vvPair
 variable "group"
@@ -513,7 +514,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "HTC219-712-SPC"
+value "HTC219-704-SPC"
 )
 (vvPair
 variable "language"
@@ -528,8 +529,12 @@ variable "library_downstream_ModelSimCompiler"
 value "$HDS_PROJECT_DIR/alien_game_lib/work"
 )
 (vvPair
+variable "library_downstream_PrecisionSynthesisDataPrep"
+value "$HDS_PROJECT_DIR/alien_game_lib/ps"
+)
+(vvPair
 variable "mm"
-value "10"
+value "11"
 )
 (vvPair
 variable "module_name"
@@ -537,11 +542,11 @@ value "c2_t7_color"
 )
 (vvPair
 variable "month"
-value "loka"
+value "marras"
 )
 (vvPair
 variable "month_long"
-value "lokakuu"
+value "marraskuu"
 )
 (vvPair
 variable "p"
@@ -605,7 +610,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "15:48:20"
+value "16:22:19"
 )
 (vvPair
 variable "unit"
@@ -672,8 +677,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,2000,62000,2800"
-st "clk         : IN     std_logic  ;
-"
+st "clk         : IN     std_logic  ;"
 )
 thePort (LogicalPort
 lang 2
@@ -695,7 +699,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "25000,6625,25750,7375"
+xt "26000,6625,26750,7375"
 )
 tg (CPTG
 uid 331,0
@@ -706,10 +710,10 @@ uid 332,0
 va (VaSet
 font "arial,8,0"
 )
-xt "19500,6500,24000,7500"
+xt "20500,6500,25000,7500"
 st "alien_color"
 ju 2
-blo "24000,7300"
+blo "25000,7300"
 tm "CptPortNameMgr"
 )
 )
@@ -719,8 +723,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,4400,71500,5200"
-st "alien_color : OUT    std_logic_vector (23 DOWNTO 0)
-"
+st "alien_color : OUT    std_logic_vector (23 DOWNTO 0)"
 )
 thePort (LogicalPort
 lang 2
@@ -735,52 +738,6 @@ suid 12,0
 )
 )
 *62 (CptPort
-uid 334,0
-ps "OnEdgeStrategy"
-shape (Triangle
-uid 335,0
-ro 90
-va (VaSet
-vasetType 1
-fg "0,65535,0"
-)
-xt "14250,8625,15000,9375"
-)
-tg (CPTG
-uid 336,0
-ps "CptPortTextPlaceStrategy"
-stg "VerticalLayoutStrategy"
-f (Text
-uid 337,0
-va (VaSet
-font "arial,8,0"
-)
-xt "16000,8500,17200,9500"
-st "hit"
-blo "16000,9300"
-tm "CptPortNameMgr"
-)
-)
-dt (MLText
-uid 338,0
-va (VaSet
-font "Courier New,8,0"
-)
-xt "44000,2800,62000,3600"
-st "hit         : IN     std_logic  ;
-"
-)
-thePort (LogicalPort
-lang 2
-decl (Decl
-n "hit"
-t "std_logic"
-o 2
-suid 13,0
-)
-)
-)
-*63 (CptPort
 uid 339,0
 ps "OnEdgeStrategy"
 shape (Triangle
@@ -813,8 +770,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,3600,62000,4400"
-st "rst_n       : IN     std_logic  ;
-"
+st "rst_n       : IN     std_logic  ;"
 )
 thePort (LogicalPort
 lang 2
@@ -823,6 +779,52 @@ n "rst_n"
 t "std_logic"
 o 3
 suid 14,0
+)
+)
+)
+*63 (CptPort
+uid 461,0
+ps "OnEdgeStrategy"
+shape (Triangle
+uid 462,0
+ro 90
+va (VaSet
+vasetType 1
+fg "0,65535,0"
+)
+xt "14250,10625,15000,11375"
+)
+tg (CPTG
+uid 463,0
+ps "CptPortTextPlaceStrategy"
+stg "VerticalLayoutStrategy"
+f (Text
+uid 464,0
+va (VaSet
+font "arial,8,0"
+)
+xt "16000,10500,19400,11500"
+st "hit_count"
+blo "16000,11300"
+tm "CptPortNameMgr"
+)
+)
+dt (MLText
+uid 465,0
+va (VaSet
+font "Courier New,8,0"
+)
+xt "44000,2800,72000,3600"
+st "hit_count   : IN     std_logic_vector (1 DOWNTO 0) ;"
+)
+thePort (LogicalPort
+lang 2
+decl (Decl
+n "hit_count"
+t "std_logic_vector"
+b "(1 DOWNTO 0)"
+o 2
+suid 15,0
 )
 )
 )
@@ -835,7 +837,7 @@ fg "0,65535,0"
 lineColor "0,32896,0"
 lineWidth 2
 )
-xt "15000,6000,25000,16000"
+xt "15000,6000,26000,16000"
 )
 oxt "15000,6000,23000,16000"
 biTextGroup (BiTextGroup
@@ -911,7 +913,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "36200,48000,47000,49000"
+xt "36200,48000,48100,49000"
 st "
 by %user on %dd %month %year
 "
@@ -1527,6 +1529,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 343,0
+lastUid 488,0
 activeModelName "Symbol:CDM"
 )
