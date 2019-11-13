@@ -1,0 +1,2 @@
+DEFAULT_FILE atom z_black_box_struct.vhd
+DEFAULT_ARCHITECTURE atom struct

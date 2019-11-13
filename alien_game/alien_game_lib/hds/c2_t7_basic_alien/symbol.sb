@@ -530,19 +530,19 @@ value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c2_t7_basic_alien"
 )
 (vvPair
 variable "date"
-value " 8.11.2019"
+value "13.11.2019"
 )
 (vvPair
 variable "day"
-value "pe"
+value "ke"
 )
 (vvPair
 variable "day_long"
-value "perjantai"
+value "keskiviikko"
 )
 (vvPair
 variable "dd"
-value "08"
+value "13"
 )
 (vvPair
 variable "entity_name"
@@ -570,7 +570,7 @@ value "wirdatma"
 )
 (vvPair
 variable "graphical_source_date"
-value " 8.11.2019"
+value "13.11.2019"
 )
 (vvPair
 variable "graphical_source_group"
@@ -578,11 +578,11 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_host"
-value "HTC219-704-SPC"
+value "HTC219-714-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "16:15:37"
+value "13:59:09"
 )
 (vvPair
 variable "group"
@@ -590,7 +590,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "HTC219-704-SPC"
+value "HTC219-714-SPC"
 )
 (vvPair
 variable "language"
@@ -686,7 +686,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "16:15:37"
+value "13:59:09"
 )
 (vvPair
 variable "unit"
@@ -1789,6 +1789,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 637,0
+lastUid 660,0
 activeModelName "Symbol:CDM"
 )
