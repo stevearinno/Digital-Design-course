@@ -111,19 +111,19 @@ value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c2_t7_color"
 )
 (vvPair
 variable "date"
-value " 8.11.2019"
+value "19.11.2019"
 )
 (vvPair
 variable "day"
-value "pe"
+value "ti"
 )
 (vvPair
 variable "day_long"
-value "perjantai"
+value "tiistai"
 )
 (vvPair
 variable "dd"
-value "08"
+value "19"
 )
 (vvPair
 variable "entity_name"
@@ -151,7 +151,7 @@ value "wirdatma"
 )
 (vvPair
 variable "graphical_source_date"
-value " 8.11.2019"
+value "19.11.2019"
 )
 (vvPair
 variable "graphical_source_group"
@@ -159,11 +159,11 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_host"
-value "HTC219-704-SPC"
+value "HTC219-714-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "16:22:19"
+value "13:42:01"
 )
 (vvPair
 variable "group"
@@ -171,7 +171,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "HTC219-704-SPC"
+value "HTC219-714-SPC"
 )
 (vvPair
 variable "language"
@@ -267,7 +267,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "16:22:19"
+value "13:42:01"
 )
 (vvPair
 variable "unit"
@@ -1939,8 +1939,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,-6600,49000,-5800"
-st "SIGNAL d           : std_logic_vector(23 DOWNTO 0)
-"
+st "SIGNAL d           : std_logic_vector(23 DOWNTO 0)"
 )
 )
 *66 (PortIoIn
@@ -2050,8 +2049,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,-10800,35000,-10000"
-st "clk         : std_logic
-"
+st "clk         : std_logic"
 )
 )
 *69 (Net
@@ -2070,8 +2068,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,-8400,45500,-7600"
-st "alien_color : std_logic_vector(23 DOWNTO 0)
-"
+st "alien_color : std_logic_vector(23 DOWNTO 0)"
 )
 )
 *70 (Net
@@ -2089,8 +2086,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,-9200,35000,-8400"
-st "rst_n       : std_logic
-"
+st "rst_n       : std_logic"
 )
 )
 *71 (MWC
@@ -2313,8 +2309,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,-4200,49000,-3400"
-st "SIGNAL dout2       : std_logic_vector(23 DOWNTO 0)
-"
+st "SIGNAL dout2       : std_logic_vector(23 DOWNTO 0)"
 )
 )
 *81 (MWC
@@ -2529,8 +2524,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,-10000,45000,-9200"
-st "hit_count   : std_logic_vector(1 DOWNTO 0)
-"
+st "hit_count   : std_logic_vector(1 DOWNTO 0)"
 )
 )
 *90 (Net
@@ -2549,8 +2543,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,-5000,49000,-4200"
-st "SIGNAL din3        : std_logic_vector(23 DOWNTO 0)
-"
+st "SIGNAL din3        : std_logic_vector(23 DOWNTO 0)"
 )
 )
 *91 (MWC
@@ -2773,8 +2766,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "22000,-5800,49000,-5000"
-st "SIGNAL din2        : std_logic_vector(23 DOWNTO 0)
-"
+st "SIGNAL din2        : std_logic_vector(23 DOWNTO 0)"
 )
 )
 *101 (Wire
@@ -3284,7 +3276,7 @@ viewArea "-23300,-9800,114347,66192"
 cachedDiagramExtent "-7400,-12800,67000,49000"
 hasePageBreakOrigin 1
 pageBreakOrigin "-79000,-49000"
-lastUid 1192,0
+lastUid 1215,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
