@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 DIALECT atom VHDL_93
 INCLUDE list {
  DEFAULT atom 1
 }
+=======
+DIALECT atom VHDL_ANY
+>>>>>>> 9a4ebf5f3fb5c542f565dea012ae323d8594ee18
