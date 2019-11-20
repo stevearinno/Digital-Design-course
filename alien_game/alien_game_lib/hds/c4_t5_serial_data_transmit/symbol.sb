@@ -560,7 +560,7 @@ value "LENOVO-PC"
 )
 (vvPair
 variable "graphical_source_time"
-value "16:11:59"
+value "16:46:42"
 )
 (vvPair
 variable "group"
@@ -664,7 +664,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "16:11:59"
+value "16:46:42"
 )
 (vvPair
 variable "unit"
@@ -1717,6 +1717,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 179,0
+lastUid 294,0
 activeModelName "Symbol:CDM"
 )
