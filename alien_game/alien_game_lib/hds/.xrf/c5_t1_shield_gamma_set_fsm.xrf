@@ -150,11 +150,11 @@ GRAPHIC 224,0 101 0
 LIBRARY alien_game_lib
 DESIGN c5_t1_shield_gamma_set
 VIEW fsm.sm
-GRAPHIC 701,0 102 0
+GRAPHIC 879,0 102 0
 LIBRARY alien_game_lib
 DESIGN c5_t1_shield_gamma_set
 VIEW fsm.sm
-GRAPHIC 360,0 103 0
+GRAPHIC 840,0 103 0
 LIBRARY alien_game_lib
 DESIGN c5_t1_shield_gamma_set
 VIEW fsm.sm
@@ -210,19 +210,19 @@ GRAPHIC 43,0 116 0
 LIBRARY alien_game_lib
 DESIGN c5_t1_shield_gamma_set
 VIEW fsm.sm
-GRAPHIC 360,0 117 0
+GRAPHIC 706,0 117 0
 LIBRARY alien_game_lib
 DESIGN c5_t1_shield_gamma_set
 VIEW fsm.sm
-GRAPHIC 387,0 118 0
+GRAPHIC 43,0 118 0
 LIBRARY alien_game_lib
 DESIGN c5_t1_shield_gamma_set
 VIEW fsm.sm
-GRAPHIC 43,0 120 0
+GRAPHIC 840,0 119 0
 LIBRARY alien_game_lib
 DESIGN c5_t1_shield_gamma_set
 VIEW fsm.sm
-GRAPHIC 706,0 121 0
+GRAPHIC 951,0 120 0
 LIBRARY alien_game_lib
 DESIGN c5_t1_shield_gamma_set
 VIEW fsm.sm
@@ -274,19 +274,19 @@ GRAPHIC 239,0 144 0
 LIBRARY alien_game_lib
 DESIGN c5_t1_shield_gamma_set
 VIEW fsm.sm
-GRAPHIC 360,0 146 0
+GRAPHIC 840,0 146 0
 LIBRARY alien_game_lib
 DESIGN c5_t1_shield_gamma_set
 VIEW fsm.sm
-GRAPHIC 375,0 147 0
+GRAPHIC 855,0 147 0
 LIBRARY alien_game_lib
 DESIGN c5_t1_shield_gamma_set
 VIEW fsm.sm
-GRAPHIC 387,0 148 0
+GRAPHIC 951,0 148 0
 LIBRARY alien_game_lib
 DESIGN c5_t1_shield_gamma_set
 VIEW fsm.sm
-GRAPHIC 402,0 149 0
+GRAPHIC 966,0 149 0
 LIBRARY alien_game_lib
 DESIGN c5_t1_shield_gamma_set
 VIEW fsm.sm

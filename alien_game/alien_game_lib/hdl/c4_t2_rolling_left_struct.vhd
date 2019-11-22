@@ -1,4 +1,4 @@
--- VHDL Entity alien_game_lib.c4_t2_rolling_left.interface
+-- VHDL Entity alien_game_lib.c4_t2_rolling_left.symbol
 --
 -- Created:
 --          by - wirdatma.UNKNOWN (HTC219-704-SPC)

@@ -528,23 +528,23 @@ VExpander (VariableExpander
 vvMap [
 (vvPair
 variable "HDLDir"
-value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hdl"
+value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hdl"
 )
 (vvPair
 variable "HDSDir"
-value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds"
+value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds"
 )
 (vvPair
 variable "SideDataDesignDir"
-value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c3_t2_writer_seq_top_level\\symbol.sb.info"
+value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds\\c3_t2_writer_seq_top_level\\symbol.sb.info"
 )
 (vvPair
 variable "SideDataUserDir"
-value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c3_t2_writer_seq_top_level\\symbol.sb.user"
+value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds\\c3_t2_writer_seq_top_level\\symbol.sb.user"
 )
 (vvPair
 variable "SourceDir"
-value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds"
+value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds"
 )
 (vvPair
 variable "appl"
@@ -560,23 +560,23 @@ value "%(unit)_%(view)_config"
 )
 (vvPair
 variable "d"
-value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c3_t2_writer_seq_top_level"
+value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds\\c3_t2_writer_seq_top_level"
 )
 (vvPair
 variable "d_logical"
-value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c3_t2_writer_seq_top_level"
+value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds\\c3_t2_writer_seq_top_level"
 )
 (vvPair
 variable "date"
-value "21.11.2019"
+value "11/21/2019"
 )
 (vvPair
 variable "day"
-value "to"
+value "Thu"
 )
 (vvPair
 variable "day_long"
-value "torstai"
+value "Thursday"
 )
 (vvPair
 variable "dd"
@@ -604,11 +604,11 @@ value "symbol"
 )
 (vvPair
 variable "graphical_source_author"
-value "wirdatma"
+value "Thinkpad X1"
 )
 (vvPair
 variable "graphical_source_date"
-value "21.11.2019"
+value "11/21/2019"
 )
 (vvPair
 variable "graphical_source_group"
@@ -616,11 +616,11 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_host"
-value "HTC219-716-SPC"
+value "LENOVO-PC"
 )
 (vvPair
 variable "graphical_source_time"
-value "16:22:21"
+value "17:51:05"
 )
 (vvPair
 variable "group"
@@ -628,7 +628,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "HTC219-716-SPC"
+value "LENOVO-PC"
 )
 (vvPair
 variable "language"
@@ -656,19 +656,19 @@ value "c3_t2_writer_seq_top_level"
 )
 (vvPair
 variable "month"
-value "marras"
+value "Nov"
 )
 (vvPair
 variable "month_long"
-value "marraskuu"
+value "November"
 )
 (vvPair
 variable "p"
-value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c3_t2_writer_seq_top_level\\symbol.sb"
+value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds\\c3_t2_writer_seq_top_level\\symbol.sb"
 )
 (vvPair
 variable "p_logical"
-value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c3_t2_writer_seq_top_level\\symbol.sb"
+value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds\\c3_t2_writer_seq_top_level\\symbol.sb"
 )
 (vvPair
 variable "package_name"
@@ -692,7 +692,7 @@ value "<TBD>"
 )
 (vvPair
 variable "task_ModelSimPath"
-value "C:\\Apps\\MODELTECH_10.2C\\win32"
+value "C:\\modeltech_10.7d\\win32"
 )
 (vvPair
 variable "task_NC-SimPath"
@@ -724,7 +724,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "16:22:21"
+value "17:51:05"
 )
 (vvPair
 variable "unit"
@@ -732,7 +732,7 @@ value "c3_t2_writer_seq_top_level"
 )
 (vvPair
 variable "user"
-value "wirdatma"
+value "Thinkpad X1"
 )
 (vvPair
 variable "version"
@@ -1923,6 +1923,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 572,0
+lastUid 595,0
 activeModelName "Symbol:CDM"
 )
