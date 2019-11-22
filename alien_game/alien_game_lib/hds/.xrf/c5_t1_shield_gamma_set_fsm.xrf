@@ -226,10 +226,6 @@ GRAPHIC 951,0 120 0
 LIBRARY alien_game_lib
 DESIGN c5_t1_shield_gamma_set
 VIEW fsm.sm
-GRAPHIC 43,0 122 0
-LIBRARY alien_game_lib
-DESIGN c5_t1_shield_gamma_set
-VIEW fsm.sm
 GRAPHIC 93,0 123 0
 LIBRARY alien_game_lib
 DESIGN c5_t1_shield_gamma_set

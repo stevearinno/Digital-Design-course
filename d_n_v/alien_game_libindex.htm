@@ -1316,19 +1316,6 @@ function initialise() {
                    'alien_game_lib/c3_t2_fpga_implementation/struct_bd.htm',
                    'struct');
    nodes[3] = theMenu.addChild(nodes[2],
-                   'ComponentDu', 'c3_t2_fpga_tester',
-                   '',
-                   'c3_t2_fpga_tester');
-   theMenu.entry[nodes[3]].setAltType('spacer');
-   nodes[4] = theMenu.addChild(nodes[3],
-                   'Symbol', 'symbol',
-                   'alien_game_lib/c3_t2_fpga_tester/symbol_sb.htm',
-                   'symbol');
-   nodes[4] = theMenu.addChild(nodes[3],
-                   'BlockDiagramDef', 'struct',
-                   'alien_game_lib/c3_t2_fpga_tester/struct_bd.htm',
-                   'struct');
-   nodes[3] = theMenu.addChild(nodes[2],
                    'ComponentDu', 'c3_t2_write_sequencer',
                    '',
                    'c3_t2_write_sequencer');
@@ -1380,6 +1367,123 @@ function initialise() {
                    'BlockDiagramDef', 'struct',
                    'alien_game_lib/c3_t4_bullet_flight/struct_bd.htm',
                    'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c4_t1_hit_debounce',
+                   '',
+                   'c4_t1_hit_debounce');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c4_t1_hit_debounce/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'StateDiagramDef', 'fsm',
+                   'alien_game_lib/c4_t1_hit_debounce/fsm_sm.htm',
+                   'fsm');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c4_t1_hit_detector',
+                   '',
+                   'c4_t1_hit_detector');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c4_t1_hit_detector/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'BlockDiagramDef', 'struct',
+                   'alien_game_lib/c4_t1_hit_detector/struct_bd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c4_t2_rolling_left',
+                   '',
+                   'c4_t2_rolling_left');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c4_t2_rolling_left/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'BlockDiagramDef', 'struct',
+                   'alien_game_lib/c4_t2_rolling_left/struct_bd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c4_t2_victory_effect',
+                   '',
+                   'c4_t2_victory_effect');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c4_t2_victory_effect/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'BlockDiagramDef', 'struct',
+                   'alien_game_lib/c4_t2_victory_effect/struct_bd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c4_t3_hit_counter',
+                   '',
+                   'c4_t3_hit_counter');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c4_t3_hit_counter/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'BlockDiagramDef', 'struct',
+                   'alien_game_lib/c4_t3_hit_counter/struct_bd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c4_t3_pause_block',
+                   '',
+                   'c4_t3_pause_block');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c4_t3_pause_block/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'BlockDiagramDef', 'struct',
+                   'alien_game_lib/c4_t3_pause_block/struct_bd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c4_t4_shield_inital_reset',
+                   '',
+                   'c4_t4_shield_inital_reset');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c4_t4_shield_inital_reset/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'StateDiagramDef', 'fsm',
+                   'alien_game_lib/c4_t4_shield_inital_reset/fsm_sm.htm',
+                   'fsm');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c4_t5_serial_data_transmit',
+                   '',
+                   'c4_t5_serial_data_transmit');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c4_t5_serial_data_transmit/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'StateDiagramDef', 'fsm',
+                   'alien_game_lib/c4_t5_serial_data_transmit/fsm_sm.htm',
+                   'fsm');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c5_t1_shield_gamma_set',
+                   '',
+                   'c5_t1_shield_gamma_set');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c5_t1_shield_gamma_set/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'StateDiagramDef', 'fsm',
+                   'alien_game_lib/c5_t1_shield_gamma_set/fsm_sm.htm',
+                   'fsm');
    nodes[2] = theMenu.addChild(nodes[1],
                    'Folder', 'HDL Files',
                    '',
