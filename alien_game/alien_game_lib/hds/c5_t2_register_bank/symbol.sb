@@ -270,49 +270,49 @@ uid 112,0
 )
 *33 (MRCItem
 litem &17
-pos 3
+pos 10
 dimension 20
 uid 114,0
 )
 *34 (MRCItem
 litem &18
-pos 4
+pos 3
 dimension 20
 uid 116,0
 )
 *35 (MRCItem
 litem &19
-pos 5
+pos 4
 dimension 20
 uid 118,0
 )
 *36 (MRCItem
 litem &20
-pos 6
+pos 5
 dimension 20
 uid 120,0
 )
 *37 (MRCItem
 litem &21
-pos 7
+pos 6
 dimension 20
 uid 122,0
 )
 *38 (MRCItem
 litem &22
-pos 8
+pos 7
 dimension 20
 uid 124,0
 )
 *39 (MRCItem
 litem &23
-pos 9
+pos 8
 dimension 20
 uid 126,0
 )
 *40 (MRCItem
 litem &24
-pos 10
+pos 9
 dimension 20
 uid 128,0
 )
@@ -545,23 +545,23 @@ VExpander (VariableExpander
 vvMap [
 (vvPair
 variable "HDLDir"
-value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hdl"
+value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hdl"
 )
 (vvPair
 variable "HDSDir"
-value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds"
+value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds"
 )
 (vvPair
 variable "SideDataDesignDir"
-value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds\\c5_t2_register_bank\\symbol.sb.info"
+value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c5_t2_register_bank\\symbol.sb.info"
 )
 (vvPair
 variable "SideDataUserDir"
-value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds\\c5_t2_register_bank\\symbol.sb.user"
+value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c5_t2_register_bank\\symbol.sb.user"
 )
 (vvPair
 variable "SourceDir"
-value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds"
+value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds"
 )
 (vvPair
 variable "appl"
@@ -577,27 +577,27 @@ value "%(unit)_%(view)_config"
 )
 (vvPair
 variable "d"
-value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds\\c5_t2_register_bank"
+value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c5_t2_register_bank"
 )
 (vvPair
 variable "d_logical"
-value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds\\c5_t2_register_bank"
+value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c5_t2_register_bank"
 )
 (vvPair
 variable "date"
-value "11/22/2019"
+value "27.11.2019"
 )
 (vvPair
 variable "day"
-value "Fri"
+value "ke"
 )
 (vvPair
 variable "day_long"
-value "Friday"
+value "keskiviikko"
 )
 (vvPair
 variable "dd"
-value "22"
+value "27"
 )
 (vvPair
 variable "entity_name"
@@ -621,11 +621,11 @@ value "symbol"
 )
 (vvPair
 variable "graphical_source_author"
-value "Thinkpad X1"
+value "wirdatma"
 )
 (vvPair
 variable "graphical_source_date"
-value "11/22/2019"
+value "27.11.2019"
 )
 (vvPair
 variable "graphical_source_group"
@@ -633,11 +633,11 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_host"
-value "LENOVO-PC"
+value "HTC219-709-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "19:51:36"
+value "15:01:33"
 )
 (vvPair
 variable "group"
@@ -645,7 +645,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "LENOVO-PC"
+value "HTC219-709-SPC"
 )
 (vvPair
 variable "language"
@@ -673,19 +673,19 @@ value "c5_t2_register_bank"
 )
 (vvPair
 variable "month"
-value "Nov"
+value "marras"
 )
 (vvPair
 variable "month_long"
-value "November"
+value "marraskuu"
 )
 (vvPair
 variable "p"
-value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds\\c5_t2_register_bank\\symbol.sb"
+value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c5_t2_register_bank\\symbol.sb"
 )
 (vvPair
 variable "p_logical"
-value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds\\c5_t2_register_bank\\symbol.sb"
+value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c5_t2_register_bank\\symbol.sb"
 )
 (vvPair
 variable "package_name"
@@ -709,7 +709,7 @@ value "<TBD>"
 )
 (vvPair
 variable "task_ModelSimPath"
-value "C:\\modeltech_10.7d\\win32"
+value "C:\\Apps\\MODELTECH_10.2C\\win32"
 )
 (vvPair
 variable "task_NC-SimPath"
@@ -741,7 +741,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "19:51:36"
+value "15:01:33"
 )
 (vvPair
 variable "unit"
@@ -749,7 +749,7 @@ value "c5_t2_register_bank"
 )
 (vvPair
 variable "user"
-value "Thinkpad X1"
+value "wirdatma"
 )
 (vvPair
 variable "version"
@@ -1978,6 +1978,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 322,0
+lastUid 345,0
 activeModelName "Symbol:CDM"
 )

@@ -15,369 +15,402 @@ VIEW symbol.sb
 GRAPHIC 130,0 16 0 
 DESIGN c5_t2_register_row
 VIEW symbol.sb
-GRAPHIC 125,0 17 0 
+GRAPHIC 440,0 17 0 
 DESIGN c5_t2_register_row
 VIEW symbol.sb
-GRAPHIC 175,0 18 0 
+GRAPHIC 125,0 18 0 
 DESIGN c5_t2_register_row
 VIEW symbol.sb
-GRAPHIC 135,0 19 0 
+GRAPHIC 175,0 19 0 
 DESIGN c5_t2_register_row
 VIEW symbol.sb
-GRAPHIC 205,0 20 0 
+GRAPHIC 410,0 20 0 
 DESIGN c5_t2_register_row
 VIEW symbol.sb
-GRAPHIC 140,0 21 0 
+GRAPHIC 205,0 21 0 
 DESIGN c5_t2_register_row
 VIEW symbol.sb
-GRAPHIC 1,0 24 0 
+GRAPHIC 140,0 22 0 
 DESIGN c5_t2_register_row
 VIEW symbol.sb
 GRAPHIC 1,0 25 0 
 DESIGN c5_t2_register_row
-VIEW struct.bd
-NO_GRAPHIC 28
+VIEW symbol.sb
+GRAPHIC 1,0 26 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 137,0 37 0 
+NO_GRAPHIC 29
 DESIGN c5_t2_register_row
 VIEW struct.bd
-NO_GRAPHIC 40
+GRAPHIC 137,0 38 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 0,0 43 2 
+NO_GRAPHIC 41
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1089,0 48 0 
+GRAPHIC 0,0 44 2 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1095,0 49 0 
+GRAPHIC 1089,0 49 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1101,0 50 0 
+GRAPHIC 1095,0 50 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1107,0 51 0 
+GRAPHIC 1101,0 51 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1113,0 52 0 
+GRAPHIC 1107,0 52 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1119,0 53 0 
+GRAPHIC 1113,0 53 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1125,0 54 0 
+GRAPHIC 1119,0 54 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1131,0 55 0 
+GRAPHIC 1125,0 55 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1669,0 56 0 
+GRAPHIC 1131,0 56 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1675,0 57 0 
+GRAPHIC 1669,0 57 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1681,0 58 0 
+GRAPHIC 1675,0 58 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1687,0 59 0 
+GRAPHIC 1681,0 59 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1693,0 60 0 
+GRAPHIC 1687,0 60 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1699,0 61 0 
+GRAPHIC 1693,0 61 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1705,0 62 0 
+GRAPHIC 1699,0 62 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1723,0 63 0 
+GRAPHIC 1705,0 63 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1274,0 64 0 
+GRAPHIC 1723,0 64 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1280,0 65 0 
+GRAPHIC 1274,0 65 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1286,0 66 0 
+GRAPHIC 1280,0 66 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1292,0 67 0 
+GRAPHIC 1286,0 67 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1298,0 68 0 
+GRAPHIC 1292,0 68 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1304,0 69 0 
+GRAPHIC 1298,0 69 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1310,0 70 0 
+GRAPHIC 1304,0 70 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1316,0 71 0 
+GRAPHIC 1310,0 71 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-NO_GRAPHIC 72
+GRAPHIC 1316,0 72 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-NO_GRAPHIC 73
+GRAPHIC 2115,0 73 0 
+DESIGN c5_t2_register_row
+VIEW struct.bd
+NO_GRAPHIC 74
+DESIGN c5_t2_register_row
+VIEW struct.bd
+NO_GRAPHIC 75
 LIBRARY alien_game_lib
 DESIGN c5_t2_register_single
 VIEW struct
-GRAPHIC 229,0 75 0 
+GRAPHIC 229,0 77 0 
 DESIGN c5_t2_register_single
 VIEW symbol.sb
-GRAPHIC 268,0 77 0 
+GRAPHIC 268,0 79 0 
 DESIGN c5_t2_register_single
 VIEW symbol.sb
-GRAPHIC 273,0 78 0 
+GRAPHIC 273,0 80 0 
 DESIGN c5_t2_register_single
 VIEW symbol.sb
-GRAPHIC 278,0 79 0 
+GRAPHIC 278,0 81 0 
 DESIGN c5_t2_register_single
 VIEW symbol.sb
-GRAPHIC 288,0 80 0 
+GRAPHIC 335,0 82 0 
 DESIGN c5_t2_register_single
 VIEW symbol.sb
-GRAPHIC 293,0 81 0 
+GRAPHIC 288,0 83 0 
 DESIGN c5_t2_register_single
 VIEW symbol.sb
-GRAPHIC 283,0 82 0 
+GRAPHIC 293,0 84 0 
+DESIGN c5_t2_register_single
+VIEW symbol.sb
+GRAPHIC 283,0 85 0 
 LIBRARY alien_game_lib
 DESIGN c5_t2_register_row
 VIEW struct.bd
-NO_GRAPHIC 85
+NO_GRAPHIC 88
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 229,0 88 0 
+GRAPHIC 229,0 91 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-NO_GRAPHIC 91
+NO_GRAPHIC 94
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 697,0 93 0 
+GRAPHIC 697,0 96 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 706,0 96 0 
+GRAPHIC 706,0 99 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 743,0 99 0 
+GRAPHIC 743,0 102 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 780,0 102 0 
+GRAPHIC 780,0 105 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 817,0 105 0 
+GRAPHIC 817,0 108 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 854,0 108 0 
+GRAPHIC 854,0 111 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 891,0 111 0 
+GRAPHIC 891,0 114 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 928,0 114 0 
+GRAPHIC 928,0 117 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1395,0 117 0 
+GRAPHIC 1395,0 120 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1404,0 120 0 
+GRAPHIC 1404,0 123 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1441,0 123 0 
+GRAPHIC 1441,0 126 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1478,0 126 0 
+GRAPHIC 1478,0 129 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1515,0 129 0 
+GRAPHIC 1515,0 132 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1552,0 132 0 
+GRAPHIC 1552,0 135 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1589,0 135 0 
+GRAPHIC 1589,0 138 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1626,0 138 0 
+GRAPHIC 1626,0 141 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1204,0 141 0 
+GRAPHIC 1204,0 144 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-NO_GRAPHIC 160
+NO_GRAPHIC 163
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 229,0 162 0 
+GRAPHIC 229,0 165 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 15,0 164 0 
+GRAPHIC 15,0 167 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1665,0 165 0 
+GRAPHIC 1665,0 168 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 43,0 166 0 
+GRAPHIC 43,0 169 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 571,0 167 0 
+GRAPHIC 2075,0 170 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1133,0 168 0 
+GRAPHIC 571,0 171 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1318,0 169 0 
+GRAPHIC 1133,0 172 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 239,0 171 0 
+GRAPHIC 1318,0 173 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 529,0 173 0 
+GRAPHIC 239,0 175 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1671,0 174 0 
+GRAPHIC 529,0 177 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 663,0 175 0 
+GRAPHIC 1671,0 178 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 565,0 176 0 
+GRAPHIC 663,0 179 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1127,0 177 0 
+GRAPHIC 2079,0 180 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1312,0 178 0 
+GRAPHIC 565,0 181 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 273,0 180 0 
+GRAPHIC 1127,0 182 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 523,0 182 0 
+GRAPHIC 1312,0 183 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1677,0 183 0 
+GRAPHIC 273,0 185 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 657,0 184 0 
+GRAPHIC 523,0 187 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 559,0 185 0 
+GRAPHIC 1677,0 188 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1121,0 186 0 
+GRAPHIC 657,0 189 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1306,0 187 0 
+GRAPHIC 2085,0 190 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 307,0 189 0 
+GRAPHIC 559,0 191 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 517,0 191 0 
+GRAPHIC 1121,0 192 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1683,0 192 0 
+GRAPHIC 1306,0 193 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 651,0 193 0 
+GRAPHIC 307,0 195 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 553,0 194 0 
+GRAPHIC 517,0 197 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1115,0 195 0 
+GRAPHIC 1683,0 198 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1300,0 196 0 
+GRAPHIC 651,0 199 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 341,0 198 0 
+GRAPHIC 2091,0 200 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 511,0 200 0 
+GRAPHIC 553,0 201 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1689,0 201 0 
+GRAPHIC 1115,0 202 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 645,0 202 0 
+GRAPHIC 1300,0 203 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 547,0 203 0 
+GRAPHIC 341,0 205 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1109,0 204 0 
+GRAPHIC 511,0 207 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1294,0 205 0 
+GRAPHIC 1689,0 208 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 375,0 207 0 
+GRAPHIC 645,0 209 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 505,0 209 0 
+GRAPHIC 2097,0 210 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1695,0 210 0 
+GRAPHIC 547,0 211 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 639,0 211 0 
+GRAPHIC 1109,0 212 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 541,0 212 0 
+GRAPHIC 1294,0 213 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1103,0 213 0 
+GRAPHIC 375,0 215 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1288,0 214 0 
+GRAPHIC 505,0 217 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 409,0 216 0 
+GRAPHIC 1695,0 218 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 499,0 218 0 
+GRAPHIC 639,0 219 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1701,0 219 0 
+GRAPHIC 2103,0 220 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 633,0 220 0 
+GRAPHIC 541,0 221 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 71,0 221 0 
+GRAPHIC 1103,0 222 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1097,0 222 0 
+GRAPHIC 1288,0 223 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1282,0 223 0 
+GRAPHIC 409,0 225 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 443,0 225 0 
+GRAPHIC 499,0 227 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 493,0 227 0 
+GRAPHIC 1701,0 228 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1707,0 228 0 
+GRAPHIC 633,0 229 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 627,0 229 0 
+GRAPHIC 2109,0 230 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 535,0 230 0 
+GRAPHIC 71,0 231 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1091,0 231 0 
+GRAPHIC 1097,0 232 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-GRAPHIC 1276,0 232 0 
+GRAPHIC 1282,0 233 0 
 DESIGN c5_t2_register_row
 VIEW struct.bd
-NO_GRAPHIC 235
+GRAPHIC 443,0 235 0 
+DESIGN c5_t2_register_row
+VIEW struct.bd
+GRAPHIC 493,0 237 0 
+DESIGN c5_t2_register_row
+VIEW struct.bd
+GRAPHIC 1707,0 238 0 
+DESIGN c5_t2_register_row
+VIEW struct.bd
+GRAPHIC 627,0 239 0 
+DESIGN c5_t2_register_row
+VIEW struct.bd
+GRAPHIC 2117,0 240 0 
+DESIGN c5_t2_register_row
+VIEW struct.bd
+GRAPHIC 535,0 241 0 
+DESIGN c5_t2_register_row
+VIEW struct.bd
+GRAPHIC 1091,0 242 0 
+DESIGN c5_t2_register_row
+VIEW struct.bd
+GRAPHIC 1276,0 243 0 
+DESIGN c5_t2_register_row
+VIEW struct.bd
+NO_GRAPHIC 246
