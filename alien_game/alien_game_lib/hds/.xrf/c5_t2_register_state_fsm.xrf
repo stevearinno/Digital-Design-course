@@ -263,19 +263,19 @@ GRAPHIC 590,0 133 0
 LIBRARY alien_game_lib
 DESIGN c5_t2_register_state
 VIEW fsm.sm
-GRAPHIC 609,0 135 0
+GRAPHIC 609,0 136 0
 LIBRARY alien_game_lib
 DESIGN c5_t2_register_state
 VIEW fsm.sm
-GRAPHIC 624,0 136 0
+GRAPHIC 624,0 137 0
 LIBRARY alien_game_lib
 DESIGN c5_t2_register_state
 VIEW fsm.sm
-GRAPHIC 646,0 137 0
+GRAPHIC 646,0 138 0
 LIBRARY alien_game_lib
 DESIGN c5_t2_register_state
 VIEW fsm.sm
-GRAPHIC 661,0 138 0
+GRAPHIC 661,0 139 0
 LIBRARY alien_game_lib
 DESIGN c5_t2_register_state
 VIEW fsm.sm

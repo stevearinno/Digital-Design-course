@@ -450,23 +450,23 @@ VExpander (VariableExpander
 vvMap [
 (vvPair
 variable "HDLDir"
-value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hdl"
+value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hdl"
 )
 (vvPair
 variable "HDSDir"
-value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds"
+value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds"
 )
 (vvPair
 variable "SideDataDesignDir"
-value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c5_t2_register_state\\symbol.sb.info"
+value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds\\c5_t2_register_state\\symbol.sb.info"
 )
 (vvPair
 variable "SideDataUserDir"
-value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c5_t2_register_state\\symbol.sb.user"
+value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds\\c5_t2_register_state\\symbol.sb.user"
 )
 (vvPair
 variable "SourceDir"
-value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds"
+value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds"
 )
 (vvPair
 variable "appl"
@@ -482,23 +482,23 @@ value "%(unit)_%(view)_config"
 )
 (vvPair
 variable "d"
-value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c5_t2_register_state"
+value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds\\c5_t2_register_state"
 )
 (vvPair
 variable "d_logical"
-value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c5_t2_register_state"
+value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds\\c5_t2_register_state"
 )
 (vvPair
 variable "date"
-value "27.11.2019"
+value "11/27/2019"
 )
 (vvPair
 variable "day"
-value "ke"
+value "Wed"
 )
 (vvPair
 variable "day_long"
-value "keskiviikko"
+value "Wednesday"
 )
 (vvPair
 variable "dd"
@@ -526,11 +526,11 @@ value "symbol"
 )
 (vvPair
 variable "graphical_source_author"
-value "wirdatma"
+value "Thinkpad X1"
 )
 (vvPair
 variable "graphical_source_date"
-value "27.11.2019"
+value "11/27/2019"
 )
 (vvPair
 variable "graphical_source_group"
@@ -538,11 +538,11 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_host"
-value "HTC219-709-SPC"
+value "LENOVO-PC"
 )
 (vvPair
 variable "graphical_source_time"
-value "15:28:34"
+value "21:13:02"
 )
 (vvPair
 variable "group"
@@ -550,7 +550,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "HTC219-709-SPC"
+value "LENOVO-PC"
 )
 (vvPair
 variable "language"
@@ -578,19 +578,19 @@ value "c5_t2_register_state"
 )
 (vvPair
 variable "month"
-value "marras"
+value "Nov"
 )
 (vvPair
 variable "month_long"
-value "marraskuu"
+value "November"
 )
 (vvPair
 variable "p"
-value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c5_t2_register_state\\symbol.sb"
+value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds\\c5_t2_register_state\\symbol.sb"
 )
 (vvPair
 variable "p_logical"
-value "P:\\DigitalDesign\\alien_game\\alien_game_lib\\hds\\c5_t2_register_state\\symbol.sb"
+value "C:\\Users\\Thinkpad X1\\Documents\\GitHub\\Digital Design course\\alien_game\\alien_game_lib\\hds\\c5_t2_register_state\\symbol.sb"
 )
 (vvPair
 variable "package_name"
@@ -614,7 +614,7 @@ value "<TBD>"
 )
 (vvPair
 variable "task_ModelSimPath"
-value "C:\\Apps\\MODELTECH_10.2C\\win32"
+value "C:\\modeltech_10.7d\\win32"
 )
 (vvPair
 variable "task_NC-SimPath"
@@ -646,7 +646,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "15:28:34"
+value "21:13:02"
 )
 (vvPair
 variable "unit"
@@ -654,7 +654,7 @@ value "c5_t2_register_state"
 )
 (vvPair
 variable "user"
-value "wirdatma"
+value "Thinkpad X1"
 )
 (vvPair
 variable "version"
@@ -1041,7 +1041,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "36200,48000,48100,49000"
+xt "36200,48000,48000,49000"
 st "
 by %user on %dd %month %year
 "
@@ -1657,6 +1657,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 599,0
+lastUid 668,0
 activeModelName "Symbol:CDM"
 )
